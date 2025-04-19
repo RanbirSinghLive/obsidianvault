@@ -1,0 +1,21 @@
+# The Ultimate Guide To Start Writing With Obsidian + AI 
+
+- What is Obsidian AI Writer
+	- Obsidian AI Writer is an Obsidian Vault that comes pre-customized with the tools you need to start writing daily with AI assistance. Nothing Else.
+	- This guide walks you through:
+		- Installing Obsidian
+		- Setting Up a new vault
+		- Essential plug-ins for writing
+		- Essential file structure
+		- AI Integration
+		- Using simple AI prompts in Obsidian
+		- Tips on scaling your system with time
+- Installing Obsidian
+	- Go to [Obsidian](https://obsidian.md/)'s website and install the latest version
+- Setting Up A New Vault
+	- 
+- Vault
+- Plugins
+- Plugin Settings
+- Prompting
+- Use Cases
