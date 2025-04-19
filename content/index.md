@@ -1,7 +1,8 @@
 ---
-publish: "true"
----
 
+publish: true
+
+---
 
 ![[GOLDEN HOUR 1.png|200]]
 
