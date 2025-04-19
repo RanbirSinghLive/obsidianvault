@@ -1,1 +1,0 @@
-When I moved to Montreal I was thrown a million objections by people I discussed it with. They said a lot more them than me. I was using them to steelman myself. I.e language, weather, tax.

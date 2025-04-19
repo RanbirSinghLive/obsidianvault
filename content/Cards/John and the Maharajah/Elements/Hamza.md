@@ -1,1 +1,0 @@
-He is the leader of the caravan that they attach themselves to.

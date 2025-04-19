@@ -1,3 +1,0 @@
----
-fileClass: Flamingo, Setting
----

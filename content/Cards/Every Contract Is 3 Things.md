@@ -1,3 +1,0 @@
-- Mandate
-- Incentives 
-- Risk

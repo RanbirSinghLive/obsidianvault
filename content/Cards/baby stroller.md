@@ -1,1 +1,0 @@
-Use this as a gag later. A woman peers down to see the supposed baby, but it's full of turnips.
