@@ -1,0 +1,15 @@
+
+- Act 1 - Set-up (25%) - Introduce core conflict
+	- The Hook - grab attention
+	- Inciting Event - conflict
+	- Key Event - protagonist involved in the conflict
+	- 1st Plot Point - point of no return
+- Act 2 - Confrontation (25-75%)
+	- 1st Pinch Point - reinforces confict
+	- Midpoint - protagonist gains agency
+	- 2nd Pinch Point - humbles protagonist
+	- 3rd Plot Point - protagonist's darkest hour
+- Act 3 - Resolution (75-100%)
+	- Climax: race to resolution
+	- Climactic Moment: victory or defeat
+	- Resolution: pick up the pieces

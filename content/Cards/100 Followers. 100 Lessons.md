@@ -1,0 +1,114 @@
+---
+review-frequency: low
+---
+
+#🪴
+
+I just hit 100 followers.
+
+Here are 100 lessons I would teach my zero-follower self:
+
+- Followers are a lagging indicator of your success
+- Write down 1 important task, get it done & cross it out. Repeat
+- Drink more water
+---
+- Those hours you spent brainstorming a niche could’ve been spent writing & shipping
+- Write down your wins. You’ll need to draw from them sooner than you think.
+- If you worry about your boss finding out about your Twitter account, you’re either living a lie online or at work. Figure out which & address it
+- It’s not clickbait if you back it up @Nicolascole77
+- Niches are meant to be iterated.
+	- Here are my past iterations:
+		- Middle Manager
+		- The Networker
+		- Content Operations
+		- Digital Writing Coach
+		- Ranbir Singh
+- Nuance doesn't scale @jackbutcher
+- Evergreen content compounds. Timely content gets attention. Use both.
+- The more you engage & tweet, the faster you grow. This is as true as the laws of physics.
+- Writing is the highest leverage activity. 
+- Notion is a procrastination system disguised as a productivity system.
+- Your hooks should illicit an extraordinary reaction. If they go 'meh' they scroll.
+- Twitter is just psychology at scale @thekierandrew
+- High-growth days are followed immediately by low-growth days
+- Identifying ideas & writing them down throughout the day is a 6th sense
+- The Novelty Paradox: No idea is new but we're all unique
+- Aim for something bigger than starting a Twitter growth course
+- Doing > Writing > Talking > Thinking
+- Don't solely tweet about tweeting. That gets old fast.
+- Don't set goals. Embody an identity & ask 'what would they do?'
+- You have a maximum of 80 years left to live. Act like it.
+- Balance depth & width
+- No matter how high-brow of a writer you think you are, you need to write 'likebait' to reach people
+- Antisocial writers are bad writers. The best writing comes from social experience
+- Tweet 80% growth, 10% authority & 10% personality
+- Picking a sick domain name is an excellent hack to start a business idea
+- Write down every question you're asked online & see what patterns emerge
+- Learn the Decoy Effect before you price any offer
+- Most people have 3,000 unread emails & no to-do list. Help them.
+- Don't hate the player, play the game
+- Make decisions easy for busy people & you will win @perell
+- Positive Feedback loops are powerful or dangerous (depending on the input)
+- A lot of things are considered true only because everyone considers them true
+- Nobody cares about anything you do. This should be [[freeing]]
+- There's an optimal level of stress. And it isn't zero.
+- Do things that don't scale @paulg
+- Experiments aren't meant to succeed. They're meant to gather data.
+- You don't pick a niche just like you don't pick a passion. They're both discovered through exploration
+- You need to pick an audience whose problems you don’t mind living in all day long
+- You want to read minds and make them think ‘how did he know I was thinking that?’
+- The more you know, the more you realize you don’t know.
+- You never 'get there.' You become the newest member of a different club @alexhormozi 
+- Read the oldest work in your field (I'm talking 1800s here)
+- Send 1 cold DM a day
+- Exciting events only make up 10% of your life. Focus on [[Get the mundane things right|getting the mundane things]] right to live a good one.
+- Give People What They Want, So You Can Give Them What They Need @alexhormozi 
+- Having a stable job is underrated on Twitter & overrated off Twitter
+- If you can turn it into a video game, you'll win at it over time
+- If you're skilled in English, you have a global competitive advantage
+- Nobody's listening until you can prove credibility
+- Say the same thing 1,000 different ways. It won't click for some people until #963
+- Your environment determines your destiny more than you'd like to admit
+- If you read a landing page & buy the product, handcopy every word of it to learn why
+- Lean into embarrassment to accelerate growth
+- Some problems call for surgery, and some just call for a triage nurse
+- If you look forward to Mondays, you should be grateful
+- Make sure you're not fooling yourself
+- If something can't be quantified, it doesn't mean it isn't important
+- Middle managers get a bad rap
+- Think about what you want your ideal life to be & then write your way towards it
+- Twitter & OnlyFans both allow you to create content while naked
+- Do what feels like play to you but feels like work to others @naval
+- Being a politician is hard because anytime you speak you need to try to appeal to both 33-year-old me and my 80-year-old uncle
+- On a related note, If you're talking to everyone, you're talking to no one
+- [[Journalling is time travel |Journaling is the closest thing to time travel we have]]
+- Solve your own problems & should people how you did it. That's all you need to do to succeed on Twitter @thedankoe
+- [[Resume | Personal website > paper resume]]
+- Storytelling is just writing about change over time
+- Failure is more compelling than success
+- Build a swipe file
+- Most truth facts can be paired with equally true yet contradictory facts
+- If you can't explain something to a 5-year-old, you are not a master
+- I wrote most of this thread by browsing my 2nd brain in Obsidian for ideas I've captured & written. It's only after a year of this habit that I'm feeling the true compounding benefit
+- The internet is simultaneously centralizing and decentralizing. Elite creators win consistently yet new niche creators are born everyday @perell
+- The only true test of intelligence is if you get what you want out of life
+- The perfect business: "Something that costs a penny, can sell for a dollar and is habit forming." @alexhormozi
+- You're not 'buying time.' You are only reallocating it
+- Offers are a waste of time at <100 followers. Just tweet & engage.
+- Do your potential audience a favour & build a good bio (pic, copy, banner)
+- Ask people to R/T & follow at the end of a thread. It actually helps
+- Wake up at the same time everyday
+- Most Twitter advice is for 21 year-olds. Adjust accordingly to your life stage
+- You're special enough to have something to write about, but not special enough that the rules of hard work don't apply to you
+- Having enough is a rebellious act
+- The only Personal Finance advice you need could fit on an index card, but fintwit can turn that into years of content. Learn from that
+- Make your daily habits frictionless enough to continue on vacation. Vacations are habit killers
+- Don't follow anyone's advice to the letter. You are meant to apply it to your situation. That's the whole point of this
+- Spend some time writing out your backstory in a compelling way. This will help you position yourself to your audience
+- Get used to asking & answering the 'big questions' (meaning of life, core values) You'll need these solid as you get older
+- Being Good at Something Doesn’t Mean You Can or should Do it as a Business
+- A zettelkasten requires years of effort before it pays off
+- Take your notebook everywhere so you can take notes everywhere
+- Don't be tempted by simple answers to complex problems (even though they do make for good tweets)
+- Your journal is for yourself. Your tweets are for your audience
+

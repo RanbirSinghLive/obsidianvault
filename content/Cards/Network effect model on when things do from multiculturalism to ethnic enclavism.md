@@ -1,0 +1,2 @@
+- The Line the week of 25OCT24 Gurney says Canada ruined a model of multiculturalism with the last few years. Can we reverse engineer the tipping point?
+- Was it a number, a % of pop, ethnic diviersity of the immigrants, or it is related to resources available to everyone. Probably the latter.

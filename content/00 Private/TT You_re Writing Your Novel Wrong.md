@@ -1,0 +1,12 @@
+- using microsoft word to start writing your novel is not the wave
+- It'd be great if your brain worked like this, but it doesn't
+- Write like you think - asynchronously 
+- I use Obsidian
+- Create a note, link it to other notes
+- Don't impose a structure on your work until you're ready to hit publish
+- Don't use more than a few folders, use backlinks & tags
+- This leaves your notes ready to connect in surprising ways
+- Let your novel grow organically
+- Once you've got a solid organic structure & pages of notes, you can then start moving to a more traditional word processor if you like,
+	- but at this point you'll probably be in love with Obsidian & not turning back
+- I write a newsletter about writing my 1st novel in Obsidian. Link to bio

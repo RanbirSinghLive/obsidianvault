@@ -1,0 +1,258 @@
+> [!tldr] **Echo chambers are disastrous for finding meaningful connection and growth. They warp your mind personally just as much as they do politically. Here is a system to set up the opposite - a de-enforcing feedback loop for your beliefs. Echo chambers are the result of good systems taken too far**
+
+
+
+- ### Systems Theory Brief
+	- [[Systems Theory]] is the study of cohesive groups of interrelated, interdependent parts (natural or man-made)
+	- a system can become more than the sum of it's parts through [[synergy]] or [[Emergence]]
+	- Sytems Theory is interdisciplinary - ranging from applications in biology to sociology
+	- [[systems psychology]] is most relevant here
+	- it looks at human behaviour and experience as [[complex system]]s
+	- people are in [[homeostasis]] - at a steady state of internal conditions
+		- this is an optimal state of functioning
+	- [[dynamic homeostasis]] - when the equilibrium changes in pace with growth and chaos. constantly reconciling your state
+		**- this is where gratitude can help in line with seeking discomfort**
+- ### Feedback Loops in Systems
+	- [[Feedback Loops]] are the process that allows systems to self-correct based on observations of current state
+	- perceptual control theory states that homeostasis is maintained through [[negative feedback loops]]
+		- these are balancing mechanisms where the output is fed back in a manner that reduces fluctuations in output - which were initially caused by changes in the input or other disturbances
+		- negative loops promote stability
+		- [[positive feedback loops]] promote instability via exponential growth, oscillation or chaotic behaviour
+	- **In our understanding of echo chambers, negative loops are good due to balancing and positive bad due to reinforcing**
+	- Positive loops amplify small disturbances. a produces more of b which then produces more of A
+- ### Positive Feedback on Childhood learning
+	-Winner (1996) described gifted children as driven by positive feedback loops involving setting their own learning course, this feeding back satisfaction, thus further setting their learning goals to higher levels and so on.[[40]](https://en.wikipedia.org/wiki/Positive_feedback#cite_note-Winner1996-40) Winner termed this positive feedback loop as a "rage to master." Vandervert (2009a, 2009b) proposed that the [child prodigy](https://en.wikipedia.org/wiki/Child_prodigy "Child prodigy") can be explained in terms of a positive feedback loop between the output of thinking/performing in [working memory](https://en.wikipedia.org/wiki/Working_memory "Working memory"), which then is fed to the [cerebellum](https://en.wikipedia.org/wiki/Cerebellum "Cerebellum") where it is streamlined, and then fed back to working memory thus steadily increasing the quantitative and qualitative output of working memory.[[41]](https://en.wikipedia.org/wiki/Positive_feedback#cite_note-Vandervert2009a-41)[[42]](https://en.wikipedia.org/wiki/Positive_feedback#cite_note-Vandervert2009b-42)Vandervert also argued that this working memory/cerebellar positive feedback loop was responsible for [language](https://en.wikipedia.org/wiki/Language "Language") evolution in working memory.
+- ### Positive Feedback in Sociology
+	- A [self-fulfilling prophecy](https://en.wikipedia.org/wiki/Self-fulfilling_prophecy "Self-fulfilling prophecy") is a social positive feedback loop between beliefs and behavior: if enough people believe that something is true, their behavior can make it true, and observations of their behavior may in turn increase belief. A classic example is a [bank run](https://en.wikipedia.org/wiki/Bank_run "Bank run").
+	- Another sociological example of positive feedback is the [network effect](https://en.wikipedia.org/wiki/Network_effect "Network effect"). When more people are encouraged to join a network this increases the reach of the network therefore the network expands ever more quickly. A [viral video](https://en.wikipedia.org/wiki/Viral_video "Viral video") is an example of the network effect in which [links](https://en.wikipedia.org/wiki/Hyperlink "Hyperlink") to a popular video are shared and redistributed, ensuring that more people see the video and then re-publish the links. This is the basis for many social phenomena, including [Ponzi schemes](https://en.wikipedia.org/wiki/Ponzi_scheme "Ponzi scheme") and [chain letters](https://en.wikipedia.org/wiki/Chain_letter "Chain letter"). In many cases population size is the limiting factor to the feedback effect.
+- ### Virtuous & Vicious Cycles
+	- The terms **virtuous circle** and **vicious circle** refer to complex [chains of events](https://en.wikipedia.org/wiki/Event_chain "Event chain") that reinforce themselves through a [feedback loop](https://en.wikipedia.org/wiki/Feedback_loop "Feedback loop").[[1]](https://en.wikipedia.org/wiki/Virtuous_circle_and_vicious_circle#cite_note-1) A _virtuous_circle has favorable results, while a _vicious_ circle has detrimental results.
+	- Both circles are complex chains of events with no tendency toward [equilibrium](https://en.wikipedia.org/wiki/List_of_types_of_equilibrium "List of types of equilibrium")([social](https://en.wikipedia.org/wiki/Social_equilibrium "Social equilibrium"), [economic](https://en.wikipedia.org/wiki/Economic_equilibrium "Economic equilibrium"), [ecological](https://en.wikipedia.org/wiki/Ecological_equilibrium "Ecological equilibrium"), etc.)—at least in the short run. Both systems of events have feedback loops in which each iteration of the cycle reinforces the previous one ([positive feedback](https://en.wikipedia.org/wiki/Positive_feedback "Positive feedback")). These cycles will continue in the direction of their momentum until an external factor intervenes and breaks the cycle.
+	- A well-known example of a vicious circle in economics is [hyperinflation](https://en.wikipedia.org/wiki/Hyperinflation "Hyperinflation").
+- ### Matthew Effect
+	- the richer get richer and the poor get poorer
+	- the more you have the more you can risk for greater reward
+	- named after two passages in the bible
+	- For to every one who has will more be given, and he will have abundance; but from him who has not, even what he has will be taken away.
+	- — [Matthew](https://en.wikipedia.org/wiki/Gospel_of_Matthew "Gospel of Matthew") 25:29, [RSV](https://en.wikipedia.org/wiki/Revised_Standard_Version "Revised Standard Version").
+	- Related to [[Network Science]]
+		- In [network science](https://en.wikipedia.org/wiki/Network_science "Network science"), the Matthew effect is used to describe the [preferential attachment](https://en.wikipedia.org/wiki/Preferential_attachment "Preferential attachment") of earlier nodes in a network, which explains that these nodes tend to attract more links early on.[[16]](https://en.wikipedia.org/wiki/Matthew_effect#cite_note-Barabasi1999-16) "Because of preferential attachment, a node that acquires more connections than another one will increase its connectivity at a higher rate, and thus an initial difference in the connectivity between two nodes will increase further as the network grows, while the degree of individual nodes will grow proportional with the square root of time."[[6]](https://en.wikipedia.org/wiki/Matthew_effect#cite_note-Perc2014-6) The Matthew Effect therefore explains the growth of some nodes in vast networks such as the Internet.[[17]](https://en.wikipedia.org/wiki/Matthew_effect#cite_note-17)
+		- 
+- ### Availability Cascade
+	- a self-reinforcing cycle that explains how certain collective beliefs are developed
+	- a novel idea, usually one that explains a complex process in a simple manner spreads rapidly as people perceive it to be simple yet insightful
+	- triggers a chain reaction within the social network
+	- the need to social acceptance and the apparent sophistication of the new insight bypass critical thinking filters
+	- plenty of good examples in the wiki
+	- https://en.wikipedia.org/wiki/Availability_cascade
+- ### Homophily
+	- sociological concept "like attracts like"
+	- factors can be age, gender, class, organizational role
+	- opposite is heterophily - which we need more of
+	- baseline homophily is what can be expected by chance
+	- inbreeding homophily (joke about term name) is homophily over and above the baseline - based on personal preference and choice
+	- status homophily is based on identity markers
+	- value homophily is based on values, attidues and beliefs - regardless of identity
+	- dimensions of homophily
+		- race and ethnicity - largely inbreeding in US
+		- sex and gender - 
+		- age - mostly baseline
+		- religion - mixed
+		- education, occupation and class - white/blue collar is big
+		- interests
+		- social media
+	- causes
+		- geography
+		- family ties
+		- organizations
+		- isomorphic sources - occupy equivalent roles in organzations - HR heads, mothers
+		- cognitive processes 
+	- effects:
+		- studies show improved coordination, increased expected payoff from interactions, tolerance, cooperation in social spaces
+		- downside is restricted access to information and inclusion for minorities
+		- on the Facebook vs Myspace battle - users picked the site their friends were on
+		- "Black People Twitter" - example of dividing twitter into group silos
+- ### Heterophily
+	- Uncle Ernie "Everybody's mixing"
+	- creates more efficient and innovative workplace
+	- need to balance trust from homophilic tendencies with growth from hetero
+	- i.e. having friends from different genders
+- ### Echo Chambers and Why They're Bad
+	- https://en.wikipedia.org/wiki/Echo_chamber_(media)
+	- Echo chamber is a term that predominantly applies to media.
+	- ideas are reinforced through feedback and repetition inside of a closed system and protected from rebuttal
+	- by being part of one, you are able to go through the motions of seeking debate only to find likeminded folks. 
+	- leads to unintended [[Confirmation Bias]]
+	- can increase social/political [[polarization]], lead to [[extremism]]
+	- Metaphor: echo chamber in acoustics
+	- https://en.wikipedia.org/wiki/Echo_chamber
+	- sound reverberates in a hollow room
+	- --
+	- synonymous with [[tribalism]]
+	- the empirical research is inconclusive on echo chamber's existence and impact. i am convinced.
+- ### Limits to the Research
+	- Facebook (twitter etc) is not real life
+	- Data has a skewed sample demographically
+	- Algos are constantly changing with no public record
+	- US 2 party system lends itself to polarity whereas multi-party systems may not
+- ### The Digital Cambrian Explosion
+	- The advent of the Internet has lead to an unparalleled access to information
+	- This had the potential to lead to pluralistic debate but may instead be leading to [[selective exposure]] to ideologically similar channels
+	- in extreme echo chambers, info becomes a game of telephone, with increasing [[distortion]] of the info until it resembles something much more extreme
+	- this distortion leads to a tie-in to the root word of torture
+	- people in echo chambers aren't against finding the truth, their view of sources of authority is skewed.
+	- homophily in online relationships - same attracts same
+- ### Media is an Echo Chamber
+	- The Blindspot Report
+	- Who is the gatekeeper?
+	- In trad media it was the news editor at a publication
+	- In social media it is the algorithm
+- ### Echo chambers vs Epistemic Bubbles
+	- [[epistemic bubbles]] are info networks in which important sources are omitted (intention doesn't matter)
+	- there is no amplification effect in a bubble. members are just missing important info
+	- chambers are constructs in which voices are actively excluded and discredited
+	- chambers are stronger than bubbles. bubbles can pop with relevant info brought forward
+	- in bubbles outside voices are unheard
+	- in chambers they are heard, but dismissed
+- ### Echo chambers in acoustics/as mental models
+	- They were traditionally echoey rooms to create that effect for studio recordings before digital manipulation became a thing
+	- This is an example of a [[mental models]] as we get a mental picture of how one is behaving hearing their own voice back
+	- we don't need to know the science behind the chambers or how they're used to understand how they would work
+	- https://en.wikipedia.org/wiki/Echo_chamber
+- ### Selective Exposure Theory
+	- psych theory that states people tend to favour info which reinforces existing beliefs while avoiding contradictory info
+	- https://en.wikipedia.org/wiki/Selective_exposure_theory
+	- people can mentally dissect exposed info and pick out favourable stuff
+	- related to [[cognitive dissonance theory]] which stats that people put up defence mechanisms to keep harmony between new and existing ideas
+	- [[Cognitive equilibrium]] - balance between a person's mental image of the world and his  environment
+	- [[Jean Piaget]] - when there is a [[mismatch]] in the equilibrium, people find it "inherently dissatisfying"
+- ### Bay of Pigs 
+	- An example of the effects of selective exposure is the series of events leading up to the [Bay of Pigs Invasion](https://en.wikipedia.org/wiki/Bay_of_Pigs_Invasion "Bay of Pigs Invasion") in 1961. [President John F. Kennedy](https://en.wikipedia.org/wiki/President_John_F._Kennedy "President John F. Kennedy") was given the go ahead by his advisers to authorize the invasion of Cuba by poorly trained expatriates despite overwhelming evidence that it was a foolish and ill-conceived tactical maneuver. The advisers were so eager to please the President that they confirmed their cognitive bias for the invasion rather than challenging the faulty plan.[[7]](https://en.wikipedia.org/wiki/Selective_exposure_theory#cite_note-Kastenmuller2014-7) Changing beliefs about one's self, other people, and the world are three variables as to why people fear new information
+- ### Info can overload
+	- According to research study by Fischer, Schulz-Hardt, et al. (2008), the quantity of decision-relevant information that the participants were exposed to had a significant effect on their levels of selective exposure. A group for which only two pieces of decision-relevant information were given had experienced lower levels of selective exposure than the other group who had ten pieces of information to evaluate. This research brought more attention to the cognitive processes of individuals when they are presented with a very small amount of decision-consistent and decision-inconsistent information. The study showed that in situations such as this, an individual becomes more doubtful of their initial decision due to the unavailability of resources. They begin to think that there is not enough data or evidence in this particular field in which they are told to make a decision about. Because of this, the subject becomes more critical of their initial thought process and focuses on both decision-consistent and inconsistent sources, thus decreasing his level of selective exposure. For the group who had plentiful pieces of information, this factor made them confident in their initial decision because they felt comfort from the fact that their decision topic was well-supported by a large number of resources.[[11]](https://en.wikipedia.org/wiki/Selective_exposure_theory#cite_note-Krueger,_J._I._2012-11)Therefore, the availability of decision-relevant and irrelevant information surrounding individuals can influence the level of selective exposure experienced during the process of decision-making.
+- ### Dick Cheney's Hotel Rooms
+	- http://www.thesmokinggun.com/documents/crime/dick-cheneys-suite-demands
+	- All TVs must be tuned to FOX News
+- ### Cognitive Confidence
+	- Individuals can control the amount of selective exposure depending on whether they have a low self-esteem or high self-esteem. Individuals who maintain higher confidence levels reduce the amount of selective exposure.[[13]](https://en.wikipedia.org/wiki/Selective_exposure_theory#cite_note-Albarracin2004-13) Albarracín and Mitchell (2004) hypothesized that those who displayed higher confidence levels were more willing to seek out information both consistent and inconsistent with their views. The phrase "decision-consistent information" explains the tendency to actively seek decision-relevant information. Selective exposure occurs when individuals search for information and show systematic preferences towards ideas that are consistent, rather than inconsistent, with their beliefs.[[10]](https://en.wikipedia.org/wiki/Selective_exposure_theory#cite_note-FischerFischer2010-10) On the contrary, those who exhibited low levels of confidence were more inclined to examine information that did not agree with their views. The researchers found that in three out of five studies participants showed more confidence and scored higher on the _Defensive Confidence Scale_,[[13]](https://en.wikipedia.org/wiki/Selective_exposure_theory#cite_note-Albarracin2004-13) which serves as evidence that their hypothesis was correct.
+- ### Yerkes-Dodson Law - Optimal Pressure
+	- https://en.wikipedia.org/wiki/Yerkes–Dodson_law
+	- relationship between pressure and performance
+	- difficult tasks require lower level of arousal to help with concentration
+	- simple tasks work better at higher arousal levels
+	- arousal not to be confused with sexual - it is when the brain is activated to the point of perception
+	- ![[Hebbian-Yerkes-Dodson Law]]
+- ### Bistability
+	- In a dynamical system, this term means that the system has two equilibrium states
+	- i.e a light switch can be resting either the on or off position
+	- a system can transition from one equilibrium state to the other with enough activation energy
+	- This is part of [[reversal theory]] in psych
+		- whereas homeostasis proposes people was to be in between boredom and anxiety....
+		- reversal theory states that arousal has opposite effects depending on which state we are in on the serious/playful binary domain
+		- ![[Pasted image 20220604065716.png]]
+		- serious - motivated by achievement
+		- playful - motivated by enjoyment of the process
+		- the truest difference in this domain is whether one is movitaed by long-term goals or by what is happening right now
+		- journey or destination?
+- ### What is the opposite of an echo?
+- ### Traditional Definition of Torture
+	- The etymology of torture leads us back to the Latin *torquere*, meaning to twist. ^25b1ea
+	- Torture is both a noun and a verb - Merriam Webster
+	- The primary definition of both is what we all know the word to convey - intense human suffering
+	- The secondary noun definition means to distort an argument
+	- The secondary verb definition means to twist or distort out of 
+	- https://en.wikipedia.org/wiki/Torture_chamber#Ashoka's_Hell
+- ### How Torture Chambers Work
+	- They respond with a distortion of your argument.
+	- You state your truth. They do not respond with a different argument, as that would not be an enclosed chamber, but an open environment.
+	- They respond with your argument twisted out of shape, trying to point out the holes.
+	- If you speak and are returned with an echo, you need to find a new torturer.
+	- Torture chambers are the opposite of echo chambers. They respond with a distortion rather than cosign
+- ### Torture vs Echo is not a perfect metaphor
+	- On Reddit, it was asked how Heck, Hell's less intense version would be. My use of 'torture' is in a similar vein
+- ### [[The Cognitive Bias Codex]]
+	- We are drawn to details that confirm our own existing beliefs
+	- Selective Perception
+	- Semmelweis reflex
+	- ### Uriah Heep in Dickens
+		- Confirmation bias internally echos back 'yes'
+		- Echo Chambers don't always need other people to work. can be internal
+- ### Selective Exposure Theory
+	- people prefer information that confirms their views - related to [[Confirmation Bias]]
+	- The cognitive economy model
+		- people are motivated to eschew dissonant information, but are also wary to view is due to the extra cognitive load required. Thus selective exposure is driven by motivation to not feel uncomfortable and the extra mental effort it takes - simultaneously
+- ### Media as Palliative Care
+	- Researchers have found that individual media consumers will seek out programs to suit their individual emotional and cognitive needs. Individuals will seek out palliative forms of media during the recent times of economic crisis to fulfill a "strong surveillance need" and to decrease chronic dissatisfaction with life circumstances as well as fulfill needs for companionship.
+	- https://econtent.hogrefe.com/doi/10.1027/1864-1105/a000111
+- ### Selective Exposure in Porn
+	- Consumers tend to select media content that exposes and confirms their own ideas while avoiding information that argues against their opinion. A study conducted in 2012 has shown that this type of selective exposure affects pornography consumption as well. Individuals with low levels of [life satisfaction](https://en.wikipedia.org/wiki/Life_satisfaction "Life satisfaction") are more likely to have casual sex after consumption of pornography that is congruent with their attitudes while disregarding content that challenges their inherently permissive 'no strings attached' attitudes.
+	- https://econtent.hogrefe.com/doi/10.1027/1864-1105/a000063
+- ### The Political is Personal
+	- Echo chambers start in politics but bleed into all your interactions
+- ### Cognitive Dissonance
+	- invented by [[Leon Festinger]]
+	- people try to reduced cog dissonance (being psychologically uncomfortable) and achieve consonance
+	- when dissonance is present, we avoid further dissonance
+- ### Seek discomfort to grow
+	- A lot of the talk around echo chambers relates to politics, but it also is important in terms of the personal
+- ### Intellectual Sparring Partner
+	- Sahil Bloom
+- ### How Mismatchmaking Intends to Help
+- ### feedback loops
+	- Systems theory > Feedback Loops > Echo Chambers result from faulty feedback loops - Nate Silver
+
+- ### Overfitting
+	- when an analysis follows a particular set of data too closely
+- ### Additional sources to explore:
+	- Cognitive Equilibrium:
+	- https://books.google.ca/books?id=bPxyAwAAQBAJ&pg=PT323&redir_esc=y#v=onepage&q&f=false
+	- Selective exposure: The impact of collectivism and individualism
+	- https://bpspsychub.onlinelibrary.wiley.com/doi/abs/10.1348/014466609X478988
+	- Tim Urban's Recent Talk on Echo Chambers:
+	https://youtu.be/ivDwzBYsED4
+	- Leadership and info processing:
+	- https://econtent.hogrefe.com/doi/full/10.1027/1864-9335/a000177
+	- The GOP's $3 Billion Propaganda Organ
+	- http://baltimorechronicle.com/2006/122706Parry.shtml
+	- Your Filter Bubble is Destroying Democracy
+	- https://www.wired.com/2016/11/filter-bubble-destroying-democracy/
+	- Exposure to ideologically diverse news and opinion on Facebook
+	- https://www.science.org/doi/epdf/10.1126/science.aaa1160
+	- Ideological Segregation Online and Offline
+	- https://academic.oup.com/qje/article-abstract/126/4/1799/1924154?redirectedFrom=fulltext
+	- Environmental communication : a journal of nature and culture.
+	- https://www.worldcat.org/title/environmental-communication-a-journal-of-nature-and-culture/oclc/699199724
+	- Is news sharing on Twitter ideologically biased?
+	- https://dl.acm.org/doi/10.1145/2441776.2441877
+	- Tribes
+	- https://en.wikipedia.org/wiki/Tribe_(internet)
+	- Splinternet
+	- https://en.wikipedia.org/wiki/Splinternet#Interests
+	- safe space
+	- https://en.wikipedia.org/wiki/Safe_space
+	- groupthink
+	- https://en.wikipedia.org/wiki/Groupthink
+	- false consensus effect
+	- https://en.wikipedia.org/wiki/False_consensus_effect
+	- communal reinforcement
+	- https://en.wikipedia.org/wiki/Communal_reinforcement
+	- circular reporting
+	- https://en.wikipedia.org/wiki/Circular_reporting
+	- recommender system
+	- https://en.wikipedia.org/wiki/Recommender_system
+	- Solipsism
+	- https://en.wikipedia.org/wiki/Solipsism
+	- Filter Bubble
+	- https://en.wikipedia.org/wiki/Filter_bubble
+	- Special Dispatch from Ontario: Guess voters were fine with the 'murder clown'
+		- Twitter isn't real life
+		- Filled with people who self-select
+		- There was another relevant point but need to read through
+		- https://theline.substack.com/p/special-dispatch-from-ontario-guess?s=r
+
+
+
+
+https://www.salon.com/2022/06/18/people-overestimate-groups-they-find-threatening-when-sizing-up-others-bias-sneaksin_partner/?s=09
+
+https://www.niemanlab.org/2022/10/most-people-on-twitter-dont-live-in-political-echo-chambers-but-mostly-because-they-dont-care-enough-to-bother-building-one/

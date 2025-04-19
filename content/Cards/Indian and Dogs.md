@@ -1,0 +1,6 @@
+- Proverb of the father pretending to be allergic to not get a dog (Ramit?)
+- How dogs were treated in India by people and my mum's pet Jack
+- My neighbourhood in Rexdale and how my friends looked at dogs as deterrence
+	- Barking madly whenver I went to their door and not seeing the locked up dog in the basement
+- Finally falling in love with Charlie
+- Converting my wife to be a dog skeptic.

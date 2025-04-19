@@ -1,0 +1,55 @@
+[[Flamingo Outline]] | [[Flamingo Scenes]]
+
+- [[On the eve of high school, Happy moves out of his childhood home due to a family fight.]]  ^2497f8
+	- Happy drags his feet during his house move. 
+	- Jagpreet urges Happy to be a brother to Jimmy. 
+	- Happy is embarassed to run into Sweety. 
+	- Minder is bossed around by Jagpreet and Mummi. 
+	- Minder urges Happy to keep visiting him. 
+	- Happy wants his computer desk set up by Babbu. 
+	- Mummi and Jagpreet fight about the move. 
+	- Mummi send Happy to find Daddi but he is unsuccessful. 
+	- The cops bring home Daddi and Happy falls asleep.
+- [[Saad invites Happy to a party to get closer to his friend Sweety.]]  ^8f9f84
+	- Grant doesn't have Happy's name on her list. 
+	- She seats him with Saad, Sweety and Shera. 
+	- Saad is nice to Happy once he learns he knows Sweety
+	- Saad invites Sweety and Happy to a party at Gobind's house. Happy declines. 
+- [[7]]
+	- At lunch, Ram and Jug tease Happy about thinking Saad wants to be his friend. 
+	- As the end of day approaches, Happy has second thoughts and says yes.
+	- Happy walks with Saad and his entourage to Gobind's house Gobind lets them in and they party. 
+	- Amit is skeptical that Happy will be good for the gang as he is weak. 
+	- Gobind is ambivalent and can see how Happy's brain can help them. 
+	- Happy meets Dilmit. 
+	- We meet Kugi, Frick, Frack, Girl #4, non-asian gang member
+	- Happy sneaks downstairs, lies to Mummi on where he's been and goes to sleep without doing his homework
+- [[19 Happy gets Giselle trapped with Jug but he regrets his role.]] 
+	- Happy walks with Saad and his entourage to Gobind's house  
+	- Gobind lets them in and they party.  
+	- Amit is skeptical that Happy will be good for the gang as he is weak.  
+	- Gobind is ambivalent and can see how Happy's brain can help them.  
+	- Happy meets Dilmit.  
+	- We meet Kugi, Frick, Frack, Girl #4, non-asian gang member  
+	- Happy sneaks downstairs, lies to Mummi on where he's been and goes to sleep without doing his homework
+- [[6 Happy asks for Minder's advice on joining the gang and then chats with his friends online (make this more cause and effect)]]
+	- Babbu and Happy bond
+	- Mummi gets in the way
+	- Happy's 1st experience online at home 
+		- Stormfront
+		- Allhiphop
+- [[7 Happy gets Odaine brutally beat up but won't join in.]]
+	- Odaine is back at shool and Happy tells Amit
+	- Amit finds him, sucker punches him and the rest of the gang jumps him
+	- Amit tells Happy he is next if he doesn't shape up
+- [[29 Moose councils Happy on how to survive in the gang.]]
+- [[31 Happy gets grounded and starts e-dating Dilmit while chatting online and doing the gang's homework.]]
+- 
+
+
+
+- [[57 Happy tries to rest off an infection in Punjab, but Pinder won't let him.]]
+	- Seeing a strange world
+	- Resentful of missing summer, Happy adjusts poorly to Punjab
+- [[55 Happy tells Sweety how he feels and she rejects him.]]
+- [[Happy runs into Drew on the bus and it asked to attend his trial]]

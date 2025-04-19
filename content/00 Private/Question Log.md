@@ -1,0 +1,8 @@
+- Where do you publish your newsletter? And do you turn them into a blog?
+- How long have you been putting out your newsletter?
+- How do you write content that speaks to people directly?
+- What I taught Ricky: Get your ideas out there FAST. Braindump it all into hypefury, and queue your tweets so they publish *over time*. I was so worked up on manually scheduling time to write + post, it was inefficient
+- Greg Cronie: Hi Ranbir, saw your post on forming a digital partnership. Are you willing to share some details about it? I'm currently looking into options on how to structure my agency and best involve and reward others who are or will be involved. Very curious to learn how your digital partnership is structured.
+- Chris Garcia: Hey Ranbir hope everything is going well from the looks of it your twitter is growing that is awesome. I dont know if I missed it but I was looking forword to learning more about Obsidian did I miss your teachings?
+- Maxim Gospodinko: Did you share your workflow in Obsidian? Writing on Twitter destroyed mine almost completely. Now I have two files - "threads" and "tweets" I write everything in 🐦
+- “Journaling in public”—I like that phrase
