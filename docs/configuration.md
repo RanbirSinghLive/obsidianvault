@@ -86,7 +86,7 @@ You should take care to add the plugin to the right entry corresponding to its p
 ```ts title="quartz.config.ts"
 filters: [
   ...
-  Plugin.ExplicitPublish(),
+  Plugin.ublish(),
   ...
 ],
 ```
