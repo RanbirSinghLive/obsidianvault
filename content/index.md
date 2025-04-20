@@ -1,3 +1,6 @@
+---
+title: Welcome
+---
 
 > [!button]- Hi, I'm [[Ranbir Singh|Ranbir]]. I'm a writer & [[This is my digital garden]].
 > #### How to navigate this garden:
