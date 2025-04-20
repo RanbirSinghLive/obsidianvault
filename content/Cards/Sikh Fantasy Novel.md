@@ -1,0 +1,22 @@
+- Hijra - starts the novel
+	- A group of "Actors" come to a village for a show
+	- Before the show they negotiate for taking a young child from a village due to an abnormality with a grieving mother
+	- The leader closes the deal and comforts the woman before starting the show
+	- The Show is called "The Trials of the Five Rivers" or something
+	- The first part is the origin story of the realm, and serves as a way to give exposition
+- There is a native force (Hindu), an invading force (Muslim) and a force in the middle (Sikh)
+- There are Djinn in this world, and it is possible to bond with him during a ceremony for the invaders. When they are paired, the djinn can be commanded and do subterfuge for their master. The Master can also have them bond with them and fight. If they get hit with a blade, they have a shield from the djinn's spirit that can only be broken by a much larger blow than a standard slice or stab.
+- The Sikhs are a military and spiritual order who smoke a hallucinogen to get pumped for battle and also to see beyond the surface level of the world and discover tactics to fight others better, a counter effect to the djinn. They can be seen if they're high enough
+- The risk of the drug is that it is addictive, and its ironic that the order otherwise swears off alcohol, drugs and meat. It is all to steal themselves for the necessary vice.
+- There are assassins for hire, perhaps the Sikhs, who live in a high castle
+- The study of etymology is a focus. there is a sect that thinks getting to the core of works will lead to the ore understanding of the divine
+	- The Sikh race is the keeper of languages.. Their holy book keeps records of the origin and tracing of words, and they also keep dead languages in there.
+	- There's a council of people proficient in those dead languages
+	- There is magic in those languages. Each language has a specific power associated with that era and race.
+	- Each couple creates their own unique language between them. every time a couple breaks up or dies, a language dies too
+		- [who's tryna form a microdialect with me 😋 #etymology #linguistics #relationships #language - YouTube](https://www.youtube.com/shorts/O6U6iGb18bY)
+- The naming convention is BLANK son of BLANK son of BLANK
+
+20MAR25
+- bring in Network planning with a cente of Sikh pilgrimage and a network planner making routes to take people to and from the holy site
+- Pilgrims and traders had to plan routes, secure lodgings, and carry provisions. Roads were often dangerous, so group travel for protection was common.
