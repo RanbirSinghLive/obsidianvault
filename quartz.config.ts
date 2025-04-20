@@ -17,14 +17,14 @@ const config: QuartzConfig = {
     },
     locale: "en-US",
     baseUrl: "ranbir.co",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    ignorePatterns: ["private", "templates"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
         header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
+        body: "Arimo",
         code: "IBM Plex Mono",
       },
       colors: {
@@ -95,8 +95,7 @@ const config: QuartzConfig = {
       Plugin.Assets(),
       Plugin.Static(),
       Plugin.NotFoundPage(),
-      // CustomOgImages plugin is causing issues with directory cleanup
-      // Plugin.CustomOgImages(),
+      Plugin.CustomOgImages(),
     ],
   },
 }

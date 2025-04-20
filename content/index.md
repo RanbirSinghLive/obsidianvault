@@ -1,5 +1,6 @@
 ---
 title: Welcome
+cover: Media/Profile Pic.png
 ---
 
 > [!button]- Hi, I'm [[Ranbir Singh|Ranbir]]. I'm a writer & [[This is my digital garden]].
