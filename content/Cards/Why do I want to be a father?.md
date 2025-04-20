@@ -1,4 +1,0 @@
-- First off, this is a better way to phrase it than why do I want to have kids
-	- one is taking on a role/responsbility and the other is taking on posessions
-- What factor does my religion/socialization play?
-- What factor does finding the perfect partner play?

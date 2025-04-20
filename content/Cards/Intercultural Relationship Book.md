@@ -1,1 +1,0 @@
-A joint book about Sarah and Ranbir's story bringing two disparate cultures together in marriage.

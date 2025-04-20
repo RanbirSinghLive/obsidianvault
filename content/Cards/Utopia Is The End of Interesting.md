@@ -1,4 +1,0 @@
-
-Gene Roddenberry was the visionary of the origin Star Trek. Decades later when the show was to be rebooted, he begrudgingly retook the helm, only to almost ruin the show. Gene thought of Star Trek as a utopia, and in a utopia there is no conflict. So, he refused to let the writers write in any conflict between the crew of the ship, only with external foes. The only problem is, storytelling thrives on conflict - multilayered conflict. 
-
-If stories rely on conflict, utopia abolishes conflict, thus utopias are the end of stories. We understand ourselves through stories, thus utopia removes our best sensemaking tool, and will result in us losing ourselves completely. Keep the bad times coming.

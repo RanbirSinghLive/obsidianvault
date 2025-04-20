@@ -1,1 +1,0 @@
-Screenwriter [[John Truby]]'s first piece of advice when coming up with a story is to write something that may change your life.
