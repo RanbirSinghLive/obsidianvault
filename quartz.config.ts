@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "ranbir.co",
+    baseUrl: "https://ranbir.co",
     ignorePatterns: ["private", "templates"],
     defaultDateType: "modified",
     theme: {
@@ -95,7 +95,8 @@ const config: QuartzConfig = {
       Plugin.Assets(),
       Plugin.Static(),
       Plugin.NotFoundPage(),
-      Plugin.CustomOgImages(),
+      // CustomOgImages plugin is causing issues with directory cleanup
+      // Plugin.CustomOgImages(),
     ],
   },
 }
