@@ -17,7 +17,16 @@ const config: QuartzConfig = {
     },
     locale: "en-US",
     baseUrl: "quartz.jzhao.xyz",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    ignorePatterns: [
+      "private",
+      "templates",
+      ".obsidian",
+      "00 Private",
+      "10 Workbench",
+      "40 Reference",
+      "90 Templates",
+      "Media"
+    ],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
