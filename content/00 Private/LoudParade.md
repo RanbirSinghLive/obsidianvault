@@ -1,0 +1,16 @@
+- Inbound vs Outbound
+- By content we focus on written content supporting graphics and video, Notion docs etc.
+- We don't do ghostwriting, because we feel taking pride in your own voice and brand
+- We do strategy, ideation, systems & I get my hands dirty on writing to help you get started or unstuck
+- What's your current content strategy
+- What's your opinion on inbound content and personal brands
+- Do they want to grow both of their personal brands?
+- Do they want to grow their company brand?
+- Who's in your audience right now on LinkedIN?
+- Have you considered Twitter?
+- You're starting off with a lot of social proof
+- You guys have a unique viewpoint and a unique mechanism
+- You're already presenting it at talks, in sales calls. You just need to frontload that positioning and proof into content that has distribution
+- Who do we target with your content?
+	- Big brands (tough)
+	- Creative Agencies

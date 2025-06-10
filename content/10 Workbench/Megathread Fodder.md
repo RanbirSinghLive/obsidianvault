@@ -1,0 +1,4 @@
+- Bonn–Oberkassel dog
+	- The first example of a dog being buried with two humans, essentially oldest known pet, dating back to 12,000 BC
+	- [Bonn–Oberkassel dog - Wikipedia](https://en.wikipedia.org/wiki/Bonn%E2%80%93Oberkassel_dog#:~:text=The%20Bonn%E2%80%93Oberkassel%20dog%20(German,found%20buried%20alongside%20two%20humans.)
+	- #firsts #science

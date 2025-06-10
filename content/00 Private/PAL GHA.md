@@ -1,0 +1,16 @@
+- Services provided
+	- YYR, YQX, YDF: Standard ATW services (check-in, boarding/deplaning), baggage recovery, cargo handling
+	- YDF: Standard BTW services (Baggage loading/unloading, aircraft servicing (parking, marshalling, pushback))
+- Rights: PAL reserves the right to these services as long as AC planned PAL capacity on the following routes YHZ-YDF, YHZ-YQX, YHZ-YYR
+	- In the event of an arbitration or labour board decision awarding this work to someone other than PAL, PAL's right to this work is forfeit
+- Bilingual: PAL will provide all ATW services in both official languages
+- Cancellations not at fault of PAL
+	- Over 24 hours notice, no payment
+	- Under 24 hours notice, PAL paid 50% of turn rate
+- SLA:
+	- YYR, YQX, YDF: If a flight is delayed due to a controllable ATW delay (IATA codes PD, PE, PH), AC will be credited 20% of 50% the turn rate 
+	- YDF: If a flight is delayed due to a controllable BTW delay (IATA codes GL, PB) AC will be credited 10% of the turn rate for that turn
+	- These SLAs are separate from and don't impact the SLAs in the main CPA
+	- Grace period: these SLAs come into effect in month 4 of contract (Feb 1, 2024)
+- Covered Aircraft
+	- Will get updates from PAL

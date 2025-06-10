@@ -1,0 +1,1 @@
+A segment of story action, written moment by moment, without summary, presented on stage in the story now. it is not something that goes on inside the character's head. it is physical and could be acted on the stage.

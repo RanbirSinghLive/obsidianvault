@@ -1,0 +1,1 @@
+I’m rare in my generation. I decided to live with my parents. Now we’re taking care of my wife’s aunt. From 2 cultures but both are family focused. Also had kids older so diff. Link to Louise Perrys article we will all be boring.

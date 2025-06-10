@@ -1,0 +1,32 @@
+
+- Daily Note is the Hub
+	- Customize the Daily Note Template
+		- Insert Your Mantra
+	- Customize other hubs
+		- Tasks
+		- Content Matrix
+	- Write daily tasks
+	- Transfer any long-term tasks to Tasks tab
+	- Input current thread title
+	- Population quick links to tools
+	- Write Tweets in line
+		- Populate templates
+	- Obsidian opens to today's daily note on start-up
+- File Structure
+	- Daily Notes
+	- Stack
+		- Structure comes over time
+	- Templates
+	- Root is workbench
+- Recent Files
+- Outline on right
+- Calendar on Right
+- Hotkeys
+
+Other Community Plug-ins Included:
+- Reading Time
+- Word Count
+- Outliner
+- Focus Mode
+- Plugin Updates
+- Wordy Synonyms

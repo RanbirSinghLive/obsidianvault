@@ -1,0 +1,30 @@
+
+- ![[mum triplex.png|400]]
+- It was never in question that my mom would live me forever. I am the only child of Indian parents, and a boy to boot.
+- Not that she thought there was a choice in the matter. For the better part of my twenties, it wasn't clear if I'd ever live apart from her, even for a few months. After high school I went to a commuter university and came home every night to fresh rotis.
+- When I got a job, living rent free felt more important than bringing girls home.
+- There was a time it seemed assured I would never spend *any* time living alone. 
+- If we bought a home in the early aughts, I succumbed to getting an arranged marriage, then I would have brought my wife home to our detached bungalow in Brampton and not looked back
+- My dad was hesitant on the house becuase my dad had already tried to pay down one mortgage and gone bankrupt
+- But then the early aughts tripped into the middle aughts and real estate prices in Toronto went vertical
+- What we could've bought on the single general labour salary of my dad now required my parents to have had 2 more work age kids to stack together to afford.
+- There was still a path if we went 10 to the house with some uncles and cousins, but my mum was too hot tempered for that to stack successfully.
+- The 2nd precondition, arranged marriage was always the parachute cord for stilted romantic ambitions. Indian males can give up trying to cord western chicks and ask their mum to import a bride for them using their passport arbritage
+- But alas, one day it became clear that we would never buy and I would never arrange a marriage. It started to feel crowded in our shared 1 bedroom apartment
+- I left home to Mtl when I was 26
+- I did the roommate thing far later than my peers, but I made up for it by living with a goy sexologist in his 50s. As an odd couple, he had his work cutout for him in teaching ne the housework a spoiling Indian mom had no intention to.
+- My job went well and I met my future wife while singing karoake.
+- I dated her, called home 5 times a dey and one day fell in love with her
+- As we started thinking about forever, my parents reentered the ploture from ny earlier forever plans. They were getting older, and I had to figure out how to take care of them
+- Luckily Mtl had a solution, plexes
+- Plexes were were initially meant as high density housing for the poor french and irish workers at the turn of the century. Then some morphed into intergenerational homes with each generation occuping a floor, before we entered an era whore each subsequent generation would rather nove an far away from each other as possible
+- So be bought one and lives on the 3rd floor like the owners usually do
+- A tenant on the 2nd and and my parents were to be moved from Toronto to love on the 1st
+- I could live with my parents close, but still seperate, what a compromise
+- Then my father passed away and the neat idea became a necessity
+- This creates the ideal living situation that merges community and privacy, the desire of boomers-on to be individualistic, without completely losing the communitarian benefits
+- We're not foolish to think we can have it all, because having it all means we have the not so fun stuff too. We are fundamentally moonlighting at old folks home caretakers for one
+- If my wife's mum takes us up on our offer to move here one day we'll be a full on retirement home
+- But it's what I want, for better or worse
+- What is commonly associated with being a point of embarassment in the west is in fact one of my biggest points of pride,
+- And now were here, near but far, together but seperate, "ut ny nomen on the title of thia damn building so danäit, she lives with ME.

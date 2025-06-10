@@ -1,0 +1,10 @@
+- Annotations
+	- Goal: MS Word Style Comments
+	- Notes Notes
+	- Hover Preview
+	- Carry-Forward
+- Character Cards
+	- ![[IMG_0903.jpg]]
+- Journalling
+	- ![[IMG_1134.jpg]]
+- Excel

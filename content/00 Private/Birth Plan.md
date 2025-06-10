@@ -1,0 +1,218 @@
+# Intention
+- To labour strongly, with focus and attention to what is needed in the moment, to ask for help when I need it, and to be tender with myself even when I don't feel powerful
+- To follow my body's desire for movement, water, food, temperature, light or darkness, sound and vocalization - knowing my preferences may fluctuate and change over time
+- I intend to practice receiving help from those around me when needed
+- I intend to let myself refuse help when it does not suit me in the moment
+- I intend to remember I am not alone, that I am working with my baby
+- I intend to connect with the love around me and the love I feel for my baby
+- I intend to make decisions about my care in the moment when the conversation arises and ask for help in getting the information I need to make choices that feel appropriate for me at the time
+- I intend to give myself permission to be impolite and antisocial if that is what I need
+- I intend to be kind with myself if things surprise me, and I find those surprises difficult
+- I intend to make myself large enough to feel all the emotions that need to be felt, even those I find difficult or unsavory in my prelabor state
+- I intend to rest in between contractions
+- ### Pain Is...
+	- Purposeful: More discomfort = more progress
+	- Anticipated: You know WHY you are having discomfort and can prepare
+	- Intermittent: You get breaks! All contractions come to an end
+	- Normal: Labour is a normal, healthy process, not a a pathology
+
+# Mantras
+- Contractions aren't dangerous 
+- We're one step closer to meeting our baby
+- Each contraction is bringing our baby closer to us
+- Movement brings improvement
+- Let the contractions work through you
+- Every Contraction Comes to an End
+- There are a finite amount of contractions
+- Reserve: It's almost done
+
+# Comfort Measures:
+- Early On:
+	- Upon Arrival, Dim lights
+	- Reminders to move
+		- **Pee every hour**
+		- Trying the birthball, Peanutball, Squat bar, Rebozo
+		- Walking
+		- Trying to different positions with all of these
+	- Physical touch 
+		- In between contractions: Soft, pleasurable, comforting caresses,
+			- Hugs and swaying together
+		- During contractions: 
+			- Double hip squeeze
+			- Firm grounding touch
+			- Massage
+			- Tennis ball counterpressure
+			- Wants me close, in her eyesight, holding hands
+			- Look into your partner’s eyes while they tell you firmly that “you’ve got this”
+	- Comfort measures
+		- Thermoregulation (are you too hot/cold)?
+			- Ice water to drink
+			- hot water bottle on the back
+			- Cold compress on forehead or chest
+			- Hot packs can be made with hot, wet towel placed in a plastic bag and wrapped with another towel
+			- Cold packs (for sore back) can be used by putting ice in an examination glove and wrapping it in a wash cloth
+		- Talking through things
+		- Offer chapstick
+		- Breathing, Vocalization
+	- Nourishment
+		- Offer sips of water or gatorade
+		- Offer food
+	- Pain Management
+		- Comb
+		- Discuss TENS machine
+- Later:
+	- Hot showers (save for when feeling like giving up)
+		- Dim lights in bathroom
+	- Sarah likes the hands and knees position for pushing
+- If these don’t help, ASK TO BE EXAMINED
+	- If Sarah asks for Epidural, we can ask for a cervical check first
+- Say your safe word...you are no less a rock star!
+	- **Zimbabwe is epidural safe word**
+
+# Ranbir Tips:
+- Be present, and follow Sarah's needs
+- Know and be prepared to stand for birthing preferences
+- Co-regulate your partner’s nervous system with your own inner calm
+- Don’t take harsh things said in labour personally
+- Nourish your partner’s confidence with praise and positivity
+- Encourage rest to balance activity, encourage to eat and hydrate
+- Don’t keep asking them if they want, just offer
+	- Small sips every couple of contractions is better than getting thirsty and drinking fast
+- Nourish YOURSELF (rest, eat, hydrate, move)
+- Notice when a coping ritual is not working and gently suggest new ritual
+- Oxytocin engenders trust, so your loving words will usually be believed
+	- Eg. “if we move from this birthing ball to the shower, I can make you more comfy.”
+- Take Charge Routine
+	- Touch her firmly
+	- Call her by her name
+	- Keep eye contact with her
+	- Affirm her
+	- Give her a game plan
+# Massage
+ - Double Hip Squeeze [Double Hip Squeeze](https://drive.google.com/file/d/1kobFlQy7YG38UWBIs7kxj3EyePsedC5K/view?usp=sharing)
+ - ASMR - light gentle touches promote oxytocin -  [Title Unavailable \| Site Unreachable](https://drive.google.com/file/d/1d7X2LjA7H6GBSpnVnnPgxUkCP-Punnk-/view)
+ - Gate Theory of Pain Inhibition: create pleasure to reduce pain
+ - Pain Dispersion: create counter-pressure to ease pain
+ - Heart shape massage -- [Heart Massage](https://www.canva.com/link?target=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F1cFBsp5Voi5AHv95cCbSwkX27W4ClVIof%2Fview&design=DAENTokKP3E&accessRole=viewer&linkSource=document), 
+ - Prepare for relaxation in birth by offering back or foot rub every night
+
+# BRAIN is...
+- Benefits: What are the benefits of what’s being proposed to me?
+- Risks: What are the risks, for me, for the baby, for my labour?
+- Alternatives: What alternatives are available to me? Can we try something different?
+- Intuition: What does my intuition say, how do I feel about this?
+- No/Not now: Sometimes, all that’s needed is more time.
+
+# If Labour Begins in Evening:
+- Warm shower and warm drink to relax
+- Go to bed (sleep between contractions)
+- Do NOT turn on the light and give your energy to timing contractions
+- Hydrate
+- Sarah, let Ranbir sleep as much as he can if possible
+- If labour is for real, it WILL get you up (Ranbir, too)
+
+# If Labour Begins in Daytime:
+- Take naps if you’re tired
+- Have a “distraction project”, like a funny movie
+- Eat normally and hydrate
+- Don’t let your mind jump ahead of your body (“are we there yet”?)
+- Be mindful about spending all your time timing contractions
+- Too much attention to the process makes it feel longer
+- Don’t look for labour...let it find you
+
+# When To Go To Hospital:
+- Contractions cannot be spoken through
+- Birthgiver is “out of it” and moves very slowly between contractions
+- Is obviously “on a different planet” (LabourLand)
+- Modesty is less of a concern
+- Shaky
+- May have been vocalizing (moaning, humming, yelling) for a while
+- Check in with 4-1-1 rule, but behaviour MORE important
+- Trust the birthgiver, not the clock
+
+# Advocacy
+- Your Birthing Beloved is busy, their brain is altered, and they are vulnerable
+- Even a fierce person relinquishes their values when they feel stress in labour
+- Know their birth preferences well and be prepared to stand for them
+	- "Sarah wants to try pushing on her side without direction for a while”
+	- “No, Sarah has said her safe word and wants the epidural now, not after a bath”
+- Communicate succinctly, firmly, and unemotionally
+# Labour Stages
+- Stage 1: Phase 1
+	- Communicative
+	- Contractions may get strong enough to not talk during, but still “normal” between
+	- Are we there yet” Syndrome
+	- Can be distracted
+	- Begins to lean on things and rock the body
+	- Longest phase of labour (often 12+ hours)
+	- **STAY HOME**
+- Stage 1: Phase 2
+	- Moments of “this is bigger than I expected”
+	- Trembly and barfy
+	- Ritualistic behaviour
+	- Louder noises during labour
+	- Endorphins release (birth giver looks stoned between) Not easily distracted
+	- Uninhibited (no longer worried about nudity or noises or positions)
+	- Theta brainwave brings forth intuition
+	- Average 6 to 12 hours
+- Stage 1: Phase 3 "Transition"
+	- Intensity is wild
+	- Trembly and barfy
+	- "I want to go home” or “I don’t want a baby anymore” phase
+	- Noises can be VERY loud
+	- Mother starting to grab onto things and get close to the ground
+	- Can fall asleep between contractions
+	- Contractions can be on top of each other
+	- Feels literally like “I can’t do it”
+	- Usually shortest part of labour
+	- Deepened intuition, body knows how to position itself, move, and express
+	- Average 10 minutes to 3 hours
+- Stage 2: Phase 1
+	- Contractions seem less strong
+	- Big rests between sometimes
+	- Mom “hiiigggghhhh”
+	- Pushiness with contractions (not always..sometimes before this stage, too)
+	- 10 minutes to 2 hours
+-   Stage 2: Phase 2
+	- Baby’s head rotates in about station +2
+	- Birth giver goes from “push-y” to “push-ING” reflexively
+	- Vocalizations are “grunty” sounding
+	- Gets into positions that feel right
+	- Like rocking a car out of a snowbank
+	- Bottom starts to burn
+- Stage 2: Birth
+	- Baby “crowns” when head no longer goes back up
+	- "Ring of fire”
+	- Big shriek from birth giver
+	- Primal yell keep predators away
+	- Potentially prevents major tearing
+	- Releases DMT
+	- “Out of Body” due to deep Delta wave
+	- 1 to 30 minutes
+- Stage 3: Return and Birth of Placenta
+	- Baby and Mother “vibe” together in Delta (don’t bug them)
+	- They need time to downregulate and integrate
+	- Space of unhurried discovery important
+	- Baby plopped onto body of the parent is not “natural birth”
+	- Mother claims their baby on their time
+	- Mother’s oxytocin activates Baby and Partner
+	- “afterglow”
+	- Placenta slips out in a push or two
+	- 5 to 30 minutes
+
+# In Case of Caesarian
+- Take a moment to feel your emotions (there are not wrong feelings)
+- Bikini line will be shaved
+- You will be brought to OR alone (Partner, meanwhile, puts on scrubs)
+- You will be given spinal anesthesia
+- You may shake a lot
+- You may feel anxious that you can’t feel your breathing muscles (focus on nose)
+- Will have a curtain in front of “action”
+- Arms will be strapped
+- When room is set up, Partner will be invited to sit on a stool by Birth Giver
+- Keep Mother calm and keep saying loving, positive words
+- Stay connected to special moment of your baby’s arrival
+- Baby will be born quickly and taken to side of room by Nurse
+- Baby will have fluid suctioned (sounds icky, but is necessary)
+- Baby will be weighed and swaddled and brought to you
+- Gestational Parent’s arm will be released to hold Baby

@@ -1,0 +1,43 @@
+
+- # The Craft of Clear Writing
+	- Academic Unlearning
+		- Quality of Quantity
+		- Unhedge Your Bets (qualifiers)
+		- Bottom-Up Writing
+	- Short Form is The Way
+		- Atomic Ideas
+		- Non-Obvious Connections
+		- Tighter Feedback Loops
+	- Clear Writing As A Tool
+		- Journaling is time travel
+		- Write for Beginners
+		- Writing is Decision Making
+			- Examine Biases
+			- Simplify The Complex
+			- Clarity of Thought
+- # Earn A Living From Your Ideas
+	- Writing Unlocks Money
+		- The Best Business Leaders are Great Writers
+		- Writing + Persuasion = Fortunes
+		- Leave Breadcrumbs Behind You (write in public)
+	- There are Infinite Writing Business Models
+		- DWY Writing coaching
+		- DFY Personal Brand creation
+		- DIY Writing email courses
+	- The best idea wins
+		- Shiny Dimes
+		- The best ideas get refined over time
+		- You're only getting better
+- # My 2nd Chance to Be A Writer
+	- Writing in the Corporate World
+		- Eliciting action through email
+		- Actionable summaries & recs
+		- Getting to the point
+	- The Traditional Path
+		- Won a scholarship for writing
+		- Had to earn money for my immigrant family
+		- Turning away from your dream
+	- Writing Through Struggles
+		- Passing of my dad
+		- Overcoming anxiety
+		- Writing through a crossroads in my career

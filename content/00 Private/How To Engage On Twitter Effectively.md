@@ -1,0 +1,11 @@
+- Engagement
+	- Commenting on tweets in a constructive manner
+- Problems with the timeline
+	- Algorithm
+	- Ads
+	- Chronology
+- Use Lists & Tweetdeck instead
+- Create a List of accounts you want to follow
+- Use Search function on Tweetdeck to create a new deck
+- Filter out replies
+

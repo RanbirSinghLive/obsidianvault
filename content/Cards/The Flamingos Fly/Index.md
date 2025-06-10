@@ -1,0 +1,73 @@
+---
+longform:
+  format: scenes
+  title: The Flamingos Fly
+  workflow: Default Workflow
+  sceneFolder: /
+  scenes:
+    - 32 Happy reflects on his journey during Sunday prayers
+    - 33 Happy volunteers at the gurdwara, but determines piety is not for him.
+    - 34 Mum scares Happy straight as she ties his first patka
+    - 35 Happy's resentment for Mummi builds as she shops.
+    - 35.5 Happy helps Mummi orchestrate a slip and fall.
+    - 36 Happy defends Mummi when she gets caught shoplifting.
+    - 37 Happy is confronted by Sweety about the duplicate poems.
+    - 38 Saad debriefs on the poem and homework with Happy.
+    - 39 Happy runs into Daddi at the mall who fakes their relationship.
+    - 40 Ram picks up Happy and Dilmit on the way to the mehla.
+    - 41 Saad asks for Bhangra tips from Happy.
+    - 42 Ram cuts in to dance with Dilmit.
+    - 43 Happy steps out of the party in anger and Saad joins him.
+    - 44 Happy attacks Ram in the school's back parking lot.
+    - 45 Happy tries to get the story straight before getting suspended.
+    - 46 Happy thinks of how to break his news until Mummi tells him to get a job as Daddi is laid off.
+    - 47 Happy thinks on his feet while buying weed.
+    - 48 Saad tells Amit to back off from Sweety.
+    - 49 Happy tries his first drink with Jug.
+    - 50 Happy carries weed to his shift with the agency and chats with Jagpreet.
+    - 51 Happy gets ripped off by a customer.
+    - 52 Happy stands up to Daddi and Mummi gets in the middle
+    - 53 Happy gets stranded at Wonderland until Moose hotwires him a car.
+    - 54 Happy gels his beard in the school mirror
+    - 55 Happy tells Sweety how he feels and she rejects him.
+    - 56 Happy avoids Amit in vain and the Young Gunz have a big fight.
+    - 57 Happy tries to rest off an infection in Punjab, but Pinder won't let him.
+    - 58 Happy is driven through the village while he reflects on his privilege.
+    - 59 Happy is overwhelmed at Medhiana Sahib.
+    - 60 Happy and Pinder get home to drunk Daddi, breaking the spell.
+    - 61 Happy and Mummi comes home to a messy home and a knock from Sweety.
+    - 62 Happy walks into a fight at Minder's house.
+    - 63 Happy arranges to make a theft with Vick in loss prevention.
+    - 64 Happy finds out that Odaine is in the new hire class.
+    - 65 Happy's boss bullies him with flashbacks of Amit.
+    - 66 Happy reenages with Sweety after years apart.
+    - 67 Saad's returns to visit Happy from Vaughan.
+    - 68 Happy battles the bedbugs
+    - 69 Happy reconnects with Sweety while walking through the hallway.
+    - 70 Dilmit pushes Amit and Ram to bully Happy until Shera breaks it up.
+    - 71 Happy drives the crew around the neighbourhood.
+    - 72 Shera calls Saad to pick them up while getting increasingly paranoid.
+    - 73 Happy sees Minder doing poorly in custody.
+    - 74 Saad meets Happy at the mall to hand over cash and sell stolen merchandise.
+    - 75 Happy confronts Babbu at the mall.
+    - 76 Happy tries to ask Sweety out one last time.
+    - 77 Boss interrogates Happy at a work party.
+    - 78 Jug abuses Giselle on a late night road trip.
+    - 79 Happy gets attacked by Billa in his whip and has to subdue him after a crash.
+    - 80 Happy goes to Gobind's garage for repairs.
+    - 81 Mummi warns that they'll have to send Minder home as his apartment is expensive.
+    - 82 Happy tries to recruit Odaine to the scam and fails.
+    - 83 Happy gets caught stealing by Boss and Moose gets arrested.
+    - 84 Happy waits for Shera outside his house but he won't come out.
+    - 85 Saad pressures Happy to install chip at Sweety's workplace.
+    - 86 Saad and Happy tail Amit as he runs credit cards.
+    - 87 Jug is found dead in a stairwell.
+    - 88 Happy breaks down and gets consoled by Mummi, but it leaves him wanting more.
+    - 89 Happy asks Shera for help to break free from Saad. Happy snitches on Amit
+    - 90 Happy tells Saad he won't chip the machine and Saad beats him up
+    - 91 Happy & Minder get ready at their now-shared apartment. Boss meets Happy downstairs
+    - 1 Happy plots to cover up for Minder during their move apart but gets found out.
+    - 2 Happy searches for Daddi only for him to be brought home drunk by police.
+    - 3 Happy meets Saad on the first day of school and gets in trouble alongside him.
+  ignoredFiles: []
+---

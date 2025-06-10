@@ -1,0 +1,4 @@
+- Why have I always wanted kids?
+- Getting into planning mode
+- Finding out Sarah was pregnant 
+- 

@@ -1,0 +1,68 @@
+
+- We need a 96 aircraft CPA fleet to meet our needs
+	- 86 aircraft to cover our core network
+	- +5 DH4 to cover YTZ expansion
+	- +5 R-Jets to cover anticipated narrowbody shortfall (verify)
+- This can be achieved on two paths:
+	- Jazz Growth
+		- PAL stays flat to plan (6)
+		- Jazz grows from planned end-state of 80 to 90
+		- Pros: 
+			- Cheapest on paper due to nil fixed margin on +10 aircraft
+		- Cons:
+			- Not realistically achievable due to pilot shortage
+			- Very expensive ALPA raise to recruit enough pilots
+	- PAL Growth
+		- Jazz stays flat to plan (80)
+		- PAL grows from 6 to 16
+		- Pros:
+			- PAL can get the pilots (verify)
+			- PAL can ramp quickly (verify)
+			- PAL cheaper on FOPS, IFS and airports costs
+		- Cons:
+			- More fixed margin expense
+			- YTZ start-up costs & Jazz staff base closure 
+- Assumed Reccommendation: PAL Growth
+
+- PAL Growth - Supporting Business Cases (in order)
+	- PAL YTZ Plan
+		- Endstate network P&L (mostly done)
+		- Jazz pilots redeployed more efficiently
+			- YUL: -5 DH4 +5 Jet = additional x BH per pilot
+		- Start-up costs and timing
+			- Crew hiring/training
+			- Aircraft acquisition
+			- Livery, interiors, wifi 
+			- Jazz ground staff severance
+	- Jazz Efficiency Plan
+		- PAL in YTZ unlocks chance to simplify Jazz further
+		- Closing YVR/YYC CR9 base
+			- Open bid positions in YYZ/YULJet
+			- Some LRP bid positions in YVR/YYC DH4?
+			- spill/recapture assumptions
+		- Closing YYZ DH4
+			- Open positions on Jet
+		- Savings
+			- MTC stores consolidation
+			- Reserve savings (20>12 rosters)
+		- Suncor impact?
+		- Basing changes - execution order
+			- 2025: YYC initial reductions 
+			- 2026: YUL DH4 closes in line with PAL launch
+			- 2027: YYC/YVR CR9 close. YYZ DH4 close
+	- Single Jet Plan
+		- Decision on E75 vs CR9 single fleet type
+			- Size endstate value
+				- Parts simplification
+				- Additional roster reduction > reserve savings
+			- Incremental shifts towards endstate
+				- E75/CR9 lease dates
+				- Opportunistic fleet transactions
+				- Glowing Hearted conversion cost avoidance
+
+Next Steps:
+- Await PAL feedback
+- Mazin/Andrei
+    - Validate Stats on 80 QK Schedule
+    - Work with Guerline to validate efficiency gains
+- Meet in 2 weeks

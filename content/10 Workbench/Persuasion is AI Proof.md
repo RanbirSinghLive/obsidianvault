@@ -1,0 +1,1 @@
+In a world of advanced AI, humans will still allocate capital and deploy compute. Persuasion of those people will still be a wholly human domain. People can trust an AI but it is not persuading them.
