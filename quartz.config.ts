@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Quartz 4",
+    pageTitle: "Ranbir",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
@@ -24,8 +24,8 @@ const config: QuartzConfig = {
       "00 Private",
       "10 Workbench",
       "40 Reference",
-      "90 Templates",
-      "Media"
+      "90 Templates"
+      // 'Media' is intentionally not ignored so it uploads, but will be hidden from navigation elsewhere
     ],
     defaultDateType: "modified",
     theme: {
