@@ -185,7 +185,7 @@ Happy takes over the apartment if his uncle for cheap and moves out. his mum kno
 | Battle                                                               |                                                                                                                      |
 | Self-Revelation                                                      |                                                                                                                      |
 | Moral Decision                                                       |                                                                                                                      |
-| New Equilibrium                                                                     |                                                                                                                      |
+| New Equilibrium                                                      |                                                                                                                      |
 
 
 Opponent: Saad - fighting over control of Happy's future.

@@ -10,6 +10,6 @@ PromptInfo:
 content: 
 {{context}}
 prompt:
-summarize the content
+Summarize the what happens in this scene
 
 

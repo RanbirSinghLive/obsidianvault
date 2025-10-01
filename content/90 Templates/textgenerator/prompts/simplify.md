@@ -10,4 +10,4 @@ PromptInfo:
 content: 
 {{context}}
 prompt:
-make the content very clear and easy to understand
+Make the text very clear and easy to understand

@@ -1,7 +1,6 @@
 ---
 id: 6aa74b4d-7976-4884-bbdb-3de3306e8186
-title: "Special Sunday Edition: 12 Thoughts On Running (And Leading Teams &
-  Building Products)"
+title: "Special Sunday Edition: 12 Thoughts On Running (And Leading Teams & Building Products)"
 author: Scott Belsky
 date_saved: 2023-08-06 17:36:35
 date_published: 2023-08-06 17:35:42
@@ -19,3 +18,4 @@ date_published: 2023-08-06 17:35:42
 
 > **The pause between idea and action has a bounty we seldom reap.** _**Wait for it.**_ I have a lot of ideas while running, and I get obsessed with just trying to remember them but I never let myself stop mid-run to write them down. Partly because that would be a pathetically seductive excuse to take a break. But mostly because, if I let these ideas continue to brew they actually get better. Turns out, the time and distance between when you have an idea (and feel tempted to stop and capture it) and when you wait until you finish your run is a golden period of polish that doesn’t exist in the normal real-time sitting state world. That space in between is both a period of natural selection and iteration that supernaturally extends your blue sky state at a moment when endorphins are running high. On many occasions in my life, a good idea became a great idea (or a properly discarded idea) during this period. [⤴️](https://omnivore.app/me/special-sunday-edition-12-thoughts-on-running-and-leading-teams--189ccc7d471#ec1b4aa7-cb78-4d6a-b19c-c8db38919f39) 
 
+https://www.linkedin.com/posts/atlantic-airports_altitudeeast2025-activity-7341474759655788545-TrTw?utm_source=share&utm_medium=member_ios&rcm=ACoAAAs8jxgB5DnjYyZkyRHCqXuazFbEk3eCG-U

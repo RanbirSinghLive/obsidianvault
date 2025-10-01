@@ -1,0 +1,7 @@
+- Start Date: 01MAY26
+- Make YYZ, YOW, YUL, YQB AC staff?
+- 2 buses on YOWYUL = 7x daily
+- 2 buses on YULYQB = 4x daily
+- 1 bus on YGKYUL = 2x daily
+- 2 spares: 1 in YOW, 1 in YUL
+- All at risk, show incremental market share - can we get cellphone data?

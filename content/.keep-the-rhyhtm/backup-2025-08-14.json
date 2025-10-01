@@ -1,0 +1,2836 @@
+{
+  "schema": "0.2",
+  "settings": {
+    "enabledLanguages": [
+      "LATIN"
+    ],
+    "dailyWritingGoal": "500",
+    "startOfTheWeek": "SUNDAY",
+    "heatmapNavigation": true,
+    "heatmapConfig": {
+      "roundCells": true,
+      "hideMonthLabels": false,
+      "hideWeekdayLabels": false,
+      "intensityMode": "gradual",
+      "intensityStops": {
+        "low": 100,
+        "medium": 500,
+        "high": 1000
+      },
+      "colors": {
+        "light": {
+          "0": "#e0e0e0",
+          "1": "#9be9a8",
+          "2": "#6ad286",
+          "3": "#2ebd54",
+          "4": "#12a53e"
+        },
+        "dark": {
+          "0": "#ebedf015",
+          "1": "#0e4429",
+          "2": "#006d32",
+          "3": "#26a641",
+          "4": "#39d353"
+        }
+      }
+    },
+    "sidebarConfig": {
+      "visibility": {
+        "showSlots": true,
+        "showEntries": true,
+        "showHeatmap": true
+      },
+      "slots": []
+    }
+  },
+  "stats": {
+    "currentStreak": 0,
+    "highestStreak": 0,
+    "highestStreakStartDate": "",
+    "highestStreakEndDate": "",
+    "daysWithCompletedGoal": [
+      "2025-08-15",
+      "2025-08-16",
+      "2025-08-21",
+      "2025-09-14"
+    ],
+    "dailyActivity": [
+      {
+        "date": "2025-08-15",
+        "filePath": "00 Private/Dorian's Bunker/Dorian's Bunker/Dorian's Bunker - Draft 1.md",
+        "wordCountStart": 4832,
+        "charCountStart": 27720,
+        "changes": [
+          {
+            "timeKey": "21:10",
+            "w": 516,
+            "c": 2797
+          }
+        ],
+        "id": 1
+      },
+      {
+        "date": "2025-08-15",
+        "filePath": "2025-07-02.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "21:10",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 2
+      },
+      {
+        "date": "2025-08-15",
+        "filePath": "2025-08-07.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "21:10",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 3
+      },
+      {
+        "date": "2025-08-15",
+        "filePath": "2025-08-10.md",
+        "wordCountStart": 25,
+        "charCountStart": 241,
+        "changes": [
+          {
+            "timeKey": "21:10",
+            "w": -25,
+            "c": -241
+          }
+        ],
+        "id": 4
+      },
+      {
+        "date": "2025-08-16",
+        "filePath": "00 Private/Dorian's Bunker/Dorian's Bunker/Dorian's Bunker - Draft 1.md",
+        "wordCountStart": 5348,
+        "charCountStart": 30517,
+        "changes": [
+          {
+            "timeKey": "10:35",
+            "w": 14,
+            "c": 74
+          },
+          {
+            "timeKey": "15:45",
+            "w": 37,
+            "c": 199
+          },
+          {
+            "timeKey": "15:50",
+            "w": 90,
+            "c": 527
+          },
+          {
+            "timeKey": "15:55",
+            "w": 41,
+            "c": 206
+          },
+          {
+            "timeKey": "16:10",
+            "w": 154,
+            "c": 858
+          },
+          {
+            "timeKey": "23:30",
+            "w": -236,
+            "c": -1532
+          }
+        ],
+        "id": 5
+      },
+      {
+        "date": "2025-08-16",
+        "filePath": "00 Private/Dorian's Bunker/Dorian's Bunker - Story Bible.md",
+        "wordCountStart": 5988,
+        "charCountStart": 73577,
+        "changes": [],
+        "id": 6
+      },
+      {
+        "date": "2025-08-16",
+        "filePath": "00 Private/Dorian's Bunker/Dorian's Bunker - Story Bible.md",
+        "wordCountStart": 5978,
+        "charCountStart": 73531,
+        "changes": [
+          {
+            "timeKey": "09:50",
+            "w": 10,
+            "c": 46
+          }
+        ],
+        "id": 7
+      },
+      {
+        "date": "2025-08-16",
+        "filePath": "00 Private/Dorian's Bunker/Dorian's Bunker/Dorian's Bunker - Draft 1.md",
+        "wordCountStart": 5348,
+        "charCountStart": 30517,
+        "changes": [
+          {
+            "timeKey": "10:35",
+            "w": 14,
+            "c": 74
+          },
+          {
+            "timeKey": "15:45",
+            "w": 37,
+            "c": 199
+          },
+          {
+            "timeKey": "15:50",
+            "w": 90,
+            "c": 527
+          },
+          {
+            "timeKey": "15:55",
+            "w": 41,
+            "c": 206
+          },
+          {
+            "timeKey": "16:10",
+            "w": 154,
+            "c": 858
+          },
+          {
+            "timeKey": "23:30",
+            "w": -236,
+            "c": -1532
+          }
+        ],
+        "id": 8
+      },
+      {
+        "date": "2025-08-17",
+        "filePath": "00 Private/Dorian's Bunker/Dorian's Bunker/Dorian's Bunker - Draft 1.md",
+        "wordCountStart": 5448,
+        "charCountStart": 30849,
+        "changes": [
+          {
+            "timeKey": "14:20",
+            "w": 107,
+            "c": 606
+          },
+          {
+            "timeKey": "14:25",
+            "w": 2,
+            "c": 23
+          }
+        ],
+        "id": 10
+      },
+      {
+        "date": "2025-08-17",
+        "filePath": "00 Private/Dorian's Bunker/Dorian's Bunker/Dorian's Bunker - Draft 1.md",
+        "wordCountStart": 5557,
+        "charCountStart": 31478,
+        "changes": [
+          {
+            "timeKey": "15:00",
+            "w": 52,
+            "c": 294
+          },
+          {
+            "timeKey": "15:15",
+            "w": 0,
+            "c": 4
+          },
+          {
+            "timeKey": "15:20",
+            "w": 63,
+            "c": 338
+          },
+          {
+            "timeKey": "15:25",
+            "w": 21,
+            "c": 117
+          },
+          {
+            "timeKey": "20:20",
+            "w": 122,
+            "c": 662
+          },
+          {
+            "timeKey": "20:30",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 12
+      },
+      {
+        "date": "2025-08-17",
+        "filePath": "00 Private/Dorian's Bunker/Dorian's Bunker - Story Bible.md",
+        "wordCountStart": 6011,
+        "charCountStart": 73690,
+        "changes": [
+          {
+            "timeKey": "20:20",
+            "w": 55,
+            "c": 326
+          }
+        ],
+        "id": 13
+      },
+      {
+        "date": "2025-08-18",
+        "filePath": "00 Private/Dorian's Bunker/Dorian's Bunker/Dorian's Bunker - Draft 1.md",
+        "wordCountStart": 5815,
+        "charCountStart": 32893,
+        "changes": [],
+        "id": 16
+      },
+      {
+        "date": "2025-08-18",
+        "filePath": "Dorian's Bunker - Draft 1 - HiNote 202508141359.md",
+        "wordCountStart": 39,
+        "charCountStart": 223,
+        "changes": [
+          {
+            "timeKey": "21:35",
+            "w": -39,
+            "c": -223
+          }
+        ],
+        "id": 17
+      },
+      {
+        "date": "2025-08-18",
+        "filePath": "00 Private/Dorian's Bunker/Dorian's Bunker - Story Bible.md",
+        "wordCountStart": 6066,
+        "charCountStart": 74016,
+        "changes": [],
+        "id": 18
+      },
+      {
+        "date": "2025-08-18",
+        "filePath": "10 Workbench/Dorian’s Bunker Outline.base",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 19
+      },
+      {
+        "date": "2025-08-18",
+        "filePath": "00 Private/Dorian's Bunker/Dorian's Bunker/Car Ride.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 20
+      },
+      {
+        "date": "2025-08-18",
+        "filePath": "10 Workbench/Dorian's Bunker/Dorian's Bunker/Untitled.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "21:55",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 21
+      },
+      {
+        "date": "2025-08-18",
+        "filePath": "10 Workbench/Dorian's Bunker/Dorian's Bunker/Untitled 1.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "21:55",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 22
+      },
+      {
+        "date": "2025-08-19",
+        "filePath": "10 Workbench/Dorian’s Bunker Outline.base",
+        "wordCountStart": 55,
+        "charCountStart": 509,
+        "changes": [
+          {
+            "timeKey": "10:25",
+            "w": -55,
+            "c": -509
+          }
+        ],
+        "id": 23
+      },
+      {
+        "date": "2025-08-19",
+        "filePath": "00 Private/Dorian's Bunker/Dorian's Bunker - Story Bible.md",
+        "wordCountStart": 6066,
+        "charCountStart": 74016,
+        "changes": [],
+        "id": 24
+      },
+      {
+        "date": "2025-08-19",
+        "filePath": "00 Private/Dorian's Bunker/Dorian’s Bunker Outline.base",
+        "wordCountStart": 55,
+        "charCountStart": 509,
+        "changes": [],
+        "id": 25
+      },
+      {
+        "date": "2025-08-19",
+        "filePath": "10 Workbench/John Truby.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "10:15",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 26
+      },
+      {
+        "date": "2025-08-19",
+        "filePath": "Cards/It's Heuristics All The Way Down.md",
+        "wordCountStart": 188,
+        "charCountStart": 1076,
+        "changes": [],
+        "id": 27
+      },
+      {
+        "date": "2025-08-19",
+        "filePath": "Cards/Mansplaining.md",
+        "wordCountStart": 84,
+        "charCountStart": 453,
+        "changes": [],
+        "id": 28
+      },
+      {
+        "date": "2025-08-19",
+        "filePath": "Cards/LLM Education for Normies.md",
+        "wordCountStart": 5,
+        "charCountStart": 20,
+        "changes": [],
+        "id": 29
+      },
+      {
+        "date": "2025-08-19",
+        "filePath": "10 Workbench/Megathread Fodder.md",
+        "wordCountStart": 60,
+        "charCountStart": 349,
+        "changes": [],
+        "id": 30
+      },
+      {
+        "date": "2025-08-19",
+        "filePath": "Cards/Nic Cole's Fiction Advice.md",
+        "wordCountStart": 165,
+        "charCountStart": 904,
+        "changes": [],
+        "id": 31
+      },
+      {
+        "date": "2025-08-19",
+        "filePath": "Cards/Non Linear Ethnic Niche.md",
+        "wordCountStart": 12,
+        "charCountStart": 94,
+        "changes": [],
+        "id": 32
+      },
+      {
+        "date": "2025-08-19",
+        "filePath": "10 Workbench/Notes for Curley.md",
+        "wordCountStart": 126,
+        "charCountStart": 649,
+        "changes": [],
+        "id": 33
+      },
+      {
+        "date": "2025-08-19",
+        "filePath": "Cards/Persuasion is AI Proof.md",
+        "wordCountStart": 36,
+        "charCountStart": 199,
+        "changes": [],
+        "id": 34
+      },
+      {
+        "date": "2025-08-19",
+        "filePath": "Cards/Protocols For Nurturing New Life.md",
+        "wordCountStart": 1489,
+        "charCountStart": 8869,
+        "changes": [],
+        "id": 35
+      },
+      {
+        "date": "2025-08-19",
+        "filePath": "Cards/Social vs Self Development.md",
+        "wordCountStart": 17,
+        "charCountStart": 146,
+        "changes": [],
+        "id": 36
+      },
+      {
+        "date": "2025-08-19",
+        "filePath": "Cards/The Population Balm.md",
+        "wordCountStart": 529,
+        "charCountStart": 3341,
+        "changes": [],
+        "id": 37
+      },
+      {
+        "date": "2025-08-19",
+        "filePath": "40 Reference/The Scaling Era - An Oral History of AI 2019-2025.md",
+        "wordCountStart": 57,
+        "charCountStart": 355,
+        "changes": [],
+        "id": 38
+      },
+      {
+        "date": "2025-08-19",
+        "filePath": "10 Workbench/S26 Regional Expansion.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "10:15",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 39
+      },
+      {
+        "date": "2025-08-19",
+        "filePath": "Cards/Phone Numbers.md",
+        "wordCountStart": 139,
+        "charCountStart": 769,
+        "changes": [],
+        "id": 40
+      },
+      {
+        "date": "2025-08-19",
+        "filePath": "Cards/Life Coach.md",
+        "wordCountStart": 127,
+        "charCountStart": 717,
+        "changes": [],
+        "id": 41
+      },
+      {
+        "date": "2025-08-19",
+        "filePath": "Cards/How I built the Cards app..md",
+        "wordCountStart": 25,
+        "charCountStart": 177,
+        "changes": [],
+        "id": 42
+      },
+      {
+        "date": "2025-08-19",
+        "filePath": "00 Private/Project Wingspan.md",
+        "wordCountStart": 319,
+        "charCountStart": 2219,
+        "changes": [
+          {
+            "timeKey": "10:15",
+            "w": 10,
+            "c": 41
+          },
+          {
+            "timeKey": "10:20",
+            "w": 23,
+            "c": 97
+          },
+          {
+            "timeKey": "10:25",
+            "w": 0,
+            "c": 2
+          },
+          {
+            "timeKey": "10:30",
+            "w": 15,
+            "c": 62
+          }
+        ],
+        "id": 43
+      },
+      {
+        "date": "2025-08-19",
+        "filePath": "Cards/Final Mile.md",
+        "wordCountStart": 1723,
+        "charCountStart": 11506,
+        "changes": [],
+        "id": 44
+      },
+      {
+        "date": "2025-08-19",
+        "filePath": "Cards/Dreading The Longevity Rugpull.md",
+        "wordCountStart": 5,
+        "charCountStart": 26,
+        "changes": [],
+        "id": 45
+      },
+      {
+        "date": "2025-08-19",
+        "filePath": "Cards/Chain Migration.md",
+        "wordCountStart": 8,
+        "charCountStart": 39,
+        "changes": [],
+        "id": 46
+      },
+      {
+        "date": "2025-08-19",
+        "filePath": "Cards/Cards App.md",
+        "wordCountStart": 5334,
+        "charCountStart": 47138,
+        "changes": [],
+        "id": 47
+      },
+      {
+        "date": "2025-08-19",
+        "filePath": "Cards/Canada Tariffs.md",
+        "wordCountStart": 4,
+        "charCountStart": 17,
+        "changes": [],
+        "id": 48
+      },
+      {
+        "date": "2025-08-19",
+        "filePath": "Cards/Bodies.md",
+        "wordCountStart": 39,
+        "charCountStart": 207,
+        "changes": [],
+        "id": 49
+      },
+      {
+        "date": "2025-08-19",
+        "filePath": "Cards/Blocks as Content.md",
+        "wordCountStart": 4,
+        "charCountStart": 17,
+        "changes": [],
+        "id": 50
+      },
+      {
+        "date": "2025-08-19",
+        "filePath": "Cards/Ashes.md",
+        "wordCountStart": 469,
+        "charCountStart": 2503,
+        "changes": [],
+        "id": 51
+      },
+      {
+        "date": "2025-08-19",
+        "filePath": "Cards/An LLM's Guide To Humans.md",
+        "wordCountStart": 51,
+        "charCountStart": 324,
+        "changes": [],
+        "id": 52
+      },
+      {
+        "date": "2025-08-19",
+        "filePath": "Cards/2nd Order Punjabis.md",
+        "wordCountStart": 126,
+        "charCountStart": 757,
+        "changes": [],
+        "id": 53
+      },
+      {
+        "date": "2025-08-19",
+        "filePath": "00 Private/Dorian's Bunker/Dorian's Bunker/Dorian's Bunker - Draft 1.md",
+        "wordCountStart": 5815,
+        "charCountStart": 32893,
+        "changes": [
+          {
+            "timeKey": "14:35",
+            "w": 22,
+            "c": 116
+          },
+          {
+            "timeKey": "14:40",
+            "w": 109,
+            "c": 593
+          },
+          {
+            "timeKey": "15:10",
+            "w": -97,
+            "c": -677
+          },
+          {
+            "timeKey": "15:15",
+            "w": 28,
+            "c": 170
+          },
+          {
+            "timeKey": "15:20",
+            "w": 29,
+            "c": 135
+          },
+          {
+            "timeKey": "15:35",
+            "w": 86,
+            "c": 501
+          },
+          {
+            "timeKey": "15:40",
+            "w": 60,
+            "c": 326
+          },
+          {
+            "timeKey": "15:45",
+            "w": -11,
+            "c": -60
+          }
+        ],
+        "id": 55
+      },
+      {
+        "date": "2025-08-20",
+        "filePath": "00 Private/Dorian's Bunker/Dorian's Bunker/Dorian's Bunker - Draft 1.md",
+        "wordCountStart": 6041,
+        "charCountStart": 33997,
+        "changes": [
+          {
+            "timeKey": "09:00",
+            "w": 52,
+            "c": 309
+          },
+          {
+            "timeKey": "09:05",
+            "w": 57,
+            "c": 295
+          },
+          {
+            "timeKey": "09:10",
+            "w": 89,
+            "c": 465
+          },
+          {
+            "timeKey": "14:20",
+            "w": 12,
+            "c": 74
+          },
+          {
+            "timeKey": "14:25",
+            "w": 100,
+            "c": 571
+          },
+          {
+            "timeKey": "14:30",
+            "w": 1,
+            "c": 6
+          },
+          {
+            "timeKey": "15:20",
+            "w": 149,
+            "c": 858
+          },
+          {
+            "timeKey": "15:30",
+            "w": -104,
+            "c": -596
+          },
+          {
+            "timeKey": "15:40",
+            "w": 74,
+            "c": 373
+          },
+          {
+            "timeKey": "15:45",
+            "w": 10,
+            "c": 55
+          },
+          {
+            "timeKey": "15:50",
+            "w": 30,
+            "c": 174
+          }
+        ],
+        "id": 56
+      },
+      {
+        "date": "2025-08-20",
+        "filePath": "00 Private/Dorian's Bunker/Dorian's Bunker - Story Bible.md",
+        "wordCountStart": 6066,
+        "charCountStart": 74016,
+        "changes": [
+          {
+            "timeKey": "14:20",
+            "w": 7,
+            "c": 0
+          }
+        ],
+        "id": 57
+      },
+      {
+        "date": "2025-08-21",
+        "filePath": "00 Private/Dorian's Bunker/Dorian's Bunker/Dorian's Bunker - Draft 1.md",
+        "wordCountStart": 6511,
+        "charCountStart": 36581,
+        "changes": [
+          {
+            "timeKey": "19:40",
+            "w": 498,
+            "c": 2720
+          }
+        ],
+        "id": 58
+      },
+      {
+        "date": "2025-08-21",
+        "filePath": "10 Workbench/AI Scaling Board Game.md",
+        "wordCountStart": 146,
+        "charCountStart": 835,
+        "changes": [
+          {
+            "timeKey": "19:40",
+            "w": 43,
+            "c": 242
+          },
+          {
+            "timeKey": "19:50",
+            "w": 45,
+            "c": 268
+          },
+          {
+            "timeKey": "19:55",
+            "w": 25,
+            "c": 152
+          },
+          {
+            "timeKey": "20:00",
+            "w": 1,
+            "c": 8
+          },
+          {
+            "timeKey": "20:05",
+            "w": 17,
+            "c": 117
+          },
+          {
+            "timeKey": "20:10",
+            "w": 12,
+            "c": 75
+          },
+          {
+            "timeKey": "20:15",
+            "w": 16,
+            "c": 96
+          },
+          {
+            "timeKey": "20:20",
+            "w": 7,
+            "c": 54
+          },
+          {
+            "timeKey": "20:25",
+            "w": 4,
+            "c": 30
+          },
+          {
+            "timeKey": "20:45",
+            "w": 22,
+            "c": 127
+          },
+          {
+            "timeKey": "20:50",
+            "w": 6,
+            "c": 58
+          },
+          {
+            "timeKey": "21:10",
+            "w": 2,
+            "c": 20
+          },
+          {
+            "timeKey": "21:15",
+            "w": 26,
+            "c": 161
+          },
+          {
+            "timeKey": "21:20",
+            "w": 4,
+            "c": 39
+          },
+          {
+            "timeKey": "21:25",
+            "w": 10,
+            "c": 65
+          },
+          {
+            "timeKey": "21:30",
+            "w": 23,
+            "c": 182
+          },
+          {
+            "timeKey": "21:45",
+            "w": 17,
+            "c": 124
+          },
+          {
+            "timeKey": "21:55",
+            "w": 61,
+            "c": 338
+          },
+          {
+            "timeKey": "22:05",
+            "w": 4,
+            "c": 39
+          },
+          {
+            "timeKey": "22:10",
+            "w": 23,
+            "c": 183
+          },
+          {
+            "timeKey": "22:15",
+            "w": 28,
+            "c": 185
+          },
+          {
+            "timeKey": "22:20",
+            "w": 6,
+            "c": 41
+          },
+          {
+            "timeKey": "22:25",
+            "w": 46,
+            "c": 253
+          },
+          {
+            "timeKey": "22:30",
+            "w": 3,
+            "c": 14
+          },
+          {
+            "timeKey": "22:35",
+            "w": 6,
+            "c": 53
+          },
+          {
+            "timeKey": "22:55",
+            "w": -1,
+            "c": -9
+          }
+        ],
+        "id": 59
+      },
+      {
+        "date": "2025-08-22",
+        "filePath": "10 Workbench/AI Scaling Board Game.md",
+        "wordCountStart": 602,
+        "charCountStart": 3750,
+        "changes": [
+          {
+            "timeKey": "04:40",
+            "w": 17,
+            "c": 105
+          },
+          {
+            "timeKey": "18:00",
+            "w": 902,
+            "c": 4838
+          },
+          {
+            "timeKey": "20:20",
+            "w": 41,
+            "c": 244
+          },
+          {
+            "timeKey": "20:25",
+            "w": 9,
+            "c": 25
+          },
+          {
+            "timeKey": "20:45",
+            "w": 29,
+            "c": 181
+          },
+          {
+            "timeKey": "20:50",
+            "w": 268,
+            "c": 2346
+          },
+          {
+            "timeKey": "21:10",
+            "w": 301,
+            "c": 2523
+          },
+          {
+            "timeKey": "21:25",
+            "w": -46,
+            "c": -273
+          },
+          {
+            "timeKey": "22:45",
+            "w": 20,
+            "c": 60
+          }
+        ],
+        "id": 60
+      },
+      {
+        "date": "2025-08-22",
+        "filePath": "00 Private/Dorian's Bunker/Dorian's Bunker/Dorian's Bunker - Draft 1.md",
+        "wordCountStart": 7009,
+        "charCountStart": 39301,
+        "changes": [],
+        "id": 62
+      },
+      {
+        "date": "2025-08-22",
+        "filePath": "10 Workbench/S26 Regional Expansion.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:15",
+            "w": 33,
+            "c": 571
+          },
+          {
+            "timeKey": "12:20",
+            "w": 23,
+            "c": 268
+          }
+        ],
+        "id": 63
+      },
+      {
+        "date": "2025-08-22",
+        "filePath": "10 Workbench/AI Scaling Board Game.md",
+        "wordCountStart": 1504,
+        "charCountStart": 8588,
+        "changes": [
+          {
+            "timeKey": "04:40",
+            "w": 17,
+            "c": 105
+          },
+          {
+            "timeKey": "18:00",
+            "w": 902,
+            "c": 4838
+          },
+          {
+            "timeKey": "20:20",
+            "w": 41,
+            "c": 244
+          },
+          {
+            "timeKey": "20:25",
+            "w": 9,
+            "c": 25
+          },
+          {
+            "timeKey": "20:45",
+            "w": 29,
+            "c": 181
+          },
+          {
+            "timeKey": "20:50",
+            "w": 268,
+            "c": 2346
+          },
+          {
+            "timeKey": "21:10",
+            "w": 301,
+            "c": 2523
+          },
+          {
+            "timeKey": "21:25",
+            "w": -46,
+            "c": -273
+          },
+          {
+            "timeKey": "22:45",
+            "w": 20,
+            "c": 60
+          }
+        ],
+        "id": 64
+      },
+      {
+        "date": "2025-08-24",
+        "filePath": "10 Workbench/AI Scaling Board Game.md",
+        "wordCountStart": 1842,
+        "charCountStart": 11276,
+        "changes": [],
+        "id": 65
+      },
+      {
+        "date": "2025-08-24",
+        "filePath": "00 Private/Dorian's Bunker/Dorian’s Bunker Outline.base",
+        "wordCountStart": 60,
+        "charCountStart": 576,
+        "changes": [],
+        "id": 66
+      },
+      {
+        "date": "2025-08-24",
+        "filePath": "00 Private/Dorian's Bunker/Dorian's Bunker/Dorian's Bunker - Draft 1.md",
+        "wordCountStart": 7009,
+        "charCountStart": 39301,
+        "changes": [
+          {
+            "timeKey": "12:15",
+            "w": 9,
+            "c": 46
+          },
+          {
+            "timeKey": "12:20",
+            "w": 14,
+            "c": 77
+          },
+          {
+            "timeKey": "20:00",
+            "w": 18,
+            "c": 101
+          }
+        ],
+        "id": 67
+      },
+      {
+        "date": "2025-08-24",
+        "filePath": "00 Private/Dorian's Bunker/Dorian's Bunker - Story Bible.md",
+        "wordCountStart": 6073,
+        "charCountStart": 74016,
+        "changes": [
+          {
+            "timeKey": "20:00",
+            "w": 22,
+            "c": 105
+          }
+        ],
+        "id": 68
+      },
+      {
+        "date": "2025-08-25",
+        "filePath": "00 Private/Dorian's Bunker/Dorian's Bunker/Dorian's Bunker - Draft 1.md",
+        "wordCountStart": 7050,
+        "charCountStart": 39525,
+        "changes": [
+          {
+            "timeKey": "20:00",
+            "w": 46,
+            "c": 240
+          },
+          {
+            "timeKey": "20:05",
+            "w": 68,
+            "c": 384
+          },
+          {
+            "timeKey": "20:25",
+            "w": 40,
+            "c": 223
+          },
+          {
+            "timeKey": "21:50",
+            "w": 17,
+            "c": 99
+          },
+          {
+            "timeKey": "22:00",
+            "w": 60,
+            "c": 324
+          }
+        ],
+        "id": 69
+      },
+      {
+        "date": "2025-09-01",
+        "filePath": "10 Workbench/AI Scaling Board Game.md",
+        "wordCountStart": 1842,
+        "charCountStart": 11276,
+        "changes": [
+          {
+            "timeKey": "19:55",
+            "w": 74,
+            "c": 388
+          },
+          {
+            "timeKey": "20:00",
+            "w": -26,
+            "c": -134
+          },
+          {
+            "timeKey": "20:25",
+            "w": 6,
+            "c": 37
+          },
+          {
+            "timeKey": "20:30",
+            "w": 18,
+            "c": 87
+          },
+          {
+            "timeKey": "20:35",
+            "w": -29,
+            "c": -163
+          },
+          {
+            "timeKey": "20:40",
+            "w": 2,
+            "c": 22
+          }
+        ],
+        "id": 70
+      },
+      {
+        "date": "2025-09-10",
+        "filePath": "10 Workbench/AI Scaling Board Game.md",
+        "wordCountStart": 1887,
+        "charCountStart": 11513,
+        "changes": [],
+        "id": 71
+      },
+      {
+        "date": "2025-09-10",
+        "filePath": "00 Private/Landline YOWYUL.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "16:35",
+            "w": 4,
+            "c": 21
+          },
+          {
+            "timeKey": "16:50",
+            "w": 0,
+            "c": 3
+          }
+        ],
+        "id": 72
+      },
+      {
+        "date": "2025-09-12",
+        "filePath": "00 Private/Landline YOWYUL.md",
+        "wordCountStart": 4,
+        "charCountStart": 24,
+        "changes": [
+          {
+            "timeKey": "12:35",
+            "w": 48,
+            "c": 229
+          }
+        ],
+        "id": 73
+      },
+      {
+        "date": "2025-09-12",
+        "filePath": "10 Workbench/Future of Flight.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:35",
+            "w": 11,
+            "c": 80
+          },
+          {
+            "timeKey": "12:40",
+            "w": 82,
+            "c": 553
+          }
+        ],
+        "id": 74
+      },
+      {
+        "date": "2025-09-14",
+        "filePath": "10 Workbench/Future of Flight.md",
+        "wordCountStart": 93,
+        "charCountStart": 633,
+        "changes": [],
+        "id": 75
+      },
+      {
+        "date": "2025-09-14",
+        "filePath": "00 Private/Landline YOWYUL.md",
+        "wordCountStart": 52,
+        "charCountStart": 253,
+        "changes": [],
+        "id": 76
+      },
+      {
+        "date": "2025-09-14",
+        "filePath": "10 Workbench/Notes for Curley.md",
+        "wordCountStart": 126,
+        "charCountStart": 649,
+        "changes": [],
+        "id": 77
+      },
+      {
+        "date": "2025-09-14",
+        "filePath": "00 Private/Project Wingspan.md",
+        "wordCountStart": 367,
+        "charCountStart": 2421,
+        "changes": [],
+        "id": 78
+      },
+      {
+        "date": "2025-09-14",
+        "filePath": "10 Workbench/S26 Regional Expansion.md",
+        "wordCountStart": 56,
+        "charCountStart": 839,
+        "changes": [],
+        "id": 79
+      },
+      {
+        "date": "2025-09-14",
+        "filePath": "Cards/The Age of Electric Flight Has Begun.md",
+        "wordCountStart": 649,
+        "charCountStart": 3933,
+        "changes": [
+          {
+            "timeKey": "06:45",
+            "w": 37,
+            "c": 235
+          },
+          {
+            "timeKey": "07:20",
+            "w": 49,
+            "c": 305
+          },
+          {
+            "timeKey": "07:25",
+            "w": 37,
+            "c": 241
+          },
+          {
+            "timeKey": "07:30",
+            "w": -1,
+            "c": 21
+          },
+          {
+            "timeKey": "07:35",
+            "w": 14,
+            "c": 83
+          },
+          {
+            "timeKey": "07:50",
+            "w": 76,
+            "c": 526
+          },
+          {
+            "timeKey": "14:10",
+            "w": 60,
+            "c": 345
+          },
+          {
+            "timeKey": "14:30",
+            "w": 19,
+            "c": 135
+          },
+          {
+            "timeKey": "14:45",
+            "w": 180,
+            "c": 1177
+          },
+          {
+            "timeKey": "14:55",
+            "w": 138,
+            "c": 770
+          },
+          {
+            "timeKey": "15:05",
+            "w": 6,
+            "c": 61
+          },
+          {
+            "timeKey": "15:35",
+            "w": 19,
+            "c": 120
+          },
+          {
+            "timeKey": "15:40",
+            "w": -40,
+            "c": -227
+          },
+          {
+            "timeKey": "15:45",
+            "w": -111,
+            "c": -602
+          },
+          {
+            "timeKey": "15:55",
+            "w": 276,
+            "c": 1812
+          },
+          {
+            "timeKey": "16:20",
+            "w": 3,
+            "c": 15
+          },
+          {
+            "timeKey": "16:25",
+            "w": 27,
+            "c": 155
+          },
+          {
+            "timeKey": "16:30",
+            "w": 4,
+            "c": 18
+          },
+          {
+            "timeKey": "16:35",
+            "w": 39,
+            "c": 221
+          },
+          {
+            "timeKey": "19:00",
+            "w": -271,
+            "c": -1788
+          },
+          {
+            "timeKey": "19:05",
+            "w": -140,
+            "c": -818
+          },
+          {
+            "timeKey": "21:15",
+            "w": -2,
+            "c": -23
+          },
+          {
+            "timeKey": "21:30",
+            "w": -2,
+            "c": -23
+          },
+          {
+            "timeKey": "22:00",
+            "w": 1,
+            "c": 7
+          },
+          {
+            "timeKey": "22:05",
+            "w": 23,
+            "c": 145
+          },
+          {
+            "timeKey": "22:10",
+            "w": 43,
+            "c": 266
+          },
+          {
+            "timeKey": "22:25",
+            "w": 2,
+            "c": 19
+          },
+          {
+            "timeKey": "22:30",
+            "w": 96,
+            "c": 596
+          },
+          {
+            "timeKey": "22:40",
+            "w": 165,
+            "c": 1033
+          }
+        ],
+        "id": 80
+      },
+      {
+        "date": "2025-09-14",
+        "filePath": "10 Workbench/Megathread Fodder.md",
+        "wordCountStart": 60,
+        "charCountStart": 349,
+        "changes": [],
+        "id": 81
+      },
+      {
+        "date": "2025-09-14",
+        "filePath": "10 Workbench/Highlights From Reading.md",
+        "wordCountStart": 32,
+        "charCountStart": 204,
+        "changes": [],
+        "id": 82
+      },
+      {
+        "date": "2025-09-14",
+        "filePath": "10 Workbench/Astro Mechanica - Packy McCormack.md",
+        "wordCountStart": 320,
+        "charCountStart": 1816,
+        "changes": [],
+        "id": 83
+      },
+      {
+        "date": "2025-09-14",
+        "filePath": "10 Workbench/AI Scaling Board Game.md",
+        "wordCountStart": 1887,
+        "charCountStart": 11513,
+        "changes": [],
+        "id": 84
+      },
+      {
+        "date": "2025-09-14",
+        "filePath": "Cards/The Age of Electric Flight Has Begun.md",
+        "wordCountStart": 649,
+        "charCountStart": 3933,
+        "changes": [
+          {
+            "timeKey": "06:45",
+            "w": 37,
+            "c": 235
+          },
+          {
+            "timeKey": "07:20",
+            "w": 49,
+            "c": 305
+          },
+          {
+            "timeKey": "07:25",
+            "w": 37,
+            "c": 241
+          },
+          {
+            "timeKey": "07:30",
+            "w": -1,
+            "c": 21
+          },
+          {
+            "timeKey": "07:35",
+            "w": 14,
+            "c": 83
+          },
+          {
+            "timeKey": "07:50",
+            "w": 76,
+            "c": 526
+          },
+          {
+            "timeKey": "14:10",
+            "w": 60,
+            "c": 345
+          },
+          {
+            "timeKey": "14:30",
+            "w": 19,
+            "c": 135
+          },
+          {
+            "timeKey": "14:45",
+            "w": 180,
+            "c": 1177
+          },
+          {
+            "timeKey": "14:55",
+            "w": 138,
+            "c": 770
+          },
+          {
+            "timeKey": "15:05",
+            "w": 6,
+            "c": 61
+          },
+          {
+            "timeKey": "15:35",
+            "w": 19,
+            "c": 120
+          },
+          {
+            "timeKey": "15:40",
+            "w": -40,
+            "c": -227
+          },
+          {
+            "timeKey": "15:45",
+            "w": -111,
+            "c": -602
+          },
+          {
+            "timeKey": "15:55",
+            "w": 276,
+            "c": 1812
+          },
+          {
+            "timeKey": "16:20",
+            "w": 3,
+            "c": 15
+          },
+          {
+            "timeKey": "16:25",
+            "w": 27,
+            "c": 155
+          },
+          {
+            "timeKey": "16:30",
+            "w": 4,
+            "c": 18
+          },
+          {
+            "timeKey": "16:35",
+            "w": 39,
+            "c": 221
+          },
+          {
+            "timeKey": "19:00",
+            "w": -271,
+            "c": -1788
+          },
+          {
+            "timeKey": "19:05",
+            "w": -140,
+            "c": -818
+          },
+          {
+            "timeKey": "21:15",
+            "w": -2,
+            "c": -23
+          },
+          {
+            "timeKey": "21:30",
+            "w": -2,
+            "c": -23
+          },
+          {
+            "timeKey": "22:00",
+            "w": 1,
+            "c": 7
+          },
+          {
+            "timeKey": "22:05",
+            "w": 23,
+            "c": 145
+          },
+          {
+            "timeKey": "22:10",
+            "w": 43,
+            "c": 266
+          },
+          {
+            "timeKey": "22:25",
+            "w": 2,
+            "c": 19
+          },
+          {
+            "timeKey": "22:30",
+            "w": 96,
+            "c": 596
+          },
+          {
+            "timeKey": "22:40",
+            "w": 165,
+            "c": 1033
+          }
+        ],
+        "id": 85
+      },
+      {
+        "date": "2025-09-15",
+        "filePath": "Cards/The Age of Electric Flight Has Begun.md",
+        "wordCountStart": 982,
+        "charCountStart": 6125,
+        "changes": [
+          {
+            "timeKey": "06:35",
+            "w": 38,
+            "c": 242
+          },
+          {
+            "timeKey": "07:00",
+            "w": 12,
+            "c": 85
+          },
+          {
+            "timeKey": "07:05",
+            "w": 4,
+            "c": 21
+          },
+          {
+            "timeKey": "07:10",
+            "w": 50,
+            "c": 311
+          },
+          {
+            "timeKey": "07:15",
+            "w": -18,
+            "c": -119
+          },
+          {
+            "timeKey": "07:20",
+            "w": 17,
+            "c": 115
+          },
+          {
+            "timeKey": "07:25",
+            "w": 18,
+            "c": 135
+          },
+          {
+            "timeKey": "07:30",
+            "w": 16,
+            "c": 103
+          },
+          {
+            "timeKey": "07:35",
+            "w": 83,
+            "c": 576
+          },
+          {
+            "timeKey": "07:40",
+            "w": -8,
+            "c": -58
+          },
+          {
+            "timeKey": "13:45",
+            "w": 0,
+            "c": -21
+          },
+          {
+            "timeKey": "14:00",
+            "w": -18,
+            "c": -105
+          },
+          {
+            "timeKey": "15:50",
+            "w": 21,
+            "c": 123
+          },
+          {
+            "timeKey": "15:55",
+            "w": 3,
+            "c": 37
+          },
+          {
+            "timeKey": "16:00",
+            "w": -5,
+            "c": -28
+          },
+          {
+            "timeKey": "16:30",
+            "w": -66,
+            "c": -449
+          },
+          {
+            "timeKey": "16:35",
+            "w": -122,
+            "c": -812
+          },
+          {
+            "timeKey": "16:40",
+            "w": 93,
+            "c": 563
+          },
+          {
+            "timeKey": "16:45",
+            "w": 13,
+            "c": 58
+          },
+          {
+            "timeKey": "16:50",
+            "w": 2,
+            "c": 18
+          },
+          {
+            "timeKey": "16:55",
+            "w": 106,
+            "c": 618
+          },
+          {
+            "timeKey": "21:00",
+            "w": 30,
+            "c": 199
+          },
+          {
+            "timeKey": "21:05",
+            "w": -224,
+            "c": -1426
+          },
+          {
+            "timeKey": "21:10",
+            "w": -35,
+            "c": -266
+          },
+          {
+            "timeKey": "21:15",
+            "w": -227,
+            "c": -1472
+          },
+          {
+            "timeKey": "21:55",
+            "w": 173,
+            "c": 1347
+          },
+          {
+            "timeKey": "22:00",
+            "w": -22,
+            "c": -188
+          },
+          {
+            "timeKey": "22:05",
+            "w": -123,
+            "c": -969
+          },
+          {
+            "timeKey": "22:10",
+            "w": 6,
+            "c": 35
+          },
+          {
+            "timeKey": "22:25",
+            "w": -109,
+            "c": -902
+          },
+          {
+            "timeKey": "22:40",
+            "w": -14,
+            "c": -62
+          },
+          {
+            "timeKey": "22:50",
+            "w": -14,
+            "c": -62
+          },
+          {
+            "timeKey": "22:55",
+            "w": 8,
+            "c": 56
+          },
+          {
+            "timeKey": "23:00",
+            "w": 19,
+            "c": 114
+          },
+          {
+            "timeKey": "23:05",
+            "w": 47,
+            "c": 287
+          },
+          {
+            "timeKey": "23:15",
+            "w": 0,
+            "c": -3
+          },
+          {
+            "timeKey": "23:20",
+            "w": 65,
+            "c": 410
+          },
+          {
+            "timeKey": "23:25",
+            "w": 6,
+            "c": -1
+          },
+          {
+            "timeKey": "23:30",
+            "w": 14,
+            "c": 121
+          },
+          {
+            "timeKey": "23:55",
+            "w": 123,
+            "c": 762
+          }
+        ],
+        "id": 86
+      },
+      {
+        "date": "2025-09-15",
+        "filePath": "10 Workbench/Future of Flight.md",
+        "wordCountStart": 93,
+        "charCountStart": 633,
+        "changes": [
+          {
+            "timeKey": "09:20",
+            "w": 14,
+            "c": 96
+          }
+        ],
+        "id": 87
+      },
+      {
+        "date": "2025-09-16",
+        "filePath": "Cards/The Age of Electric Flight Has Begun.md",
+        "wordCountStart": 1121,
+        "charCountStart": 6941,
+        "changes": [
+          {
+            "timeKey": "15:45",
+            "w": -18,
+            "c": -126
+          },
+          {
+            "timeKey": "16:55",
+            "w": 19,
+            "c": 135
+          },
+          {
+            "timeKey": "17:00",
+            "w": -22,
+            "c": -149
+          },
+          {
+            "timeKey": "17:05",
+            "w": 2,
+            "c": 12
+          },
+          {
+            "timeKey": "17:10",
+            "w": 7,
+            "c": 65
+          },
+          {
+            "timeKey": "17:15",
+            "w": 3,
+            "c": 17
+          },
+          {
+            "timeKey": "17:20",
+            "w": 19,
+            "c": 145
+          },
+          {
+            "timeKey": "17:25",
+            "w": 10,
+            "c": 51
+          },
+          {
+            "timeKey": "17:30",
+            "w": 11,
+            "c": 59
+          },
+          {
+            "timeKey": "20:55",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "21:00",
+            "w": 15,
+            "c": 130
+          },
+          {
+            "timeKey": "21:05",
+            "w": 15,
+            "c": 68
+          },
+          {
+            "timeKey": "21:20",
+            "w": 23,
+            "c": 136
+          },
+          {
+            "timeKey": "21:25",
+            "w": -6,
+            "c": -34
+          }
+        ],
+        "id": 88
+      },
+      {
+        "date": "2025-09-16",
+        "filePath": "10 Workbench/Future of Flight.md",
+        "wordCountStart": 107,
+        "charCountStart": 729,
+        "changes": [],
+        "id": 89
+      },
+      {
+        "date": "2025-09-16",
+        "filePath": "10 Workbench/How Far Can A Plane Fly On Batteries?.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "22:25",
+            "w": 32,
+            "c": 201
+          }
+        ],
+        "id": 90
+      },
+      {
+        "date": "2025-09-18",
+        "filePath": "10 Workbench/S26 Regional Expansion.md",
+        "wordCountStart": 56,
+        "charCountStart": 839,
+        "changes": [],
+        "id": 91
+      },
+      {
+        "date": "2025-09-17",
+        "filePath": "10 Workbench/How Far Can A Plane Fly On Batteries?.md",
+        "wordCountStart": 32,
+        "charCountStart": 201,
+        "changes": [
+          {
+            "timeKey": "16:00",
+            "w": 95,
+            "c": 571
+          },
+          {
+            "timeKey": "16:05",
+            "w": 61,
+            "c": 359
+          }
+        ],
+        "id": 92
+      },
+      {
+        "date": "2025-09-17",
+        "filePath": "10 Workbench/Energy Density - The Key To Forecasting Electric Flight.md",
+        "wordCountStart": 188,
+        "charCountStart": 1131,
+        "changes": [
+          {
+            "timeKey": "22:00",
+            "w": 400,
+            "c": 3139
+          },
+          {
+            "timeKey": "22:05",
+            "w": 4,
+            "c": 31
+          },
+          {
+            "timeKey": "22:10",
+            "w": 14,
+            "c": 80
+          },
+          {
+            "timeKey": "22:15",
+            "w": 14,
+            "c": 72
+          },
+          {
+            "timeKey": "22:20",
+            "w": 24,
+            "c": 176
+          },
+          {
+            "timeKey": "22:40",
+            "w": -24,
+            "c": -225
+          },
+          {
+            "timeKey": "22:45",
+            "w": 42,
+            "c": 242
+          },
+          {
+            "timeKey": "23:00",
+            "w": 10,
+            "c": 95
+          }
+        ],
+        "id": 93
+      },
+      {
+        "date": "2025-09-18",
+        "filePath": "10 Workbench/Energy Density - The Key To Forecasting Electric Flight.md",
+        "wordCountStart": 672,
+        "charCountStart": 4741,
+        "changes": [
+          {
+            "timeKey": "07:35",
+            "w": 253,
+            "c": 1880
+          },
+          {
+            "timeKey": "07:40",
+            "w": -7,
+            "c": -150
+          },
+          {
+            "timeKey": "08:15",
+            "w": 6,
+            "c": 31
+          },
+          {
+            "timeKey": "08:20",
+            "w": 59,
+            "c": 300
+          },
+          {
+            "timeKey": "08:30",
+            "w": -30,
+            "c": -195
+          },
+          {
+            "timeKey": "08:35",
+            "w": -51,
+            "c": -371
+          },
+          {
+            "timeKey": "08:40",
+            "w": -83,
+            "c": -617
+          }
+        ],
+        "id": 94
+      },
+      {
+        "date": "2025-09-18",
+        "filePath": "10 Workbench/Astro Mechanica - Packy McCormack.md",
+        "wordCountStart": 320,
+        "charCountStart": 1816,
+        "changes": [],
+        "id": 95
+      },
+      {
+        "date": "2025-09-18",
+        "filePath": "10 Workbench/Future of Flight.md",
+        "wordCountStart": 107,
+        "charCountStart": 729,
+        "changes": [
+          {
+            "timeKey": "06:40",
+            "w": 3,
+            "c": 28
+          },
+          {
+            "timeKey": "07:30",
+            "w": 23,
+            "c": 156
+          },
+          {
+            "timeKey": "07:35",
+            "w": 31,
+            "c": 209
+          }
+        ],
+        "id": 96
+      },
+      {
+        "date": "2025-09-19",
+        "filePath": "10 Workbench/Future of Flight.md",
+        "wordCountStart": 114,
+        "charCountStart": 782,
+        "changes": [
+          {
+            "timeKey": "19:40",
+            "w": 81,
+            "c": 522
+          }
+        ],
+        "id": 97
+      },
+      {
+        "date": "2025-09-20",
+        "filePath": "10 Workbench/Energy Density - The Key To Forecasting Electric Flight.md",
+        "wordCountStart": 819,
+        "charCountStart": 5619,
+        "changes": [
+          {
+            "timeKey": "10:30",
+            "w": -32,
+            "c": -264
+          },
+          {
+            "timeKey": "10:35",
+            "w": -111,
+            "c": -920
+          },
+          {
+            "timeKey": "10:40",
+            "w": -95,
+            "c": -731
+          },
+          {
+            "timeKey": "11:50",
+            "w": 50,
+            "c": 325
+          },
+          {
+            "timeKey": "12:10",
+            "w": 6,
+            "c": 44
+          },
+          {
+            "timeKey": "14:05",
+            "w": 7,
+            "c": 51
+          },
+          {
+            "timeKey": "15:25",
+            "w": -13,
+            "c": -76
+          },
+          {
+            "timeKey": "15:45",
+            "w": 4,
+            "c": 25
+          },
+          {
+            "timeKey": "16:30",
+            "w": 6,
+            "c": 23
+          }
+        ],
+        "id": 100
+      },
+      {
+        "date": "2025-09-20",
+        "filePath": "10 Workbench/Future of Flight.md",
+        "wordCountStart": 195,
+        "charCountStart": 1304,
+        "changes": [],
+        "id": 101
+      },
+      {
+        "date": "2025-09-20",
+        "filePath": "10 Workbench/Energy Density - The Key To Forecasting Electric Flight.md",
+        "wordCountStart": 632,
+        "charCountStart": 4036,
+        "changes": [
+          {
+            "timeKey": "10:30",
+            "w": -32,
+            "c": -264
+          },
+          {
+            "timeKey": "10:35",
+            "w": -111,
+            "c": -920
+          },
+          {
+            "timeKey": "10:40",
+            "w": -95,
+            "c": -731
+          },
+          {
+            "timeKey": "11:50",
+            "w": 50,
+            "c": 325
+          },
+          {
+            "timeKey": "12:10",
+            "w": 6,
+            "c": 44
+          },
+          {
+            "timeKey": "14:05",
+            "w": 7,
+            "c": 51
+          },
+          {
+            "timeKey": "15:25",
+            "w": -13,
+            "c": -76
+          },
+          {
+            "timeKey": "15:45",
+            "w": 4,
+            "c": 25
+          },
+          {
+            "timeKey": "16:30",
+            "w": 6,
+            "c": 23
+          }
+        ],
+        "id": 102
+      },
+      {
+        "date": "2025-09-20",
+        "filePath": "10 Workbench/Astro Mechanica - Packy McCormack.md",
+        "wordCountStart": 320,
+        "charCountStart": 1816,
+        "changes": [],
+        "id": 103
+      },
+      {
+        "date": "2025-09-21",
+        "filePath": "10 Workbench/Astro Mechanica - Packy McCormack.md",
+        "wordCountStart": 320,
+        "charCountStart": 1816,
+        "changes": [],
+        "id": 104
+      },
+      {
+        "date": "2025-09-21",
+        "filePath": "10 Workbench/Energy Density - The Key To Forecasting Electric Flight.md",
+        "wordCountStart": 1157,
+        "charCountStart": 7228,
+        "changes": [
+          {
+            "timeKey": "10:50",
+            "w": -18,
+            "c": -148
+          },
+          {
+            "timeKey": "10:55",
+            "w": 3,
+            "c": 14
+          },
+          {
+            "timeKey": "11:00",
+            "w": -83,
+            "c": -597
+          },
+          {
+            "timeKey": "11:05",
+            "w": -116,
+            "c": -797
+          },
+          {
+            "timeKey": "11:10",
+            "w": 306,
+            "c": 3599
+          },
+          {
+            "timeKey": "11:15",
+            "w": 430,
+            "c": 3367
+          },
+          {
+            "timeKey": "20:45",
+            "w": 17,
+            "c": 51
+          },
+          {
+            "timeKey": "20:50",
+            "w": -66,
+            "c": -564
+          },
+          {
+            "timeKey": "20:55",
+            "w": -82,
+            "c": -646
+          },
+          {
+            "timeKey": "21:10",
+            "w": -11,
+            "c": -63
+          },
+          {
+            "timeKey": "21:35",
+            "w": -180,
+            "c": -1446
+          },
+          {
+            "timeKey": "21:40",
+            "w": -24,
+            "c": -164
+          },
+          {
+            "timeKey": "21:45",
+            "w": 39,
+            "c": -1
+          },
+          {
+            "timeKey": "21:50",
+            "w": -102,
+            "c": -1409
+          },
+          {
+            "timeKey": "22:20",
+            "w": -116,
+            "c": -1516
+          },
+          {
+            "timeKey": "22:25",
+            "w": 12,
+            "c": 51
+          },
+          {
+            "timeKey": "22:30",
+            "w": -30,
+            "c": -230
+          },
+          {
+            "timeKey": "22:40",
+            "w": 66,
+            "c": 353
+          }
+        ],
+        "id": 105
+      },
+      {
+        "date": "2025-09-22",
+        "filePath": "10 Workbench/Energy Density - The Key To Forecasting Electric Flight.md",
+        "wordCountStart": 1202,
+        "charCountStart": 7082,
+        "changes": [
+          {
+            "timeKey": "12:20",
+            "w": -4,
+            "c": -33
+          },
+          {
+            "timeKey": "14:45",
+            "w": 28,
+            "c": 208
+          },
+          {
+            "timeKey": "14:50",
+            "w": -23,
+            "c": -154
+          },
+          {
+            "timeKey": "14:55",
+            "w": -2,
+            "c": -9
+          },
+          {
+            "timeKey": "15:00",
+            "w": 10,
+            "c": 85
+          }
+        ],
+        "id": 106
+      },
+      {
+        "date": "2025-09-22",
+        "filePath": "10 Workbench/Untitled.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:20",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 107
+      },
+      {
+        "date": "2025-09-22",
+        "filePath": "10 Workbench/Untitled Kanban.md",
+        "wordCountStart": 2,
+        "charCountStart": 32,
+        "changes": [
+          {
+            "timeKey": "08:40",
+            "w": -2,
+            "c": -32
+          },
+          {
+            "timeKey": "08:45",
+            "w": 1,
+            "c": 4
+          },
+          {
+            "timeKey": "12:20",
+            "w": -1,
+            "c": -4
+          }
+        ],
+        "id": 108
+      },
+      {
+        "date": "2025-09-22",
+        "filePath": "10 Workbench/Future of Flight.md",
+        "wordCountStart": 195,
+        "charCountStart": 1304,
+        "changes": [],
+        "id": 109
+      },
+      {
+        "date": "2025-09-22",
+        "filePath": "40 Reference/Astro Mechanica - Packy McCormack.md",
+        "wordCountStart": 320,
+        "charCountStart": 1816,
+        "changes": [],
+        "id": 110
+      },
+      {
+        "date": "2025-09-22",
+        "filePath": "00 Private/Notes for Curley.md",
+        "wordCountStart": 126,
+        "charCountStart": 649,
+        "changes": [],
+        "id": 111
+      },
+      {
+        "date": "2025-09-22",
+        "filePath": "10 Workbench/Newsletter.md",
+        "wordCountStart": 52,
+        "charCountStart": 395,
+        "changes": [],
+        "id": 112
+      },
+      {
+        "date": "2025-09-23",
+        "filePath": "10 Workbench/Energy Density - The Key To Forecasting Electric Flight.md",
+        "wordCountStart": 1172,
+        "charCountStart": 7215,
+        "changes": [
+          {
+            "timeKey": "06:05",
+            "w": -71,
+            "c": -565
+          }
+        ],
+        "id": 113
+      },
+      {
+        "date": "2025-09-24",
+        "filePath": "10 Workbench/Energy Density - The Key To Forecasting Electric Flight.md",
+        "wordCountStart": 1101,
+        "charCountStart": 6650,
+        "changes": [
+          {
+            "timeKey": "15:35",
+            "w": -1101,
+            "c": -6650
+          }
+        ],
+        "id": 114
+      },
+      {
+        "date": "2025-09-24",
+        "filePath": "10 Workbench/Hybrid Electric - Force Multiplier or Distraction?.md",
+        "wordCountStart": 72,
+        "charCountStart": 445,
+        "changes": [
+          {
+            "timeKey": "15:35",
+            "w": 19,
+            "c": 102
+          },
+          {
+            "timeKey": "15:40",
+            "w": 12,
+            "c": 93
+          }
+        ],
+        "id": 115
+      },
+      {
+        "date": "2025-09-24",
+        "filePath": "10 Workbench/Newsletter.md",
+        "wordCountStart": 60,
+        "charCountStart": 435,
+        "changes": [
+          {
+            "timeKey": "07:05",
+            "w": -60,
+            "c": -435
+          },
+          {
+            "timeKey": "07:10",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 116
+      },
+      {
+        "date": "2025-09-24",
+        "filePath": "Cards/Future of Flight.md",
+        "wordCountStart": 195,
+        "charCountStart": 1304,
+        "changes": [
+          {
+            "timeKey": "07:05",
+            "w": -1,
+            "c": -14
+          }
+        ],
+        "id": 117
+      },
+      {
+        "date": "2025-09-24",
+        "filePath": "10 Workbench/Hybrid Electric - Force Multiplier or Distraction?.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "07:15",
+            "w": 18,
+            "c": 109
+          },
+          {
+            "timeKey": "07:20",
+            "w": 54,
+            "c": 336
+          },
+          {
+            "timeKey": "16:45",
+            "w": 31,
+            "c": 195
+          }
+        ],
+        "id": 118
+      },
+      {
+        "date": "2025-09-24",
+        "filePath": "Cards/Newsletter.md",
+        "wordCountStart": 55,
+        "charCountStart": 361,
+        "changes": [],
+        "id": 119
+      },
+      {
+        "date": "2025-09-24",
+        "filePath": "00 Private/Newsletters.md",
+        "wordCountStart": 166,
+        "charCountStart": 1066,
+        "changes": [],
+        "id": 120
+      },
+      {
+        "date": "2025-09-24",
+        "filePath": "Cards/Energy Density - The Key To Forecasting Electric Flight.md",
+        "wordCountStart": 1104,
+        "charCountStart": 6765,
+        "changes": [],
+        "id": 121
+      },
+      {
+        "date": "2025-09-27",
+        "filePath": "10 Workbench/Hybrid Electric - Force Multiplier or Distraction?.md",
+        "wordCountStart": 103,
+        "charCountStart": 640,
+        "changes": [
+          {
+            "timeKey": "17:20",
+            "w": 65,
+            "c": 406
+          },
+          {
+            "timeKey": "17:30",
+            "w": 102,
+            "c": 699
+          },
+          {
+            "timeKey": "20:50",
+            "w": 23,
+            "c": 151
+          },
+          {
+            "timeKey": "20:55",
+            "w": 62,
+            "c": 398
+          },
+          {
+            "timeKey": "22:15",
+            "w": 101,
+            "c": 691
+          },
+          {
+            "timeKey": "22:20",
+            "w": -74,
+            "c": -499
+          },
+          {
+            "timeKey": "22:25",
+            "w": -10,
+            "c": -90
+          }
+        ],
+        "id": 123
+      },
+      {
+        "date": "2025-09-27",
+        "filePath": "10 Workbench/Hybrid Electric - Force Multiplier or Distraction?.md",
+        "wordCountStart": 103,
+        "charCountStart": 640,
+        "changes": [
+          {
+            "timeKey": "17:05",
+            "w": 65,
+            "c": 406
+          },
+          {
+            "timeKey": "17:20",
+            "w": 65,
+            "c": 406
+          },
+          {
+            "timeKey": "17:30",
+            "w": 102,
+            "c": 699
+          },
+          {
+            "timeKey": "20:50",
+            "w": 23,
+            "c": 151
+          },
+          {
+            "timeKey": "20:55",
+            "w": 62,
+            "c": 398
+          },
+          {
+            "timeKey": "22:15",
+            "w": 101,
+            "c": 691
+          },
+          {
+            "timeKey": "22:20",
+            "w": -74,
+            "c": -499
+          },
+          {
+            "timeKey": "22:25",
+            "w": -10,
+            "c": -90
+          }
+        ],
+        "id": 124
+      },
+      {
+        "date": "2025-09-27",
+        "filePath": "10 Workbench/Highlights From Reading.md",
+        "wordCountStart": 32,
+        "charCountStart": 204,
+        "changes": [],
+        "id": 125
+      },
+      {
+        "date": "2025-09-27",
+        "filePath": "10 Workbench/Megathread Fodder.md",
+        "wordCountStart": 60,
+        "charCountStart": 349,
+        "changes": [],
+        "id": 126
+      },
+      {
+        "date": "2025-09-27",
+        "filePath": "10 Workbench/Maeve Aerospace.md",
+        "wordCountStart": 273,
+        "charCountStart": 1812,
+        "changes": [
+          {
+            "timeKey": "20:10",
+            "w": -273,
+            "c": -1812
+          }
+        ],
+        "id": 127
+      },
+      {
+        "date": "2025-09-28",
+        "filePath": "10 Workbench/Hybrid Electric - Force Multiplier or Distraction?.md",
+        "wordCountStart": 287,
+        "charCountStart": 1847,
+        "changes": [
+          {
+            "timeKey": "20:40",
+            "w": 157,
+            "c": 1013
+          },
+          {
+            "timeKey": "20:45",
+            "w": -56,
+            "c": -366
+          },
+          {
+            "timeKey": "21:25",
+            "w": 40,
+            "c": 345
+          },
+          {
+            "timeKey": "21:30",
+            "w": 6,
+            "c": 37
+          },
+          {
+            "timeKey": "22:00",
+            "w": 7,
+            "c": 42
+          },
+          {
+            "timeKey": "22:05",
+            "w": 139,
+            "c": 959
+          },
+          {
+            "timeKey": "22:10",
+            "w": -39,
+            "c": -251
+          },
+          {
+            "timeKey": "22:55",
+            "w": 201,
+            "c": 1403
+          },
+          {
+            "timeKey": "23:00",
+            "w": 0,
+            "c": -26
+          }
+        ],
+        "id": 128
+      },
+      {
+        "date": "2025-09-28",
+        "filePath": "Cards/Energy Density - The Key To Forecasting Electric Flight.md",
+        "wordCountStart": 1104,
+        "charCountStart": 6765,
+        "changes": [],
+        "id": 129
+      },
+      {
+        "date": "2025-09-29",
+        "filePath": "10 Workbench/Hybrid Electric - Force Multiplier or Distraction?.md",
+        "wordCountStart": 742,
+        "charCountStart": 5003,
+        "changes": [
+          {
+            "timeKey": "06:50",
+            "w": 25,
+            "c": 116
+          }
+        ],
+        "id": 130
+      },
+      {
+        "date": "2025-09-30",
+        "filePath": "10 Workbench/Hybrid Electric - Force Multiplier or Distraction?.md",
+        "wordCountStart": 763,
+        "charCountStart": 5101,
+        "changes": [
+          {
+            "timeKey": "11:55",
+            "w": -155,
+            "c": -1169
+          },
+          {
+            "timeKey": "12:00",
+            "w": 11,
+            "c": 63
+          },
+          {
+            "timeKey": "12:10",
+            "w": 121,
+            "c": 773
+          },
+          {
+            "timeKey": "12:15",
+            "w": -118,
+            "c": -675
+          },
+          {
+            "timeKey": "13:40",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "15:50",
+            "w": 0,
+            "c": -2
+          }
+        ],
+        "id": 131
+      },
+      {
+        "date": "2025-09-30",
+        "filePath": "10 Workbench/Hybrid Electric - Force Multipier or Dud?.md",
+        "wordCountStart": 605,
+        "charCountStart": 3908,
+        "changes": [
+          {
+            "timeKey": "13:40",
+            "w": -605,
+            "c": -3908
+          }
+        ],
+        "id": 132
+      }
+    ]
+  }
+}

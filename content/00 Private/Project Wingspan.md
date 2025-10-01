@@ -66,3 +66,23 @@ Next Steps:
     - Validate Stats on 80 QK Schedule
     - Work with Guerline to validate efficiency gains
 - Meet in 2 weeks
+
+
+PAL No in YTZ
+
+PAL
+YHZ: 6
+YUL: 5 (YFC, QC, YQY, YSJ, YYG/YGR)
+TTL: 11
+
+JAZZ:
+YYZ: 30 CR9
+YUL: 25 E75
+YTZ: 10 DH4
+YYC: 5 DH4
+YVR: 15 DH4
+
+W.CDA still only DH4
+YYZ only 1 jet
+YUL other jet
+YTZ only DH4

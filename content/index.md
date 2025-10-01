@@ -13,10 +13,9 @@ cover: Media/Profile Pic.png
 
 [[My goal is to become a prolific writer.]] This website is part of [[My life protocol.|my life protocol]] to reach that goal. This garden lacks a hard structure because [[Play-based workflows beat task-based for creative work.]]
 
-I'm writing a [[The Flamingos Fly|novel]] in public that's hosted entirely on this website. You can get more structured updates and tips on writing your own novel in Obsidian by reading my [[Cards/Newsletter]] or watching my [YouTube](https://www.youtube.com/channel/UCNmaLdMgE7Lq1is6DYOYaow) videos.
+I'm writing a couples of [[The Flamingos Fly|novels]] in [[Dorian's Bunker - Story Bible|public]] that are hosted entirely on this website. I also write a  [[Cards/Newsletter|Newsletter]] on next-gen aviation and make occasional [YouTube](https://www.youtube.com/channel/UCNmaLdMgE7Lq1is6DYOYaow) videos.
 
-I've also built the [[Cards/Minimal Writing System]] to help you get started writing in Obsidian!
+My day job: [Director, Regional Airlines and Markets](https://www.linkedin.com/in/ranbirsinghlive/) at Air Canada
 
 ## What I'm working on right now:
-- [[Flamingo Outline|The complete outline of my novel]] 🆕
-- [[On the eve of high school, Happy moves out of his childhood home due to a family fight.|The first chapter.]] 🆕
+- [[Hybrid Electric - Force Multiplier or Distraction?|A series on next-gen aviation]] 🆕

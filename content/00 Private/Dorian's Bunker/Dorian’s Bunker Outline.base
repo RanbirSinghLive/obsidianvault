@@ -1,0 +1,27 @@
+properties:
+  note.description:
+    displayName: Description
+views:
+  - type: table
+    name: XL Table
+    filters:
+      and:
+        - file.inFolder("10 Workbench/Dorian's Bunker/Dorian's Bunker")
+        - file.name != "Index"
+    order:
+      - file.name
+      - description
+      - Story Step
+      - Scene/Sequel
+      - Characters
+      - Story World
+      - Theme
+    sort:
+      - property: Characters
+        direction: DESC
+    rowHeight: extra
+    columnSize:
+      file.name: 117
+      note.description: 222
+      note.Story Step: 150
+      note.Story World: 144

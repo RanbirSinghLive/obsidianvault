@@ -1,0 +1,4 @@
+- I told my wife the story beats and she cmplimented the character names. I told her AI wrote them and she went 'oh'
+	- I told AI ti suggest 10 names and picked one, and also asked for an additional list of 10 when the first was too generic
+	- I used my judgement from AI suggestions
+	- Is that cheating? How is googling or plumbing my subconcious better?

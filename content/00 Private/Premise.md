@@ -1,4 +1,4 @@
-[[John Truby]] [[Anatomy of a Story]] #craft
+[John Truby]] [[Anatomy of a Story]] #craft
 
 - Story in one sentence
 - Simplest combination of character & plot
