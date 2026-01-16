@@ -5,7 +5,23 @@ import * as Component from "./quartz/components"
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
-  afterBody: [Component.PageColor()],
+  afterBody: [
+    Component.Comments({
+      provider: "giscus",
+      options: {
+        repo: "RanbirSinghLive/obsidianvault",
+        repoId: "R_kgDOOcSKoA",
+        category: "Announcements",
+        categoryId: "DIC_kwDOOcSKoM4C1DNe",
+        mapping: "pathname",
+        strict: false,
+        reactionsEnabled: true,
+        inputPosition: "bottom",
+        lang: "en",
+      },
+    }),
+    Component.PageColor(),
+  ],
   footer: Component.Footer({
     links: {
       GitHub: "https://github.com/RanbirSinghLive",
