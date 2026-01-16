@@ -12,9 +12,9 @@ const applyPageColor = () => {
   const root = document.documentElement
   const isDark = root.getAttribute("saved-theme") === "dark"
 
-  // Noticeable tint per page
-  const lightBg = `hsl(${hue}, 18%, 97%)`
-  const darkBg = `hsl(${hue}, 15%, 10%)`
+  // Very subtle tint per page - low saturation for cleaner backgrounds
+  const lightBg = `hsl(${hue}, 3%, 98%)`
+  const darkBg = `hsl(${hue}, 3%, 8%)`
 
   root.style.setProperty("--light", isDark ? darkBg : lightBg)
 }
