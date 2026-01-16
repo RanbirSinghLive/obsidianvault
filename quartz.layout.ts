@@ -6,6 +6,10 @@ export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
   afterBody: [
+    Component.NextPrevious({
+      hideWhenEmpty: true,
+      includeFolders: ["Cards"],
+    }),
     Component.Comments({
       provider: "giscus",
       options: {
