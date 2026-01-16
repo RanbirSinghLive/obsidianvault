@@ -1,0 +1,5 @@
+- Use John and the Maharajah as spine for fantasy world
+- John is the white character to draw folks in
+- Can be freer with world building and go beyond simply fictionalizing his account
+- Resurrect Khameth and Gonod as part of this universe 
+- The Hashashin/The Khalsa

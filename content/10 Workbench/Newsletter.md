@@ -20,15 +20,17 @@ kanban-plugin: board
 		- Electric planes take off and land close to MTOW, very different from jet aircraft
 		- The initial push should be B2B flying with established carriers
 - [ ] BETA IPO
+- [ ] Can we combine hydrogen and electric in one airplane to trade-off the power/energy limits?
 
 
 ## Next
 
+- [ ] SAF
 
 
 ## Draft
 
-- [ ] [[Hydrogen Flight - The Real Moonshot Electric Is Distracting You From]]
+- [ ] [[Hydrogen - The Second Pillar of the Propulsion Revolution]]
 
 
 ## Published

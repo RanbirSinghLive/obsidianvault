@@ -52,7 +52,9 @@
       "2025-08-15",
       "2025-08-16",
       "2025-08-21",
-      "2025-09-14"
+      "2025-09-14",
+      "2025-10-05",
+      "2026-01-11"
     ],
     "dailyActivity": [
       {
@@ -2383,7 +2385,7 @@
       },
       {
         "date": "2025-09-22",
-        "filePath": "10 Workbench/Untitled.md",
+        "filePath": "10 Workbench/Oct 2025 Novel Thoughts.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -2830,6 +2832,6700 @@
           }
         ],
         "id": 132
+      },
+      {
+        "date": "2025-10-01",
+        "filePath": "index.md",
+        "wordCountStart": 218,
+        "charCountStart": 1318,
+        "changes": [
+          {
+            "timeKey": "14:25",
+            "w": 1,
+            "c": 11
+          },
+          {
+            "timeKey": "14:35",
+            "w": -29,
+            "c": -131
+          },
+          {
+            "timeKey": "14:40",
+            "w": 6,
+            "c": 55
+          }
+        ],
+        "id": 133
+      },
+      {
+        "date": "2025-10-01",
+        "filePath": "Cards/Hybrid Electric - Force Multiplier or Distraction?.md",
+        "wordCountStart": 622,
+        "charCountStart": 4091,
+        "changes": [
+          {
+            "timeKey": "14:35",
+            "w": -4,
+            "c": -47
+          }
+        ],
+        "id": 134
+      },
+      {
+        "date": "2025-10-01",
+        "filePath": "Cards/Energy Density - The Key To Forecasting Electric Flight.md",
+        "wordCountStart": 1104,
+        "charCountStart": 6765,
+        "changes": [
+          {
+            "timeKey": "14:35",
+            "w": -5,
+            "c": -66
+          }
+        ],
+        "id": 135
+      },
+      {
+        "date": "2025-10-01",
+        "filePath": "Cards/The Age of Electric Flight Has Begun.md",
+        "wordCountStart": 1199,
+        "charCountStart": 7450,
+        "changes": [],
+        "id": 136
+      },
+      {
+        "date": "2025-10-01",
+        "filePath": "Cards/The Flamingos Fly.md",
+        "wordCountStart": 71,
+        "charCountStart": 461,
+        "changes": [],
+        "id": 137
+      },
+      {
+        "date": "2025-10-01",
+        "filePath": "00 Private/Dorian's Bunker/Dorian’s Bunker Outline.base",
+        "wordCountStart": 60,
+        "charCountStart": 576,
+        "changes": [],
+        "id": 138
+      },
+      {
+        "date": "2025-10-01",
+        "filePath": "00 Private/Dorian's Bunker/Dorian's Bunker - Story Bible.md",
+        "wordCountStart": 6095,
+        "charCountStart": 74121,
+        "changes": [],
+        "id": 139
+      },
+      {
+        "date": "2025-10-06",
+        "filePath": "Cards/Play-based workflows beat task-based for creative work..md",
+        "wordCountStart": 94,
+        "charCountStart": 576,
+        "changes": [],
+        "id": 141
+      },
+      {
+        "date": "2025-10-06",
+        "filePath": "10 Workbench/Hydrogen Flight - Going Where Electric Can’t.md",
+        "wordCountStart": 1362,
+        "charCountStart": 9309,
+        "changes": [
+          {
+            "timeKey": "09:15",
+            "w": 262,
+            "c": 1786
+          },
+          {
+            "timeKey": "09:20",
+            "w": -4,
+            "c": -33
+          },
+          {
+            "timeKey": "14:55",
+            "w": 19,
+            "c": 99
+          },
+          {
+            "timeKey": "15:00",
+            "w": 27,
+            "c": 168
+          },
+          {
+            "timeKey": "15:05",
+            "w": -8,
+            "c": -76
+          },
+          {
+            "timeKey": "15:10",
+            "w": -53,
+            "c": -366
+          },
+          {
+            "timeKey": "15:15",
+            "w": -171,
+            "c": -1124
+          },
+          {
+            "timeKey": "15:20",
+            "w": 21,
+            "c": 82
+          },
+          {
+            "timeKey": "15:25",
+            "w": -31,
+            "c": -204
+          },
+          {
+            "timeKey": "15:50",
+            "w": -196,
+            "c": -1421
+          },
+          {
+            "timeKey": "15:55",
+            "w": 51,
+            "c": 301
+          },
+          {
+            "timeKey": "16:00",
+            "w": -34,
+            "c": -243
+          },
+          {
+            "timeKey": "16:30",
+            "w": 28,
+            "c": 138
+          },
+          {
+            "timeKey": "16:50",
+            "w": -11,
+            "c": -92
+          },
+          {
+            "timeKey": "21:30",
+            "w": -60,
+            "c": -315
+          }
+        ],
+        "id": 142
+      },
+      {
+        "date": "2025-10-06",
+        "filePath": "10 Workbench/Newsletter.md",
+        "wordCountStart": 241,
+        "charCountStart": 1612,
+        "changes": [
+          {
+            "timeKey": "15:05",
+            "w": -241,
+            "c": -1612
+          }
+        ],
+        "id": 143
+      },
+      {
+        "date": "2025-10-04",
+        "filePath": "10 Workbench/Hydrogen Flight - The Real Moonshot Electric Is Distracting You From.md",
+        "wordCountStart": 70,
+        "charCountStart": 389,
+        "changes": [
+          {
+            "timeKey": "22:50",
+            "w": 2,
+            "c": 9
+          },
+          {
+            "timeKey": "22:55",
+            "w": 15,
+            "c": 97
+          },
+          {
+            "timeKey": "23:05",
+            "w": 7,
+            "c": 49
+          },
+          {
+            "timeKey": "23:10",
+            "w": 37,
+            "c": 185
+          },
+          {
+            "timeKey": "23:15",
+            "w": 45,
+            "c": 266
+          },
+          {
+            "timeKey": "23:20",
+            "w": 1,
+            "c": 15
+          }
+        ],
+        "id": 145
+      },
+      {
+        "date": "2025-10-05",
+        "filePath": "10 Workbench/Hydrogen Flight - The Real Moonshot Electric Is Distracting You From.md",
+        "wordCountStart": 177,
+        "charCountStart": 1010,
+        "changes": [
+          {
+            "timeKey": "23:15",
+            "w": 245,
+            "c": 1592
+          },
+          {
+            "timeKey": "23:20",
+            "w": 127,
+            "c": 945
+          },
+          {
+            "timeKey": "23:25",
+            "w": 555,
+            "c": 4009
+          }
+        ],
+        "id": 146
+      },
+      {
+        "date": "2025-10-06",
+        "filePath": "10 Workbench/Hydrogen Flight - Going Where Electric Can’t.md",
+        "wordCountStart": 1104,
+        "charCountStart": 7556,
+        "changes": [
+          {
+            "timeKey": "09:15",
+            "w": 262,
+            "c": 1786
+          },
+          {
+            "timeKey": "09:20",
+            "w": -4,
+            "c": -33
+          },
+          {
+            "timeKey": "14:55",
+            "w": 19,
+            "c": 99
+          },
+          {
+            "timeKey": "15:00",
+            "w": 27,
+            "c": 168
+          },
+          {
+            "timeKey": "15:05",
+            "w": -8,
+            "c": -76
+          },
+          {
+            "timeKey": "15:10",
+            "w": -53,
+            "c": -366
+          },
+          {
+            "timeKey": "15:15",
+            "w": -171,
+            "c": -1124
+          },
+          {
+            "timeKey": "15:20",
+            "w": 21,
+            "c": 82
+          },
+          {
+            "timeKey": "15:25",
+            "w": -31,
+            "c": -204
+          },
+          {
+            "timeKey": "15:50",
+            "w": -196,
+            "c": -1421
+          },
+          {
+            "timeKey": "15:55",
+            "w": 51,
+            "c": 301
+          },
+          {
+            "timeKey": "16:00",
+            "w": -34,
+            "c": -243
+          },
+          {
+            "timeKey": "16:30",
+            "w": 28,
+            "c": 138
+          },
+          {
+            "timeKey": "16:50",
+            "w": -11,
+            "c": -92
+          },
+          {
+            "timeKey": "21:30",
+            "w": -60,
+            "c": -315
+          }
+        ],
+        "id": 147
+      },
+      {
+        "date": "2025-10-12",
+        "filePath": "10 Workbench/Hydrogen Flight - Going Where Electric Can’t.md",
+        "wordCountStart": 1185,
+        "charCountStart": 7963,
+        "changes": [
+          {
+            "timeKey": "21:40",
+            "w": -1185,
+            "c": -7963
+          }
+        ],
+        "id": 148
+      },
+      {
+        "date": "2025-10-12",
+        "filePath": "10 Workbench/Oct 2025 Novel Thoughts.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "21:40",
+            "w": 43,
+            "c": 257
+          }
+        ],
+        "id": 149
+      },
+      {
+        "date": "2025-10-27",
+        "filePath": "10 Workbench/Oct 2025 Novel Thoughts.md",
+        "wordCountStart": 45,
+        "charCountStart": 268,
+        "changes": [],
+        "id": 150
+      },
+      {
+        "date": "2025-10-27",
+        "filePath": "10 Workbench/Jackal.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "11:40",
+            "w": 40,
+            "c": 210
+          }
+        ],
+        "id": 152
+      },
+      {
+        "date": "2025-10-29",
+        "filePath": "10 Workbench/Jackal.md",
+        "wordCountStart": 40,
+        "charCountStart": 210,
+        "changes": [
+          {
+            "timeKey": "15:35",
+            "w": 244,
+            "c": 1319
+          }
+        ],
+        "id": 153
+      },
+      {
+        "date": "2025-11-02",
+        "filePath": "10 Workbench/Jackal.md",
+        "wordCountStart": 284,
+        "charCountStart": 1529,
+        "changes": [
+          {
+            "timeKey": "21:00",
+            "w": 27,
+            "c": 145
+          }
+        ],
+        "id": 154
+      },
+      {
+        "date": "2025-11-07",
+        "filePath": "10 Workbench/Jackal.md",
+        "wordCountStart": 284,
+        "charCountStart": 1531,
+        "changes": [
+          {
+            "timeKey": "13:40",
+            "w": 27,
+            "c": 143
+          }
+        ],
+        "id": 155
+      },
+      {
+        "date": "2025-11-07",
+        "filePath": "10 Workbench/2025 Performance Review.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "13:40",
+            "w": 3,
+            "c": 30
+          },
+          {
+            "timeKey": "13:45",
+            "w": 7,
+            "c": 40
+          }
+        ],
+        "id": 156
+      },
+      {
+        "date": "2025-11-07",
+        "filePath": "10 Workbench/Jackal.md",
+        "wordCountStart": 311,
+        "charCountStart": 1674,
+        "changes": [],
+        "id": 157
+      },
+      {
+        "date": "2025-11-07",
+        "filePath": "10 Workbench/My 1st Letter To You.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "22:35",
+            "w": 52,
+            "c": 253
+          }
+        ],
+        "id": 158
+      },
+      {
+        "date": "2025-11-09",
+        "filePath": "10 Workbench/2025 Performance Review.md",
+        "wordCountStart": 10,
+        "charCountStart": 70,
+        "changes": [
+          {
+            "timeKey": "22:00",
+            "w": 26,
+            "c": 195
+          }
+        ],
+        "id": 159
+      },
+      {
+        "date": "2025-11-09",
+        "filePath": "10 Workbench/2025 Performance Review.md",
+        "wordCountStart": 10,
+        "charCountStart": 62,
+        "changes": [
+          {
+            "timeKey": "18:25",
+            "w": 0,
+            "c": 8
+          },
+          {
+            "timeKey": "18:30",
+            "w": 26,
+            "c": 195
+          }
+        ],
+        "id": 160
+      },
+      {
+        "date": "2025-11-09",
+        "filePath": "10 Workbench/Megathread Fodder.md",
+        "wordCountStart": 60,
+        "charCountStart": 349,
+        "changes": [],
+        "id": 161
+      },
+      {
+        "date": "2025-11-09",
+        "filePath": "10 Workbench/Jackal.md",
+        "wordCountStart": 311,
+        "charCountStart": 1674,
+        "changes": [
+          {
+            "timeKey": "22:05",
+            "w": -25,
+            "c": -127
+          },
+          {
+            "timeKey": "22:10",
+            "w": 8,
+            "c": 38
+          },
+          {
+            "timeKey": "22:15",
+            "w": 32,
+            "c": 157
+          }
+        ],
+        "id": 162
+      },
+      {
+        "date": "2025-11-09",
+        "filePath": "10 Workbench/Highlights From Reading.md",
+        "wordCountStart": 32,
+        "charCountStart": 204,
+        "changes": [],
+        "id": 163
+      },
+      {
+        "date": "2025-11-10",
+        "filePath": "10 Workbench/2025 Performance Review.md",
+        "wordCountStart": 36,
+        "charCountStart": 265,
+        "changes": [
+          {
+            "timeKey": "16:35",
+            "w": 115,
+            "c": 777
+          },
+          {
+            "timeKey": "16:40",
+            "w": 159,
+            "c": 1094
+          },
+          {
+            "timeKey": "16:45",
+            "w": 4,
+            "c": 11
+          },
+          {
+            "timeKey": "21:30",
+            "w": 84,
+            "c": 522
+          }
+        ],
+        "id": 165
+      },
+      {
+        "date": "2025-11-12",
+        "filePath": "10 Workbench/2025 Performance Review.md",
+        "wordCountStart": 398,
+        "charCountStart": 2669,
+        "changes": [
+          {
+            "timeKey": "09:50",
+            "w": 6,
+            "c": 33
+          },
+          {
+            "timeKey": "09:55",
+            "w": 12,
+            "c": 85
+          },
+          {
+            "timeKey": "10:00",
+            "w": 9,
+            "c": 48
+          },
+          {
+            "timeKey": "10:30",
+            "w": 6,
+            "c": 61
+          },
+          {
+            "timeKey": "10:35",
+            "w": 15,
+            "c": 100
+          },
+          {
+            "timeKey": "10:40",
+            "w": -4,
+            "c": -24
+          },
+          {
+            "timeKey": "10:45",
+            "w": -49,
+            "c": -302
+          },
+          {
+            "timeKey": "10:50",
+            "w": 21,
+            "c": 136
+          },
+          {
+            "timeKey": "10:55",
+            "w": 23,
+            "c": 145
+          },
+          {
+            "timeKey": "12:10",
+            "w": 5,
+            "c": 36
+          },
+          {
+            "timeKey": "12:15",
+            "w": -2,
+            "c": 19
+          },
+          {
+            "timeKey": "12:20",
+            "w": 21,
+            "c": 145
+          },
+          {
+            "timeKey": "12:25",
+            "w": 12,
+            "c": 125
+          },
+          {
+            "timeKey": "12:35",
+            "w": -29,
+            "c": -211
+          },
+          {
+            "timeKey": "13:00",
+            "w": 4,
+            "c": 44
+          },
+          {
+            "timeKey": "13:05",
+            "w": 30,
+            "c": 233
+          },
+          {
+            "timeKey": "13:10",
+            "w": -18,
+            "c": -134
+          },
+          {
+            "timeKey": "15:10",
+            "w": 0,
+            "c": 5
+          },
+          {
+            "timeKey": "15:15",
+            "w": 25,
+            "c": 181
+          },
+          {
+            "timeKey": "15:20",
+            "w": -31,
+            "c": -156
+          },
+          {
+            "timeKey": "15:50",
+            "w": -28,
+            "c": -151
+          },
+          {
+            "timeKey": "16:00",
+            "w": 37,
+            "c": 264
+          },
+          {
+            "timeKey": "16:05",
+            "w": 24,
+            "c": 173
+          },
+          {
+            "timeKey": "16:10",
+            "w": 7,
+            "c": 46
+          }
+        ],
+        "id": 166
+      },
+      {
+        "date": "2026-01-01",
+        "filePath": "10 Workbench/2025 Performance Review.md",
+        "wordCountStart": 494,
+        "charCountStart": 3570,
+        "changes": [],
+        "id": 175
+      },
+      {
+        "date": "2026-01-01",
+        "filePath": "README.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "11:05",
+            "w": 1,
+            "c": 3
+          },
+          {
+            "timeKey": "11:10",
+            "w": 20,
+            "c": 107
+          },
+          {
+            "timeKey": "11:15",
+            "w": 12,
+            "c": 68
+          }
+        ],
+        "id": 176
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/Blind Spots Analysis.md",
+        "wordCountStart": 793,
+        "charCountStart": 5327,
+        "changes": [],
+        "id": 179
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-01-01.md",
+        "wordCountStart": 8975,
+        "charCountStart": 47454,
+        "changes": [],
+        "id": 180
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-01-08.md",
+        "wordCountStart": 99,
+        "charCountStart": 725,
+        "changes": [
+          {
+            "timeKey": "10:20",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 181
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/2024-03-08.md",
+        "wordCountStart": 24,
+        "charCountStart": 179,
+        "changes": [
+          {
+            "timeKey": "10:20",
+            "w": -24,
+            "c": -179
+          }
+        ],
+        "id": 182
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/2024/2024-05-05.md",
+        "wordCountStart": 69,
+        "charCountStart": 444,
+        "changes": [],
+        "id": 183
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/2024/2024-05-15.md",
+        "wordCountStart": 159,
+        "charCountStart": 963,
+        "changes": [],
+        "id": 184
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/2024-05-26.md",
+        "wordCountStart": 83,
+        "charCountStart": 554,
+        "changes": [
+          {
+            "timeKey": "10:20",
+            "w": -83,
+            "c": -554
+          }
+        ],
+        "id": 185
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/2024/2024-W18.md",
+        "wordCountStart": 47,
+        "charCountStart": 295,
+        "changes": [],
+        "id": 186
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/2024/2024-03-31.md",
+        "wordCountStart": 130,
+        "charCountStart": 864,
+        "changes": [],
+        "id": 187
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/2024-03-09.md",
+        "wordCountStart": 24,
+        "charCountStart": 179,
+        "changes": [
+          {
+            "timeKey": "10:20",
+            "w": -24,
+            "c": -179
+          }
+        ],
+        "id": 188
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-05-04.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "10:20",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 189
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-08-16.md",
+        "wordCountStart": 532,
+        "charCountStart": 3054,
+        "changes": [
+          {
+            "timeKey": "21:25",
+            "w": -532,
+            "c": -3054
+          }
+        ],
+        "id": 190
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/2023-08-19.md",
+        "wordCountStart": 25,
+        "charCountStart": 224,
+        "changes": [
+          {
+            "timeKey": "10:20",
+            "w": -25,
+            "c": -224
+          }
+        ],
+        "id": 191
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-08-20.md",
+        "wordCountStart": 25,
+        "charCountStart": 228,
+        "changes": [
+          {
+            "timeKey": "21:25",
+            "w": -25,
+            "c": -228
+          }
+        ],
+        "id": 192
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-08-21.md",
+        "wordCountStart": 25,
+        "charCountStart": 227,
+        "changes": [
+          {
+            "timeKey": "21:25",
+            "w": -25,
+            "c": -227
+          }
+        ],
+        "id": 193
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-08-22.md",
+        "wordCountStart": 25,
+        "charCountStart": 227,
+        "changes": [
+          {
+            "timeKey": "21:25",
+            "w": -25,
+            "c": -227
+          }
+        ],
+        "id": 194
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/2023-08-27.md",
+        "wordCountStart": 23,
+        "charCountStart": 219,
+        "changes": [
+          {
+            "timeKey": "21:25",
+            "w": -23,
+            "c": -219
+          }
+        ],
+        "id": 195
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/2023-09-06.md",
+        "wordCountStart": 23,
+        "charCountStart": 219,
+        "changes": [
+          {
+            "timeKey": "21:25",
+            "w": -23,
+            "c": -219
+          }
+        ],
+        "id": 196
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/2023-09-12.md",
+        "wordCountStart": 34,
+        "charCountStart": 286,
+        "changes": [
+          {
+            "timeKey": "21:25",
+            "w": -34,
+            "c": -286
+          }
+        ],
+        "id": 197
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/2023-08-28.md",
+        "wordCountStart": 23,
+        "charCountStart": 219,
+        "changes": [
+          {
+            "timeKey": "21:25",
+            "w": -23,
+            "c": -219
+          }
+        ],
+        "id": 198
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/2023-09-05.md",
+        "wordCountStart": 23,
+        "charCountStart": 220,
+        "changes": [
+          {
+            "timeKey": "21:25",
+            "w": -23,
+            "c": -220
+          }
+        ],
+        "id": 199
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/2023-09-13.md",
+        "wordCountStart": 34,
+        "charCountStart": 286,
+        "changes": [
+          {
+            "timeKey": "21:25",
+            "w": -34,
+            "c": -286
+          }
+        ],
+        "id": 200
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-08-23.md",
+        "wordCountStart": 738,
+        "charCountStart": 4483,
+        "changes": [],
+        "id": 201
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "2025 Bullet Journal.md",
+        "wordCountStart": 1429,
+        "charCountStart": 8500,
+        "changes": [
+          {
+            "timeKey": "10:20",
+            "w": -14,
+            "c": -102
+          }
+        ],
+        "id": 202
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/Daily Notes Frontmatter Extract.md",
+        "wordCountStart": 4454,
+        "charCountStart": 33985,
+        "changes": [],
+        "id": 203
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/2024-03-06.md",
+        "wordCountStart": 24,
+        "charCountStart": 179,
+        "changes": [
+          {
+            "timeKey": "10:40",
+            "w": -24,
+            "c": -179
+          }
+        ],
+        "id": 204
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/2024-03-05.md",
+        "wordCountStart": 24,
+        "charCountStart": 179,
+        "changes": [
+          {
+            "timeKey": "10:40",
+            "w": -24,
+            "c": -179
+          }
+        ],
+        "id": 205
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/2024-03-04.md",
+        "wordCountStart": 24,
+        "charCountStart": 179,
+        "changes": [
+          {
+            "timeKey": "10:40",
+            "w": -24,
+            "c": -179
+          }
+        ],
+        "id": 206
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/2024-03-03.md",
+        "wordCountStart": 24,
+        "charCountStart": 179,
+        "changes": [
+          {
+            "timeKey": "10:40",
+            "w": -24,
+            "c": -179
+          }
+        ],
+        "id": 207
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/2024-03-02.md",
+        "wordCountStart": 24,
+        "charCountStart": 179,
+        "changes": [
+          {
+            "timeKey": "10:40",
+            "w": -24,
+            "c": -179
+          }
+        ],
+        "id": 208
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/2024-02-24.md",
+        "wordCountStart": 24,
+        "charCountStart": 179,
+        "changes": [
+          {
+            "timeKey": "10:40",
+            "w": -24,
+            "c": -179
+          }
+        ],
+        "id": 209
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/2024-02-22.md",
+        "wordCountStart": 24,
+        "charCountStart": 179,
+        "changes": [
+          {
+            "timeKey": "10:40",
+            "w": -24,
+            "c": -179
+          }
+        ],
+        "id": 210
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/2024-02-21.md",
+        "wordCountStart": 24,
+        "charCountStart": 179,
+        "changes": [
+          {
+            "timeKey": "10:40",
+            "w": -24,
+            "c": -179
+          }
+        ],
+        "id": 211
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/2024-02-18.md",
+        "wordCountStart": 24,
+        "charCountStart": 179,
+        "changes": [
+          {
+            "timeKey": "10:40",
+            "w": -24,
+            "c": -179
+          }
+        ],
+        "id": 212
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/2024-02-17.md",
+        "wordCountStart": 24,
+        "charCountStart": 179,
+        "changes": [
+          {
+            "timeKey": "10:40",
+            "w": -24,
+            "c": -179
+          }
+        ],
+        "id": 213
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/2024-02-15.md",
+        "wordCountStart": 24,
+        "charCountStart": 179,
+        "changes": [
+          {
+            "timeKey": "10:40",
+            "w": -24,
+            "c": -179
+          }
+        ],
+        "id": 214
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/2024-02-13.md",
+        "wordCountStart": 24,
+        "charCountStart": 179,
+        "changes": [
+          {
+            "timeKey": "10:40",
+            "w": -24,
+            "c": -179
+          }
+        ],
+        "id": 215
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/2024-02-12.md",
+        "wordCountStart": 24,
+        "charCountStart": 179,
+        "changes": [
+          {
+            "timeKey": "21:20",
+            "w": -24,
+            "c": -179
+          }
+        ],
+        "id": 216
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/2024-02-10.md",
+        "wordCountStart": 24,
+        "charCountStart": 179,
+        "changes": [
+          {
+            "timeKey": "21:20",
+            "w": 0,
+            "c": -1
+          },
+          {
+            "timeKey": "21:25",
+            "w": -24,
+            "c": -178
+          }
+        ],
+        "id": 217
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/2024-02-07.md",
+        "wordCountStart": 24,
+        "charCountStart": 179,
+        "changes": [
+          {
+            "timeKey": "21:20",
+            "w": -24,
+            "c": -179
+          }
+        ],
+        "id": 218
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/2024-02-06.md",
+        "wordCountStart": 24,
+        "charCountStart": 179,
+        "changes": [
+          {
+            "timeKey": "21:20",
+            "w": -24,
+            "c": -179
+          }
+        ],
+        "id": 219
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/2024-02-05.md",
+        "wordCountStart": 24,
+        "charCountStart": 179,
+        "changes": [
+          {
+            "timeKey": "21:25",
+            "w": -24,
+            "c": -179
+          }
+        ],
+        "id": 220
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/2024-02-04.md",
+        "wordCountStart": 24,
+        "charCountStart": 179,
+        "changes": [
+          {
+            "timeKey": "21:25",
+            "w": -24,
+            "c": -179
+          }
+        ],
+        "id": 221
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/2024-01-27.md",
+        "wordCountStart": 24,
+        "charCountStart": 179,
+        "changes": [
+          {
+            "timeKey": "21:25",
+            "w": -24,
+            "c": -179
+          }
+        ],
+        "id": 222
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/2024-01-28.md",
+        "wordCountStart": 24,
+        "charCountStart": 179,
+        "changes": [
+          {
+            "timeKey": "21:25",
+            "w": -24,
+            "c": -179
+          }
+        ],
+        "id": 223
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/2023-08-24.md",
+        "wordCountStart": 23,
+        "charCountStart": 219,
+        "changes": [
+          {
+            "timeKey": "21:25",
+            "w": -23,
+            "c": -219
+          }
+        ],
+        "id": 224
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/2023-08-26.md",
+        "wordCountStart": 23,
+        "charCountStart": 219,
+        "changes": [
+          {
+            "timeKey": "21:25",
+            "w": -23,
+            "c": -219
+          }
+        ],
+        "id": 225
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/2023-08-29.md",
+        "wordCountStart": 23,
+        "charCountStart": 219,
+        "changes": [
+          {
+            "timeKey": "21:25",
+            "w": -23,
+            "c": -219
+          }
+        ],
+        "id": 226
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/2023-08-30.md",
+        "wordCountStart": 23,
+        "charCountStart": 219,
+        "changes": [
+          {
+            "timeKey": "21:25",
+            "w": -23,
+            "c": -219
+          }
+        ],
+        "id": 227
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/2023-08-31.md",
+        "wordCountStart": 23,
+        "charCountStart": 219,
+        "changes": [
+          {
+            "timeKey": "21:25",
+            "w": -23,
+            "c": -219
+          }
+        ],
+        "id": 228
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/2023-09-01.md",
+        "wordCountStart": 22,
+        "charCountStart": 216,
+        "changes": [
+          {
+            "timeKey": "21:25",
+            "w": -22,
+            "c": -216
+          }
+        ],
+        "id": 229
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/2023-09-02.md",
+        "wordCountStart": 22,
+        "charCountStart": 215,
+        "changes": [
+          {
+            "timeKey": "21:25",
+            "w": -22,
+            "c": -215
+          }
+        ],
+        "id": 230
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/2023-09-03.md",
+        "wordCountStart": 22,
+        "charCountStart": 215,
+        "changes": [
+          {
+            "timeKey": "21:25",
+            "w": -22,
+            "c": -215
+          }
+        ],
+        "id": 231
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/2023-09-04.md",
+        "wordCountStart": 22,
+        "charCountStart": 215,
+        "changes": [
+          {
+            "timeKey": "21:25",
+            "w": -22,
+            "c": -215
+          }
+        ],
+        "id": 232
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/2023-09-07.md",
+        "wordCountStart": 22,
+        "charCountStart": 215,
+        "changes": [
+          {
+            "timeKey": "21:25",
+            "w": -22,
+            "c": -215
+          }
+        ],
+        "id": 233
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/2023-09-09.md",
+        "wordCountStart": 34,
+        "charCountStart": 287,
+        "changes": [
+          {
+            "timeKey": "21:25",
+            "w": -34,
+            "c": -287
+          }
+        ],
+        "id": 234
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/2023-09-08.md",
+        "wordCountStart": 24,
+        "charCountStart": 224,
+        "changes": [
+          {
+            "timeKey": "21:25",
+            "w": -24,
+            "c": -224
+          }
+        ],
+        "id": 235
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/2023-09-10.md",
+        "wordCountStart": 34,
+        "charCountStart": 287,
+        "changes": [
+          {
+            "timeKey": "21:25",
+            "w": -34,
+            "c": -287
+          }
+        ],
+        "id": 236
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/2023-09-11.md",
+        "wordCountStart": 34,
+        "charCountStart": 286,
+        "changes": [
+          {
+            "timeKey": "21:25",
+            "w": -34,
+            "c": -286
+          }
+        ],
+        "id": 237
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/2023-09-14.md",
+        "wordCountStart": 34,
+        "charCountStart": 285,
+        "changes": [
+          {
+            "timeKey": "21:25",
+            "w": -34,
+            "c": -285
+          }
+        ],
+        "id": 238
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/2023-09-15.md",
+        "wordCountStart": 35,
+        "charCountStart": 291,
+        "changes": [
+          {
+            "timeKey": "21:25",
+            "w": -35,
+            "c": -291
+          }
+        ],
+        "id": 239
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/2023-09-16.md",
+        "wordCountStart": 34,
+        "charCountStart": 286,
+        "changes": [
+          {
+            "timeKey": "21:25",
+            "w": -34,
+            "c": -286
+          }
+        ],
+        "id": 240
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/2023-09-17.md",
+        "wordCountStart": 34,
+        "charCountStart": 287,
+        "changes": [
+          {
+            "timeKey": "21:25",
+            "w": -34,
+            "c": -287
+          }
+        ],
+        "id": 241
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/2023-09-18.md",
+        "wordCountStart": 34,
+        "charCountStart": 286,
+        "changes": [
+          {
+            "timeKey": "21:25",
+            "w": -34,
+            "c": -286
+          }
+        ],
+        "id": 242
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-09-19.md",
+        "wordCountStart": 151,
+        "charCountStart": 1251,
+        "changes": [],
+        "id": 243
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/2023-09-20.md",
+        "wordCountStart": 34,
+        "charCountStart": 286,
+        "changes": [
+          {
+            "timeKey": "21:25",
+            "w": -34,
+            "c": -286
+          }
+        ],
+        "id": 244
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/2023-09-21.md",
+        "wordCountStart": 34,
+        "charCountStart": 286,
+        "changes": [
+          {
+            "timeKey": "21:25",
+            "w": -34,
+            "c": -286
+          }
+        ],
+        "id": 245
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/2023-09-22.md",
+        "wordCountStart": 33,
+        "charCountStart": 282,
+        "changes": [
+          {
+            "timeKey": "21:25",
+            "w": -33,
+            "c": -282
+          }
+        ],
+        "id": 246
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/2023-09-23.md",
+        "wordCountStart": 33,
+        "charCountStart": 282,
+        "changes": [
+          {
+            "timeKey": "21:25",
+            "w": -33,
+            "c": -282
+          }
+        ],
+        "id": 247
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/2023-09-26.md",
+        "wordCountStart": 34,
+        "charCountStart": 286,
+        "changes": [
+          {
+            "timeKey": "21:25",
+            "w": -34,
+            "c": -286
+          }
+        ],
+        "id": 248
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/2023-09-27.md",
+        "wordCountStart": 34,
+        "charCountStart": 287,
+        "changes": [
+          {
+            "timeKey": "21:25",
+            "w": -34,
+            "c": -287
+          }
+        ],
+        "id": 249
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/2023-09-29.md",
+        "wordCountStart": 34,
+        "charCountStart": 286,
+        "changes": [
+          {
+            "timeKey": "21:25",
+            "w": -34,
+            "c": -286
+          }
+        ],
+        "id": 250
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/2023-09-28.md",
+        "wordCountStart": 34,
+        "charCountStart": 286,
+        "changes": [
+          {
+            "timeKey": "21:25",
+            "w": -34,
+            "c": -286
+          }
+        ],
+        "id": 251
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/2023-09-30.md",
+        "wordCountStart": 33,
+        "charCountStart": 283,
+        "changes": [
+          {
+            "timeKey": "21:25",
+            "w": -33,
+            "c": -283
+          }
+        ],
+        "id": 252
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/2023-10-01.md",
+        "wordCountStart": 33,
+        "charCountStart": 282,
+        "changes": [
+          {
+            "timeKey": "21:25",
+            "w": -33,
+            "c": -282
+          }
+        ],
+        "id": 253
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/2023-10-02.md",
+        "wordCountStart": 33,
+        "charCountStart": 282,
+        "changes": [
+          {
+            "timeKey": "21:25",
+            "w": -33,
+            "c": -282
+          }
+        ],
+        "id": 254
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/2023-10-03.md",
+        "wordCountStart": 33,
+        "charCountStart": 282,
+        "changes": [
+          {
+            "timeKey": "21:25",
+            "w": -33,
+            "c": -282
+          }
+        ],
+        "id": 255
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/2023-10-04.md",
+        "wordCountStart": 33,
+        "charCountStart": 282,
+        "changes": [
+          {
+            "timeKey": "21:25",
+            "w": -33,
+            "c": -282
+          }
+        ],
+        "id": 256
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/2023-10-05.md",
+        "wordCountStart": 33,
+        "charCountStart": 282,
+        "changes": [
+          {
+            "timeKey": "21:25",
+            "w": -33,
+            "c": -282
+          }
+        ],
+        "id": 257
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/2023-10-06.md",
+        "wordCountStart": 34,
+        "charCountStart": 290,
+        "changes": [
+          {
+            "timeKey": "21:25",
+            "w": -34,
+            "c": -290
+          }
+        ],
+        "id": 258
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/2023-10-09.md",
+        "wordCountStart": 33,
+        "charCountStart": 282,
+        "changes": [
+          {
+            "timeKey": "21:25",
+            "w": -33,
+            "c": -282
+          }
+        ],
+        "id": 259
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/2023-10-10.md",
+        "wordCountStart": 33,
+        "charCountStart": 282,
+        "changes": [
+          {
+            "timeKey": "21:25",
+            "w": -33,
+            "c": -282
+          }
+        ],
+        "id": 260
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/2023-10-11.md",
+        "wordCountStart": 33,
+        "charCountStart": 282,
+        "changes": [
+          {
+            "timeKey": "21:25",
+            "w": -33,
+            "c": -282
+          }
+        ],
+        "id": 261
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/2023-10-15.md",
+        "wordCountStart": 33,
+        "charCountStart": 282,
+        "changes": [
+          {
+            "timeKey": "21:25",
+            "w": -33,
+            "c": -282
+          }
+        ],
+        "id": 262
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/2023-10-16.md",
+        "wordCountStart": 33,
+        "charCountStart": 282,
+        "changes": [
+          {
+            "timeKey": "21:25",
+            "w": -33,
+            "c": -282
+          }
+        ],
+        "id": 263
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/2023-10-18.md",
+        "wordCountStart": 33,
+        "charCountStart": 282,
+        "changes": [
+          {
+            "timeKey": "21:25",
+            "w": -33,
+            "c": -282
+          }
+        ],
+        "id": 264
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/2023-10-19.md",
+        "wordCountStart": 33,
+        "charCountStart": 282,
+        "changes": [
+          {
+            "timeKey": "21:25",
+            "w": -33,
+            "c": -282
+          }
+        ],
+        "id": 265
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/2023-10-20.md",
+        "wordCountStart": 33,
+        "charCountStart": 282,
+        "changes": [
+          {
+            "timeKey": "21:25",
+            "w": -33,
+            "c": -282
+          }
+        ],
+        "id": 266
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/2023-10-21.md",
+        "wordCountStart": 33,
+        "charCountStart": 282,
+        "changes": [
+          {
+            "timeKey": "21:25",
+            "w": -33,
+            "c": -282
+          }
+        ],
+        "id": 267
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/2023-10-22.md",
+        "wordCountStart": 33,
+        "charCountStart": 282,
+        "changes": [
+          {
+            "timeKey": "21:25",
+            "w": -33,
+            "c": -282
+          }
+        ],
+        "id": 268
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/2023-10-23.md",
+        "wordCountStart": 33,
+        "charCountStart": 282,
+        "changes": [
+          {
+            "timeKey": "21:25",
+            "w": -33,
+            "c": -282
+          }
+        ],
+        "id": 269
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/2023-10-24.md",
+        "wordCountStart": 33,
+        "charCountStart": 282,
+        "changes": [
+          {
+            "timeKey": "21:25",
+            "w": -33,
+            "c": -282
+          }
+        ],
+        "id": 270
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/2023-10-26.md",
+        "wordCountStart": 33,
+        "charCountStart": 282,
+        "changes": [
+          {
+            "timeKey": "21:25",
+            "w": -33,
+            "c": -282
+          }
+        ],
+        "id": 271
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/2023-10-28.md",
+        "wordCountStart": 33,
+        "charCountStart": 282,
+        "changes": [
+          {
+            "timeKey": "21:25",
+            "w": -33,
+            "c": -282
+          }
+        ],
+        "id": 272
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/2023-10-31.md",
+        "wordCountStart": 33,
+        "charCountStart": 282,
+        "changes": [
+          {
+            "timeKey": "21:25",
+            "w": -33,
+            "c": -282
+          }
+        ],
+        "id": 273
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/2023-11-02.md",
+        "wordCountStart": 33,
+        "charCountStart": 282,
+        "changes": [
+          {
+            "timeKey": "21:25",
+            "w": -33,
+            "c": -282
+          }
+        ],
+        "id": 274
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/2023-11-03.md",
+        "wordCountStart": 35,
+        "charCountStart": 294,
+        "changes": [
+          {
+            "timeKey": "21:25",
+            "w": -35,
+            "c": -294
+          }
+        ],
+        "id": 275
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/2023-11-04.md",
+        "wordCountStart": 33,
+        "charCountStart": 282,
+        "changes": [
+          {
+            "timeKey": "21:25",
+            "w": -33,
+            "c": -282
+          }
+        ],
+        "id": 276
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/2023-11-05.md",
+        "wordCountStart": 33,
+        "charCountStart": 282,
+        "changes": [
+          {
+            "timeKey": "21:25",
+            "w": -33,
+            "c": -282
+          }
+        ],
+        "id": 277
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/2023-11-06.md",
+        "wordCountStart": 33,
+        "charCountStart": 282,
+        "changes": [
+          {
+            "timeKey": "21:25",
+            "w": -33,
+            "c": -282
+          }
+        ],
+        "id": 278
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/2023-11-07.md",
+        "wordCountStart": 63,
+        "charCountStart": 648,
+        "changes": [
+          {
+            "timeKey": "21:25",
+            "w": -63,
+            "c": -648
+          }
+        ],
+        "id": 279
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/2023-11-08.md",
+        "wordCountStart": 63,
+        "charCountStart": 648,
+        "changes": [
+          {
+            "timeKey": "21:25",
+            "w": -63,
+            "c": -648
+          }
+        ],
+        "id": 280
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/2023-11-09.md",
+        "wordCountStart": 63,
+        "charCountStart": 648,
+        "changes": [
+          {
+            "timeKey": "21:25",
+            "w": -63,
+            "c": -648
+          }
+        ],
+        "id": 281
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/2023-11-10.md",
+        "wordCountStart": 95,
+        "charCountStart": 1024,
+        "changes": [
+          {
+            "timeKey": "21:25",
+            "w": -95,
+            "c": -1024
+          }
+        ],
+        "id": 282
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/2023-11-13.md",
+        "wordCountStart": 93,
+        "charCountStart": 1014,
+        "changes": [
+          {
+            "timeKey": "21:25",
+            "w": -93,
+            "c": -1014
+          }
+        ],
+        "id": 283
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/2023-11-15.md",
+        "wordCountStart": 33,
+        "charCountStart": 282,
+        "changes": [
+          {
+            "timeKey": "21:25",
+            "w": -33,
+            "c": -282
+          }
+        ],
+        "id": 284
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-11-17.md",
+        "wordCountStart": 1072,
+        "charCountStart": 6430,
+        "changes": [],
+        "id": 285
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/2023-11-19.md",
+        "wordCountStart": 60,
+        "charCountStart": 498,
+        "changes": [
+          {
+            "timeKey": "21:25",
+            "w": -60,
+            "c": -498
+          }
+        ],
+        "id": 286
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/2023-11-19 2.md",
+        "wordCountStart": 93,
+        "charCountStart": 1014,
+        "changes": [
+          {
+            "timeKey": "21:25",
+            "w": -93,
+            "c": -1014
+          }
+        ],
+        "id": 287
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/2023-11-24.md",
+        "wordCountStart": 33,
+        "charCountStart": 282,
+        "changes": [
+          {
+            "timeKey": "21:25",
+            "w": -33,
+            "c": -282
+          }
+        ],
+        "id": 288
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/2023-11-25.md",
+        "wordCountStart": 42,
+        "charCountStart": 353,
+        "changes": [
+          {
+            "timeKey": "21:25",
+            "w": -42,
+            "c": -353
+          }
+        ],
+        "id": 289
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/2023-11-25 2.md",
+        "wordCountStart": 63,
+        "charCountStart": 648,
+        "changes": [
+          {
+            "timeKey": "21:25",
+            "w": -63,
+            "c": -648
+          }
+        ],
+        "id": 290
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/2023-11-26.md",
+        "wordCountStart": 33,
+        "charCountStart": 283,
+        "changes": [
+          {
+            "timeKey": "21:25",
+            "w": -33,
+            "c": -283
+          }
+        ],
+        "id": 291
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-11-27.md",
+        "wordCountStart": 484,
+        "charCountStart": 3009,
+        "changes": [],
+        "id": 292
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/2023-11-28.md",
+        "wordCountStart": 93,
+        "charCountStart": 1014,
+        "changes": [
+          {
+            "timeKey": "21:25",
+            "w": -93,
+            "c": -1014
+          }
+        ],
+        "id": 293
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/2023-11-30.md",
+        "wordCountStart": 63,
+        "charCountStart": 648,
+        "changes": [
+          {
+            "timeKey": "21:25",
+            "w": -63,
+            "c": -648
+          }
+        ],
+        "id": 294
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/2023-12-01.md",
+        "wordCountStart": 33,
+        "charCountStart": 281,
+        "changes": [
+          {
+            "timeKey": "21:25",
+            "w": -33,
+            "c": -281
+          }
+        ],
+        "id": 295
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/2023-12-02.md",
+        "wordCountStart": 33,
+        "charCountStart": 282,
+        "changes": [
+          {
+            "timeKey": "21:25",
+            "w": -33,
+            "c": -282
+          }
+        ],
+        "id": 296
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/2023-12-03.md",
+        "wordCountStart": 33,
+        "charCountStart": 282,
+        "changes": [
+          {
+            "timeKey": "21:25",
+            "w": -33,
+            "c": -282
+          }
+        ],
+        "id": 297
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/2023-12-05.md",
+        "wordCountStart": 33,
+        "charCountStart": 282,
+        "changes": [
+          {
+            "timeKey": "21:25",
+            "w": -33,
+            "c": -282
+          }
+        ],
+        "id": 298
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/2023-12-06.md",
+        "wordCountStart": 33,
+        "charCountStart": 282,
+        "changes": [
+          {
+            "timeKey": "21:25",
+            "w": -33,
+            "c": -282
+          }
+        ],
+        "id": 299
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/2023-12-07.md",
+        "wordCountStart": 33,
+        "charCountStart": 282,
+        "changes": [
+          {
+            "timeKey": "21:25",
+            "w": -33,
+            "c": -282
+          }
+        ],
+        "id": 300
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/2023-12-08.md",
+        "wordCountStart": 33,
+        "charCountStart": 282,
+        "changes": [
+          {
+            "timeKey": "21:25",
+            "w": -33,
+            "c": -282
+          }
+        ],
+        "id": 301
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/2023-12-09.md",
+        "wordCountStart": 33,
+        "charCountStart": 282,
+        "changes": [
+          {
+            "timeKey": "21:25",
+            "w": -33,
+            "c": -282
+          }
+        ],
+        "id": 302
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/2023-12-12.md",
+        "wordCountStart": 33,
+        "charCountStart": 282,
+        "changes": [
+          {
+            "timeKey": "21:25",
+            "w": -33,
+            "c": -282
+          }
+        ],
+        "id": 303
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/2023-12-10.md",
+        "wordCountStart": 33,
+        "charCountStart": 282,
+        "changes": [
+          {
+            "timeKey": "21:25",
+            "w": -33,
+            "c": -282
+          }
+        ],
+        "id": 304
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-12-14.md",
+        "wordCountStart": 325,
+        "charCountStart": 1970,
+        "changes": [],
+        "id": 305
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/2023-12-15.md",
+        "wordCountStart": 33,
+        "charCountStart": 282,
+        "changes": [
+          {
+            "timeKey": "21:25",
+            "w": -33,
+            "c": -282
+          }
+        ],
+        "id": 306
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/2023-12-17.md",
+        "wordCountStart": 33,
+        "charCountStart": 282,
+        "changes": [
+          {
+            "timeKey": "21:25",
+            "w": -33,
+            "c": -282
+          }
+        ],
+        "id": 307
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/2023-12-18.md",
+        "wordCountStart": 33,
+        "charCountStart": 282,
+        "changes": [
+          {
+            "timeKey": "21:25",
+            "w": -33,
+            "c": -282
+          }
+        ],
+        "id": 308
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/2023-12-19.md",
+        "wordCountStart": 33,
+        "charCountStart": 282,
+        "changes": [
+          {
+            "timeKey": "21:25",
+            "w": -33,
+            "c": -282
+          }
+        ],
+        "id": 309
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/2023-12-20.md",
+        "wordCountStart": 33,
+        "charCountStart": 282,
+        "changes": [
+          {
+            "timeKey": "21:25",
+            "w": -33,
+            "c": -282
+          }
+        ],
+        "id": 310
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-12-21.md",
+        "wordCountStart": 94,
+        "charCountStart": 582,
+        "changes": [],
+        "id": 311
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/2023-12-22.md",
+        "wordCountStart": 33,
+        "charCountStart": 282,
+        "changes": [
+          {
+            "timeKey": "21:25",
+            "w": -33,
+            "c": -282
+          }
+        ],
+        "id": 312
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/2023-12-25.md",
+        "wordCountStart": 33,
+        "charCountStart": 282,
+        "changes": [
+          {
+            "timeKey": "21:25",
+            "w": -33,
+            "c": -282
+          }
+        ],
+        "id": 313
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-12-26.md",
+        "wordCountStart": 32,
+        "charCountStart": 223,
+        "changes": [],
+        "id": 314
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/2023-12-28.md",
+        "wordCountStart": 24,
+        "charCountStart": 179,
+        "changes": [
+          {
+            "timeKey": "21:25",
+            "w": -24,
+            "c": -179
+          }
+        ],
+        "id": 315
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/2023-12-27.md",
+        "wordCountStart": 24,
+        "charCountStart": 179,
+        "changes": [
+          {
+            "timeKey": "21:25",
+            "w": -24,
+            "c": -179
+          }
+        ],
+        "id": 316
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/2023-12-29.md",
+        "wordCountStart": 24,
+        "charCountStart": 179,
+        "changes": [
+          {
+            "timeKey": "21:25",
+            "w": -24,
+            "c": -179
+          }
+        ],
+        "id": 317
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/2023-12-30.md",
+        "wordCountStart": 24,
+        "charCountStart": 179,
+        "changes": [
+          {
+            "timeKey": "21:25",
+            "w": -24,
+            "c": -179
+          }
+        ],
+        "id": 318
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/2023-12-31.md",
+        "wordCountStart": 24,
+        "charCountStart": 179,
+        "changes": [
+          {
+            "timeKey": "21:25",
+            "w": -24,
+            "c": -179
+          }
+        ],
+        "id": 319
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-W25.md",
+        "wordCountStart": 47,
+        "charCountStart": 295,
+        "changes": [],
+        "id": 320
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-W27.md",
+        "wordCountStart": 47,
+        "charCountStart": 295,
+        "changes": [],
+        "id": 321
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/2024-01-02.md",
+        "wordCountStart": 24,
+        "charCountStart": 179,
+        "changes": [
+          {
+            "timeKey": "21:25",
+            "w": -24,
+            "c": -179
+          }
+        ],
+        "id": 322
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/2024-01-03.md",
+        "wordCountStart": 24,
+        "charCountStart": 179,
+        "changes": [
+          {
+            "timeKey": "21:25",
+            "w": -24,
+            "c": -179
+          }
+        ],
+        "id": 323
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/2024-01-04.md",
+        "wordCountStart": 24,
+        "charCountStart": 179,
+        "changes": [
+          {
+            "timeKey": "21:25",
+            "w": -24,
+            "c": -179
+          }
+        ],
+        "id": 324
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/2024-01-06.md",
+        "wordCountStart": 24,
+        "charCountStart": 179,
+        "changes": [
+          {
+            "timeKey": "21:25",
+            "w": -24,
+            "c": -179
+          }
+        ],
+        "id": 325
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/2024-01-05.md",
+        "wordCountStart": 24,
+        "charCountStart": 179,
+        "changes": [
+          {
+            "timeKey": "21:25",
+            "w": -24,
+            "c": -179
+          }
+        ],
+        "id": 326
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/2024-01-08.md",
+        "wordCountStart": 24,
+        "charCountStart": 179,
+        "changes": [
+          {
+            "timeKey": "21:25",
+            "w": -24,
+            "c": -179
+          }
+        ],
+        "id": 327
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/2024-01-07.md",
+        "wordCountStart": 24,
+        "charCountStart": 179,
+        "changes": [
+          {
+            "timeKey": "21:25",
+            "w": -24,
+            "c": -179
+          }
+        ],
+        "id": 328
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/2024-01-09.md",
+        "wordCountStart": 24,
+        "charCountStart": 179,
+        "changes": [
+          {
+            "timeKey": "21:25",
+            "w": -24,
+            "c": -179
+          }
+        ],
+        "id": 329
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/2024-01-10.md",
+        "wordCountStart": 24,
+        "charCountStart": 179,
+        "changes": [
+          {
+            "timeKey": "21:25",
+            "w": -24,
+            "c": -179
+          }
+        ],
+        "id": 330
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/2024-01-11.md",
+        "wordCountStart": 24,
+        "charCountStart": 179,
+        "changes": [
+          {
+            "timeKey": "21:25",
+            "w": -24,
+            "c": -179
+          }
+        ],
+        "id": 331
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/2024-01-12.md",
+        "wordCountStart": 24,
+        "charCountStart": 179,
+        "changes": [
+          {
+            "timeKey": "21:25",
+            "w": -24,
+            "c": -179
+          }
+        ],
+        "id": 332
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/2024-01-13.md",
+        "wordCountStart": 24,
+        "charCountStart": 179,
+        "changes": [
+          {
+            "timeKey": "21:25",
+            "w": -24,
+            "c": -179
+          }
+        ],
+        "id": 333
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/2024-01-14.md",
+        "wordCountStart": 24,
+        "charCountStart": 179,
+        "changes": [
+          {
+            "timeKey": "21:25",
+            "w": -24,
+            "c": -179
+          }
+        ],
+        "id": 334
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/2024-01-15.md",
+        "wordCountStart": 24,
+        "charCountStart": 179,
+        "changes": [
+          {
+            "timeKey": "21:25",
+            "w": -24,
+            "c": -179
+          }
+        ],
+        "id": 335
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/2024-01-17.md",
+        "wordCountStart": 24,
+        "charCountStart": 179,
+        "changes": [
+          {
+            "timeKey": "21:25",
+            "w": -24,
+            "c": -179
+          }
+        ],
+        "id": 336
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/2024-01-18.md",
+        "wordCountStart": 24,
+        "charCountStart": 179,
+        "changes": [
+          {
+            "timeKey": "21:25",
+            "w": -24,
+            "c": -179
+          }
+        ],
+        "id": 337
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/2024-01-19.md",
+        "wordCountStart": 24,
+        "charCountStart": 179,
+        "changes": [
+          {
+            "timeKey": "21:25",
+            "w": -24,
+            "c": -179
+          }
+        ],
+        "id": 338
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/2024-01-20.md",
+        "wordCountStart": 24,
+        "charCountStart": 179,
+        "changes": [
+          {
+            "timeKey": "21:25",
+            "w": -24,
+            "c": -179
+          }
+        ],
+        "id": 339
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/2024-01-21.md",
+        "wordCountStart": 24,
+        "charCountStart": 179,
+        "changes": [
+          {
+            "timeKey": "21:25",
+            "w": -24,
+            "c": -179
+          }
+        ],
+        "id": 340
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/2024-01-22.md",
+        "wordCountStart": 24,
+        "charCountStart": 179,
+        "changes": [
+          {
+            "timeKey": "21:25",
+            "w": -24,
+            "c": -179
+          }
+        ],
+        "id": 341
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/2024-01-23.md",
+        "wordCountStart": 24,
+        "charCountStart": 179,
+        "changes": [
+          {
+            "timeKey": "21:25",
+            "w": -24,
+            "c": -179
+          }
+        ],
+        "id": 342
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/2024-01-24.md",
+        "wordCountStart": 24,
+        "charCountStart": 179,
+        "changes": [
+          {
+            "timeKey": "21:25",
+            "w": -24,
+            "c": -179
+          }
+        ],
+        "id": 343
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/2024-01-25.md",
+        "wordCountStart": 24,
+        "charCountStart": 179,
+        "changes": [
+          {
+            "timeKey": "21:25",
+            "w": -24,
+            "c": -179
+          }
+        ],
+        "id": 344
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/2024-02-11.md",
+        "wordCountStart": 24,
+        "charCountStart": 179,
+        "changes": [
+          {
+            "timeKey": "21:25",
+            "w": -24,
+            "c": -179
+          }
+        ],
+        "id": 345
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/2024-02-02.md",
+        "wordCountStart": 24,
+        "charCountStart": 179,
+        "changes": [
+          {
+            "timeKey": "21:25",
+            "w": -24,
+            "c": -179
+          }
+        ],
+        "id": 346
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/2024/2024-02-01.md",
+        "wordCountStart": 48,
+        "charCountStart": 359,
+        "changes": [],
+        "id": 347
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/2024-01-30.md",
+        "wordCountStart": 24,
+        "charCountStart": 179,
+        "changes": [
+          {
+            "timeKey": "21:25",
+            "w": -24,
+            "c": -179
+          }
+        ],
+        "id": 348
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/2024-01-29.md",
+        "wordCountStart": 24,
+        "charCountStart": 179,
+        "changes": [
+          {
+            "timeKey": "21:25",
+            "w": -24,
+            "c": -179
+          }
+        ],
+        "id": 349
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/2022/2022-02-28.md",
+        "wordCountStart": 86,
+        "charCountStart": 507,
+        "changes": [],
+        "id": 350
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/2022/2022-03-01.md",
+        "wordCountStart": 193,
+        "charCountStart": 1111,
+        "changes": [],
+        "id": 351
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-01-02.md",
+        "wordCountStart": 75,
+        "charCountStart": 483,
+        "changes": [],
+        "id": 352
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-08-11.md",
+        "wordCountStart": 51,
+        "charCountStart": 402,
+        "changes": [],
+        "id": 353
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/ 2023/2023-08-10.md",
+        "wordCountStart": 36,
+        "charCountStart": 303,
+        "changes": [
+          {
+            "timeKey": "21:30",
+            "w": -36,
+            "c": -303
+          }
+        ],
+        "id": 354
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-08-09.md",
+        "wordCountStart": 929,
+        "charCountStart": 4899,
+        "changes": [],
+        "id": 355
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/ 2023/2023-08-08.md",
+        "wordCountStart": 36,
+        "charCountStart": 306,
+        "changes": [
+          {
+            "timeKey": "21:30",
+            "w": -36,
+            "c": -306
+          }
+        ],
+        "id": 356
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/ 2023/2023-08-07.md",
+        "wordCountStart": 36,
+        "charCountStart": 305,
+        "changes": [
+          {
+            "timeKey": "21:30",
+            "w": -36,
+            "c": -305
+          }
+        ],
+        "id": 357
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/ 2023/2023-08-06.md",
+        "wordCountStart": 36,
+        "charCountStart": 305,
+        "changes": [
+          {
+            "timeKey": "21:30",
+            "w": -36,
+            "c": -305
+          }
+        ],
+        "id": 358
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/ 2023/2023-08-05.md",
+        "wordCountStart": 36,
+        "charCountStart": 307,
+        "changes": [
+          {
+            "timeKey": "21:30",
+            "w": -36,
+            "c": -307
+          }
+        ],
+        "id": 359
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/ 2023/2023-08-04.md",
+        "wordCountStart": 37,
+        "charCountStart": 309,
+        "changes": [
+          {
+            "timeKey": "21:30",
+            "w": -37,
+            "c": -309
+          }
+        ],
+        "id": 360
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/ 2023/2023-08-03.md",
+        "wordCountStart": 51,
+        "charCountStart": 393,
+        "changes": [
+          {
+            "timeKey": "21:30",
+            "w": -51,
+            "c": -393
+          }
+        ],
+        "id": 361
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/ 2023/2023-08-02.md",
+        "wordCountStart": 55,
+        "charCountStart": 423,
+        "changes": [
+          {
+            "timeKey": "21:30",
+            "w": -55,
+            "c": -423
+          }
+        ],
+        "id": 362
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-08-01.md",
+        "wordCountStart": 378,
+        "charCountStart": 2189,
+        "changes": [],
+        "id": 363
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2022/2022-11-18.md",
+        "wordCountStart": 52,
+        "charCountStart": 307,
+        "changes": [],
+        "id": 376
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-01-01.md",
+        "wordCountStart": 8975,
+        "charCountStart": 47454,
+        "changes": [],
+        "id": 377
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-01-02.md",
+        "wordCountStart": 75,
+        "charCountStart": 483,
+        "changes": [
+          {
+            "timeKey": "07:50",
+            "w": -75,
+            "c": -483
+          }
+        ],
+        "id": 378
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-01-03.md",
+        "wordCountStart": 64,
+        "charCountStart": 435,
+        "changes": [
+          {
+            "timeKey": "07:50",
+            "w": -64,
+            "c": -435
+          }
+        ],
+        "id": 379
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-01-04.md",
+        "wordCountStart": 48,
+        "charCountStart": 350,
+        "changes": [
+          {
+            "timeKey": "07:50",
+            "w": -48,
+            "c": -350
+          }
+        ],
+        "id": 380
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-01-05.md",
+        "wordCountStart": 238,
+        "charCountStart": 1513,
+        "changes": [],
+        "id": 381
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-01-06.md",
+        "wordCountStart": 153,
+        "charCountStart": 956,
+        "changes": [],
+        "id": 382
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-01-07.md",
+        "wordCountStart": 78,
+        "charCountStart": 569,
+        "changes": [
+          {
+            "timeKey": "07:55",
+            "w": -78,
+            "c": -569
+          }
+        ],
+        "id": 383
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-01-08.md",
+        "wordCountStart": 99,
+        "charCountStart": 725,
+        "changes": [
+          {
+            "timeKey": "07:55",
+            "w": -99,
+            "c": -725
+          }
+        ],
+        "id": 384
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-01-09.md",
+        "wordCountStart": 264,
+        "charCountStart": 1615,
+        "changes": [],
+        "id": 385
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-01-10.md",
+        "wordCountStart": 243,
+        "charCountStart": 1536,
+        "changes": [],
+        "id": 386
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-01-11.md",
+        "wordCountStart": 66,
+        "charCountStart": 522,
+        "changes": [],
+        "id": 387
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-01-12.md",
+        "wordCountStart": 74,
+        "charCountStart": 563,
+        "changes": [],
+        "id": 388
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-01-13.md",
+        "wordCountStart": 196,
+        "charCountStart": 1271,
+        "changes": [],
+        "id": 389
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-01-14.md",
+        "wordCountStart": 593,
+        "charCountStart": 3508,
+        "changes": [],
+        "id": 390
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-01-15.md",
+        "wordCountStart": 83,
+        "charCountStart": 619,
+        "changes": [
+          {
+            "timeKey": "07:55",
+            "w": -83,
+            "c": -619
+          }
+        ],
+        "id": 391
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-01-16.md",
+        "wordCountStart": 71,
+        "charCountStart": 532,
+        "changes": [
+          {
+            "timeKey": "07:55",
+            "w": -71,
+            "c": -532
+          }
+        ],
+        "id": 392
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-01-17.md",
+        "wordCountStart": 58,
+        "charCountStart": 483,
+        "changes": [],
+        "id": 393
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-01-18.md",
+        "wordCountStart": 62,
+        "charCountStart": 501,
+        "changes": [],
+        "id": 394
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-01-19.md",
+        "wordCountStart": 71,
+        "charCountStart": 566,
+        "changes": [],
+        "id": 395
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-01-20.md",
+        "wordCountStart": 49,
+        "charCountStart": 426,
+        "changes": [
+          {
+            "timeKey": "07:55",
+            "w": -49,
+            "c": -426
+          }
+        ],
+        "id": 396
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-01-21.md",
+        "wordCountStart": 463,
+        "charCountStart": 2605,
+        "changes": [
+          {
+            "timeKey": "07:55",
+            "w": -463,
+            "c": -2605
+          }
+        ],
+        "id": 397
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-01-22.md",
+        "wordCountStart": 734,
+        "charCountStart": 3949,
+        "changes": [],
+        "id": 398
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-01-23.md",
+        "wordCountStart": 72,
+        "charCountStart": 546,
+        "changes": [
+          {
+            "timeKey": "07:55",
+            "w": -72,
+            "c": -546
+          }
+        ],
+        "id": 399
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-01-24.md",
+        "wordCountStart": 86,
+        "charCountStart": 661,
+        "changes": [],
+        "id": 400
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-01-25.md",
+        "wordCountStart": 108,
+        "charCountStart": 785,
+        "changes": [],
+        "id": 401
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-01-26.md",
+        "wordCountStart": 60,
+        "charCountStart": 487,
+        "changes": [
+          {
+            "timeKey": "07:55",
+            "w": -60,
+            "c": -487
+          }
+        ],
+        "id": 402
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-01-27.md",
+        "wordCountStart": 50,
+        "charCountStart": 438,
+        "changes": [
+          {
+            "timeKey": "07:55",
+            "w": -50,
+            "c": -438
+          }
+        ],
+        "id": 403
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-01-28.md",
+        "wordCountStart": 426,
+        "charCountStart": 3906,
+        "changes": [],
+        "id": 404
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-01-29.md",
+        "wordCountStart": 82,
+        "charCountStart": 619,
+        "changes": [
+          {
+            "timeKey": "07:55",
+            "w": -82,
+            "c": -619
+          }
+        ],
+        "id": 405
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-01-30.md",
+        "wordCountStart": 1084,
+        "charCountStart": 6911,
+        "changes": [],
+        "id": 406
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-01-31.md",
+        "wordCountStart": 349,
+        "charCountStart": 2193,
+        "changes": [],
+        "id": 407
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-01-31 2.md",
+        "wordCountStart": 47,
+        "charCountStart": 430,
+        "changes": [
+          {
+            "timeKey": "07:55",
+            "w": -47,
+            "c": -430
+          }
+        ],
+        "id": 408
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-02-01.md",
+        "wordCountStart": 69,
+        "charCountStart": 539,
+        "changes": [
+          {
+            "timeKey": "07:55",
+            "w": -69,
+            "c": -539
+          }
+        ],
+        "id": 409
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-02-02.md",
+        "wordCountStart": 60,
+        "charCountStart": 494,
+        "changes": [
+          {
+            "timeKey": "07:55",
+            "w": -60,
+            "c": -494
+          }
+        ],
+        "id": 410
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-02-03.md",
+        "wordCountStart": 94,
+        "charCountStart": 732,
+        "changes": [],
+        "id": 411
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-02-04.md",
+        "wordCountStart": 147,
+        "charCountStart": 1164,
+        "changes": [],
+        "id": 412
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-02-05.md",
+        "wordCountStart": 76,
+        "charCountStart": 611,
+        "changes": [],
+        "id": 413
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-02-06.md",
+        "wordCountStart": 53,
+        "charCountStart": 466,
+        "changes": [
+          {
+            "timeKey": "07:55",
+            "w": -53,
+            "c": -466
+          }
+        ],
+        "id": 414
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-02-07.md",
+        "wordCountStart": 63,
+        "charCountStart": 516,
+        "changes": [],
+        "id": 415
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-02-09.md",
+        "wordCountStart": 50,
+        "charCountStart": 438,
+        "changes": [
+          {
+            "timeKey": "08:00",
+            "w": -50,
+            "c": -438
+          }
+        ],
+        "id": 416
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-02-08.md",
+        "wordCountStart": 50,
+        "charCountStart": 438,
+        "changes": [
+          {
+            "timeKey": "08:00",
+            "w": -50,
+            "c": -438
+          }
+        ],
+        "id": 417
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-02-10.md",
+        "wordCountStart": 50,
+        "charCountStart": 438,
+        "changes": [
+          {
+            "timeKey": "08:00",
+            "w": -50,
+            "c": -438
+          }
+        ],
+        "id": 418
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-02-11.md",
+        "wordCountStart": 49,
+        "charCountStart": 437,
+        "changes": [
+          {
+            "timeKey": "08:00",
+            "w": -49,
+            "c": -437
+          }
+        ],
+        "id": 419
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-02-12.md",
+        "wordCountStart": 50,
+        "charCountStart": 438,
+        "changes": [
+          {
+            "timeKey": "08:00",
+            "w": -50,
+            "c": -438
+          }
+        ],
+        "id": 420
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-02-13.md",
+        "wordCountStart": 226,
+        "charCountStart": 1546,
+        "changes": [],
+        "id": 421
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-02-14.md",
+        "wordCountStart": 50,
+        "charCountStart": 438,
+        "changes": [
+          {
+            "timeKey": "08:00",
+            "w": -50,
+            "c": -438
+          }
+        ],
+        "id": 422
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-02-15.md",
+        "wordCountStart": 49,
+        "charCountStart": 437,
+        "changes": [
+          {
+            "timeKey": "08:00",
+            "w": -49,
+            "c": -437
+          }
+        ],
+        "id": 423
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-02-16.md",
+        "wordCountStart": 50,
+        "charCountStart": 438,
+        "changes": [
+          {
+            "timeKey": "08:00",
+            "w": -50,
+            "c": -438
+          }
+        ],
+        "id": 424
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-02-17.md",
+        "wordCountStart": 470,
+        "charCountStart": 3380,
+        "changes": [],
+        "id": 425
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-02-17 2.md",
+        "wordCountStart": 47,
+        "charCountStart": 430,
+        "changes": [
+          {
+            "timeKey": "08:00",
+            "w": -47,
+            "c": -430
+          }
+        ],
+        "id": 426
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-02-18.md",
+        "wordCountStart": 50,
+        "charCountStart": 438,
+        "changes": [
+          {
+            "timeKey": "08:00",
+            "w": -50,
+            "c": -438
+          }
+        ],
+        "id": 427
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-02-19.md",
+        "wordCountStart": 50,
+        "charCountStart": 438,
+        "changes": [
+          {
+            "timeKey": "08:00",
+            "w": -50,
+            "c": -438
+          }
+        ],
+        "id": 428
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-02-20.md",
+        "wordCountStart": 50,
+        "charCountStart": 438,
+        "changes": [
+          {
+            "timeKey": "08:00",
+            "w": -50,
+            "c": -438
+          }
+        ],
+        "id": 429
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-02-21.md",
+        "wordCountStart": 50,
+        "charCountStart": 439,
+        "changes": [
+          {
+            "timeKey": "08:00",
+            "w": -50,
+            "c": -439
+          }
+        ],
+        "id": 430
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-02-22.md",
+        "wordCountStart": 571,
+        "charCountStart": 3833,
+        "changes": [],
+        "id": 431
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-02-23.md",
+        "wordCountStart": 109,
+        "charCountStart": 806,
+        "changes": [],
+        "id": 432
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-02-24.md",
+        "wordCountStart": 50,
+        "charCountStart": 438,
+        "changes": [
+          {
+            "timeKey": "08:00",
+            "w": -50,
+            "c": -438
+          }
+        ],
+        "id": 433
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-02-25.md",
+        "wordCountStart": 50,
+        "charCountStart": 438,
+        "changes": [
+          {
+            "timeKey": "08:00",
+            "w": -50,
+            "c": -438
+          }
+        ],
+        "id": 434
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-02-26.md",
+        "wordCountStart": 125,
+        "charCountStart": 874,
+        "changes": [],
+        "id": 435
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-02-27.md",
+        "wordCountStart": 50,
+        "charCountStart": 438,
+        "changes": [
+          {
+            "timeKey": "08:00",
+            "w": -50,
+            "c": -438
+          }
+        ],
+        "id": 436
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-02-28.md",
+        "wordCountStart": 50,
+        "charCountStart": 439,
+        "changes": [
+          {
+            "timeKey": "08:00",
+            "w": -50,
+            "c": -439
+          }
+        ],
+        "id": 437
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-03-01.md",
+        "wordCountStart": 64,
+        "charCountStart": 536,
+        "changes": [],
+        "id": 438
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-03-02.md",
+        "wordCountStart": 96,
+        "charCountStart": 692,
+        "changes": [],
+        "id": 439
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-03-03.md",
+        "wordCountStart": 76,
+        "charCountStart": 597,
+        "changes": [
+          {
+            "timeKey": "08:00",
+            "w": -76,
+            "c": -597
+          }
+        ],
+        "id": 440
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-03-04.md",
+        "wordCountStart": 50,
+        "charCountStart": 438,
+        "changes": [
+          {
+            "timeKey": "08:00",
+            "w": -50,
+            "c": -438
+          }
+        ],
+        "id": 441
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-03-05.md",
+        "wordCountStart": 76,
+        "charCountStart": 591,
+        "changes": [
+          {
+            "timeKey": "08:00",
+            "w": -76,
+            "c": -591
+          }
+        ],
+        "id": 442
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-03-06.md",
+        "wordCountStart": 121,
+        "charCountStart": 889,
+        "changes": [],
+        "id": 443
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-03-07.md",
+        "wordCountStart": 759,
+        "charCountStart": 4287,
+        "changes": [
+          {
+            "timeKey": "08:00",
+            "w": -759,
+            "c": -4287
+          }
+        ],
+        "id": 444
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-03-08.md",
+        "wordCountStart": 77,
+        "charCountStart": 610,
+        "changes": [
+          {
+            "timeKey": "08:00",
+            "w": -77,
+            "c": -610
+          }
+        ],
+        "id": 445
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-03-09.md",
+        "wordCountStart": 168,
+        "charCountStart": 1150,
+        "changes": [],
+        "id": 446
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-03-10.md",
+        "wordCountStart": 56,
+        "charCountStart": 502,
+        "changes": [
+          {
+            "timeKey": "08:00",
+            "w": -56,
+            "c": -502
+          }
+        ],
+        "id": 447
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-03-11.md",
+        "wordCountStart": 56,
+        "charCountStart": 503,
+        "changes": [
+          {
+            "timeKey": "08:00",
+            "w": -56,
+            "c": -503
+          }
+        ],
+        "id": 448
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-03-12.md",
+        "wordCountStart": 55,
+        "charCountStart": 501,
+        "changes": [
+          {
+            "timeKey": "08:00",
+            "w": -55,
+            "c": -501
+          }
+        ],
+        "id": 449
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-03-13.md",
+        "wordCountStart": 570,
+        "charCountStart": 3586,
+        "changes": [],
+        "id": 450
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-03-14.md",
+        "wordCountStart": 56,
+        "charCountStart": 502,
+        "changes": [
+          {
+            "timeKey": "08:00",
+            "w": -56,
+            "c": -502
+          }
+        ],
+        "id": 451
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-03-15.md",
+        "wordCountStart": 641,
+        "charCountStart": 4194,
+        "changes": [],
+        "id": 452
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-03-16.md",
+        "wordCountStart": 56,
+        "charCountStart": 502,
+        "changes": [
+          {
+            "timeKey": "08:00",
+            "w": -56,
+            "c": -502
+          }
+        ],
+        "id": 453
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-03-17.md",
+        "wordCountStart": 55,
+        "charCountStart": 501,
+        "changes": [
+          {
+            "timeKey": "08:00",
+            "w": -55,
+            "c": -501
+          }
+        ],
+        "id": 454
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-03-18.md",
+        "wordCountStart": 56,
+        "charCountStart": 502,
+        "changes": [
+          {
+            "timeKey": "08:00",
+            "w": -56,
+            "c": -502
+          }
+        ],
+        "id": 455
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-03-19.md",
+        "wordCountStart": 56,
+        "charCountStart": 502,
+        "changes": [
+          {
+            "timeKey": "08:00",
+            "w": -56,
+            "c": -502
+          }
+        ],
+        "id": 456
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-03-20.md",
+        "wordCountStart": 432,
+        "charCountStart": 2822,
+        "changes": [],
+        "id": 457
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-03-21.md",
+        "wordCountStart": 77,
+        "charCountStart": 648,
+        "changes": [],
+        "id": 458
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-03-22.md",
+        "wordCountStart": 56,
+        "charCountStart": 504,
+        "changes": [
+          {
+            "timeKey": "08:00",
+            "w": -56,
+            "c": -504
+          }
+        ],
+        "id": 459
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-03-23.md",
+        "wordCountStart": 141,
+        "charCountStart": 988,
+        "changes": [],
+        "id": 460
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-03-25.md",
+        "wordCountStart": 55,
+        "charCountStart": 501,
+        "changes": [
+          {
+            "timeKey": "08:00",
+            "w": -55,
+            "c": -501
+          }
+        ],
+        "id": 461
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-03-26.md",
+        "wordCountStart": 79,
+        "charCountStart": 704,
+        "changes": [],
+        "id": 462
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-03-27.md",
+        "wordCountStart": 74,
+        "charCountStart": 607,
+        "changes": [
+          {
+            "timeKey": "08:00",
+            "w": -74,
+            "c": -607
+          }
+        ],
+        "id": 463
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-03-28.md",
+        "wordCountStart": 60,
+        "charCountStart": 533,
+        "changes": [
+          {
+            "timeKey": "08:00",
+            "w": -60,
+            "c": -533
+          }
+        ],
+        "id": 464
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-03-29.md",
+        "wordCountStart": 56,
+        "charCountStart": 502,
+        "changes": [
+          {
+            "timeKey": "08:00",
+            "w": -56,
+            "c": -502
+          }
+        ],
+        "id": 465
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-03-30.md",
+        "wordCountStart": 56,
+        "charCountStart": 502,
+        "changes": [
+          {
+            "timeKey": "08:00",
+            "w": -56,
+            "c": -502
+          }
+        ],
+        "id": 466
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-03-31.md",
+        "wordCountStart": 69,
+        "charCountStart": 580,
+        "changes": [
+          {
+            "timeKey": "08:00",
+            "w": -69,
+            "c": -580
+          }
+        ],
+        "id": 467
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-04-01.md",
+        "wordCountStart": 63,
+        "charCountStart": 540,
+        "changes": [
+          {
+            "timeKey": "08:00",
+            "w": -63,
+            "c": -540
+          }
+        ],
+        "id": 468
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-04-02.md",
+        "wordCountStart": 57,
+        "charCountStart": 518,
+        "changes": [
+          {
+            "timeKey": "08:00",
+            "w": -57,
+            "c": -518
+          }
+        ],
+        "id": 469
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-04-03.md",
+        "wordCountStart": 52,
+        "charCountStart": 471,
+        "changes": [
+          {
+            "timeKey": "08:00",
+            "w": -52,
+            "c": -471
+          }
+        ],
+        "id": 470
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-04-04.md",
+        "wordCountStart": 52,
+        "charCountStart": 471,
+        "changes": [
+          {
+            "timeKey": "08:00",
+            "w": -52,
+            "c": -471
+          }
+        ],
+        "id": 471
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-04-05.md",
+        "wordCountStart": 51,
+        "charCountStart": 470,
+        "changes": [
+          {
+            "timeKey": "08:00",
+            "w": -51,
+            "c": -470
+          }
+        ],
+        "id": 472
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-04-05 2.md",
+        "wordCountStart": 49,
+        "charCountStart": 463,
+        "changes": [
+          {
+            "timeKey": "08:00",
+            "w": -49,
+            "c": -463
+          }
+        ],
+        "id": 473
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-04-06.md",
+        "wordCountStart": 87,
+        "charCountStart": 676,
+        "changes": [
+          {
+            "timeKey": "08:00",
+            "w": -87,
+            "c": -676
+          }
+        ],
+        "id": 474
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-04-07.md",
+        "wordCountStart": 52,
+        "charCountStart": 471,
+        "changes": [
+          {
+            "timeKey": "08:00",
+            "w": -52,
+            "c": -471
+          }
+        ],
+        "id": 475
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-04-08.md",
+        "wordCountStart": 52,
+        "charCountStart": 471,
+        "changes": [
+          {
+            "timeKey": "08:00",
+            "w": -52,
+            "c": -471
+          }
+        ],
+        "id": 476
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-04-09.md",
+        "wordCountStart": 52,
+        "charCountStart": 471,
+        "changes": [
+          {
+            "timeKey": "08:00",
+            "w": -52,
+            "c": -471
+          }
+        ],
+        "id": 477
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-04-10.md",
+        "wordCountStart": 52,
+        "charCountStart": 471,
+        "changes": [
+          {
+            "timeKey": "08:00",
+            "w": -52,
+            "c": -471
+          }
+        ],
+        "id": 478
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-04-11.md",
+        "wordCountStart": 72,
+        "charCountStart": 568,
+        "changes": [
+          {
+            "timeKey": "08:00",
+            "w": -72,
+            "c": -568
+          }
+        ],
+        "id": 479
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-04-12.md",
+        "wordCountStart": 65,
+        "charCountStart": 551,
+        "changes": [
+          {
+            "timeKey": "08:00",
+            "w": -65,
+            "c": -551
+          }
+        ],
+        "id": 480
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-04-13.md",
+        "wordCountStart": 51,
+        "charCountStart": 470,
+        "changes": [
+          {
+            "timeKey": "08:00",
+            "w": -51,
+            "c": -470
+          }
+        ],
+        "id": 481
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-04-14.md",
+        "wordCountStart": 400,
+        "charCountStart": 2721,
+        "changes": [],
+        "id": 482
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-04-15.md",
+        "wordCountStart": 51,
+        "charCountStart": 459,
+        "changes": [
+          {
+            "timeKey": "08:00",
+            "w": -51,
+            "c": -459
+          }
+        ],
+        "id": 483
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-04-16.md",
+        "wordCountStart": 51,
+        "charCountStart": 459,
+        "changes": [
+          {
+            "timeKey": "08:00",
+            "w": -51,
+            "c": -459
+          }
+        ],
+        "id": 484
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-04-17.md",
+        "wordCountStart": 51,
+        "charCountStart": 459,
+        "changes": [
+          {
+            "timeKey": "08:00",
+            "w": -51,
+            "c": -459
+          }
+        ],
+        "id": 485
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-04-19.md",
+        "wordCountStart": 51,
+        "charCountStart": 457,
+        "changes": [
+          {
+            "timeKey": "08:00",
+            "w": -51,
+            "c": -457
+          }
+        ],
+        "id": 486
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-04-18.md",
+        "wordCountStart": 51,
+        "charCountStart": 459,
+        "changes": [
+          {
+            "timeKey": "08:00",
+            "w": -51,
+            "c": -459
+          }
+        ],
+        "id": 487
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-04-20.md",
+        "wordCountStart": 75,
+        "charCountStart": 622,
+        "changes": [],
+        "id": 488
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-04-22.md",
+        "wordCountStart": 49,
+        "charCountStart": 452,
+        "changes": [],
+        "id": 489
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-04-24.md",
+        "wordCountStart": 49,
+        "charCountStart": 452,
+        "changes": [
+          {
+            "timeKey": "08:05",
+            "w": -49,
+            "c": -452
+          }
+        ],
+        "id": 490
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-04-25.md",
+        "wordCountStart": 49,
+        "charCountStart": 452,
+        "changes": [
+          {
+            "timeKey": "08:05",
+            "w": -49,
+            "c": -452
+          }
+        ],
+        "id": 491
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-04-26.md",
+        "wordCountStart": 49,
+        "charCountStart": 452,
+        "changes": [
+          {
+            "timeKey": "08:05",
+            "w": -49,
+            "c": -452
+          }
+        ],
+        "id": 492
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-04-27.md",
+        "wordCountStart": 45,
+        "charCountStart": 403,
+        "changes": [
+          {
+            "timeKey": "08:05",
+            "w": -45,
+            "c": -403
+          }
+        ],
+        "id": 493
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-04-28.md",
+        "wordCountStart": 59,
+        "charCountStart": 520,
+        "changes": [],
+        "id": 494
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-04-30.md",
+        "wordCountStart": 225,
+        "charCountStart": 1683,
+        "changes": [],
+        "id": 495
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-05-01.md",
+        "wordCountStart": 45,
+        "charCountStart": 402,
+        "changes": [
+          {
+            "timeKey": "08:05",
+            "w": -45,
+            "c": -402
+          }
+        ],
+        "id": 496
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-05-02.md",
+        "wordCountStart": 45,
+        "charCountStart": 402,
+        "changes": [
+          {
+            "timeKey": "08:05",
+            "w": -45,
+            "c": -402
+          }
+        ],
+        "id": 497
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-05-03.md",
+        "wordCountStart": 46,
+        "charCountStart": 406,
+        "changes": [
+          {
+            "timeKey": "08:05",
+            "w": -46,
+            "c": -406
+          }
+        ],
+        "id": 498
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-05-04.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "08:05",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 499
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-05-05.md",
+        "wordCountStart": 62,
+        "charCountStart": 533,
+        "changes": [],
+        "id": 500
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-05-06.md",
+        "wordCountStart": 46,
+        "charCountStart": 406,
+        "changes": [
+          {
+            "timeKey": "08:05",
+            "w": -46,
+            "c": -406
+          }
+        ],
+        "id": 501
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-05-07.md",
+        "wordCountStart": 54,
+        "charCountStart": 444,
+        "changes": [
+          {
+            "timeKey": "08:05",
+            "w": -54,
+            "c": -444
+          }
+        ],
+        "id": 502
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-05-08.md",
+        "wordCountStart": 46,
+        "charCountStart": 406,
+        "changes": [
+          {
+            "timeKey": "08:05",
+            "w": -46,
+            "c": -406
+          }
+        ],
+        "id": 503
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-05-09.md",
+        "wordCountStart": 60,
+        "charCountStart": 517,
+        "changes": [],
+        "id": 504
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-05-10.md",
+        "wordCountStart": 46,
+        "charCountStart": 406,
+        "changes": [
+          {
+            "timeKey": "08:05",
+            "w": -46,
+            "c": -406
+          }
+        ],
+        "id": 505
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-05-11.md",
+        "wordCountStart": 46,
+        "charCountStart": 406,
+        "changes": [
+          {
+            "timeKey": "08:05",
+            "w": -46,
+            "c": -406
+          }
+        ],
+        "id": 506
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-05-12.md",
+        "wordCountStart": 46,
+        "charCountStart": 406,
+        "changes": [
+          {
+            "timeKey": "08:05",
+            "w": -46,
+            "c": -406
+          }
+        ],
+        "id": 507
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-05-13.md",
+        "wordCountStart": 46,
+        "charCountStart": 406,
+        "changes": [
+          {
+            "timeKey": "08:05",
+            "w": -46,
+            "c": -406
+          }
+        ],
+        "id": 508
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-05-14.md",
+        "wordCountStart": 46,
+        "charCountStart": 406,
+        "changes": [
+          {
+            "timeKey": "08:05",
+            "w": -46,
+            "c": -406
+          }
+        ],
+        "id": 509
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-05-15.md",
+        "wordCountStart": 46,
+        "charCountStart": 406,
+        "changes": [
+          {
+            "timeKey": "08:05",
+            "w": -46,
+            "c": -406
+          }
+        ],
+        "id": 510
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-05-16.md",
+        "wordCountStart": 48,
+        "charCountStart": 385,
+        "changes": [
+          {
+            "timeKey": "08:05",
+            "w": -48,
+            "c": -385
+          }
+        ],
+        "id": 511
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-05-17.md",
+        "wordCountStart": 84,
+        "charCountStart": 655,
+        "changes": [],
+        "id": 512
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-05-18.md",
+        "wordCountStart": 47,
+        "charCountStart": 378,
+        "changes": [
+          {
+            "timeKey": "08:05",
+            "w": -47,
+            "c": -378
+          }
+        ],
+        "id": 513
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-05-19.md",
+        "wordCountStart": 65,
+        "charCountStart": 488,
+        "changes": [],
+        "id": 514
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-05-20.md",
+        "wordCountStart": 88,
+        "charCountStart": 628,
+        "changes": [],
+        "id": 515
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-05-21.md",
+        "wordCountStart": 48,
+        "charCountStart": 382,
+        "changes": [
+          {
+            "timeKey": "08:35",
+            "w": -48,
+            "c": -382
+          }
+        ],
+        "id": 516
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-05-22.md",
+        "wordCountStart": 48,
+        "charCountStart": 382,
+        "changes": [
+          {
+            "timeKey": "08:35",
+            "w": -48,
+            "c": -382
+          }
+        ],
+        "id": 517
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-05-23.md",
+        "wordCountStart": 48,
+        "charCountStart": 382,
+        "changes": [
+          {
+            "timeKey": "08:35",
+            "w": -48,
+            "c": -382
+          }
+        ],
+        "id": 518
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-05-24.md",
+        "wordCountStart": 48,
+        "charCountStart": 382,
+        "changes": [
+          {
+            "timeKey": "08:35",
+            "w": -48,
+            "c": -382
+          }
+        ],
+        "id": 519
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-05-25.md",
+        "wordCountStart": 48,
+        "charCountStart": 382,
+        "changes": [
+          {
+            "timeKey": "08:35",
+            "w": -48,
+            "c": -382
+          }
+        ],
+        "id": 520
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-05-26.md",
+        "wordCountStart": 48,
+        "charCountStart": 382,
+        "changes": [
+          {
+            "timeKey": "08:35",
+            "w": -48,
+            "c": -382
+          }
+        ],
+        "id": 521
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-05-28.md",
+        "wordCountStart": 48,
+        "charCountStart": 382,
+        "changes": [
+          {
+            "timeKey": "08:35",
+            "w": -48,
+            "c": -382
+          }
+        ],
+        "id": 522
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-05-27.md",
+        "wordCountStart": 48,
+        "charCountStart": 382,
+        "changes": [
+          {
+            "timeKey": "08:35",
+            "w": -48,
+            "c": -382
+          }
+        ],
+        "id": 523
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-05-29.md",
+        "wordCountStart": 48,
+        "charCountStart": 382,
+        "changes": [
+          {
+            "timeKey": "08:35",
+            "w": -48,
+            "c": -382
+          }
+        ],
+        "id": 524
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-05-30.md",
+        "wordCountStart": 48,
+        "charCountStart": 382,
+        "changes": [
+          {
+            "timeKey": "08:35",
+            "w": -48,
+            "c": -382
+          }
+        ],
+        "id": 525
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-05-31.md",
+        "wordCountStart": 48,
+        "charCountStart": 382,
+        "changes": [
+          {
+            "timeKey": "08:35",
+            "w": -48,
+            "c": -382
+          }
+        ],
+        "id": 526
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-06-01.md",
+        "wordCountStart": 52,
+        "charCountStart": 406,
+        "changes": [
+          {
+            "timeKey": "08:35",
+            "w": -52,
+            "c": -406
+          }
+        ],
+        "id": 527
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-06-02.md",
+        "wordCountStart": 53,
+        "charCountStart": 407,
+        "changes": [
+          {
+            "timeKey": "08:35",
+            "w": -53,
+            "c": -407
+          }
+        ],
+        "id": 528
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-06-03.md",
+        "wordCountStart": 51,
+        "charCountStart": 395,
+        "changes": [
+          {
+            "timeKey": "08:35",
+            "w": -51,
+            "c": -395
+          }
+        ],
+        "id": 529
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-06-04.md",
+        "wordCountStart": 51,
+        "charCountStart": 396,
+        "changes": [
+          {
+            "timeKey": "08:35",
+            "w": -51,
+            "c": -396
+          }
+        ],
+        "id": 530
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-06-05.md",
+        "wordCountStart": 51,
+        "charCountStart": 393,
+        "changes": [
+          {
+            "timeKey": "08:35",
+            "w": -51,
+            "c": -393
+          }
+        ],
+        "id": 531
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-06-06.md",
+        "wordCountStart": 53,
+        "charCountStart": 412,
+        "changes": [],
+        "id": 532
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-06-07.md",
+        "wordCountStart": 51,
+        "charCountStart": 396,
+        "changes": [
+          {
+            "timeKey": "08:35",
+            "w": -51,
+            "c": -396
+          }
+        ],
+        "id": 533
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-06-08.md",
+        "wordCountStart": 52,
+        "charCountStart": 399,
+        "changes": [
+          {
+            "timeKey": "08:35",
+            "w": -52,
+            "c": -399
+          }
+        ],
+        "id": 534
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-06-09.md",
+        "wordCountStart": 122,
+        "charCountStart": 786,
+        "changes": [],
+        "id": 535
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-06-10.md",
+        "wordCountStart": 51,
+        "charCountStart": 395,
+        "changes": [
+          {
+            "timeKey": "08:35",
+            "w": -51,
+            "c": -395
+          }
+        ],
+        "id": 536
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-06-11.md",
+        "wordCountStart": 123,
+        "charCountStart": 803,
+        "changes": [],
+        "id": 537
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-06-13.md",
+        "wordCountStart": 51,
+        "charCountStart": 394,
+        "changes": [
+          {
+            "timeKey": "08:35",
+            "w": -51,
+            "c": -394
+          }
+        ],
+        "id": 538
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-06-14.md",
+        "wordCountStart": 51,
+        "charCountStart": 395,
+        "changes": [
+          {
+            "timeKey": "08:35",
+            "w": -51,
+            "c": -395
+          }
+        ],
+        "id": 539
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-06-15.md",
+        "wordCountStart": 52,
+        "charCountStart": 402,
+        "changes": [
+          {
+            "timeKey": "08:35",
+            "w": -52,
+            "c": -402
+          }
+        ],
+        "id": 540
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-06-16.md",
+        "wordCountStart": 51,
+        "charCountStart": 394,
+        "changes": [
+          {
+            "timeKey": "08:35",
+            "w": -51,
+            "c": -394
+          }
+        ],
+        "id": 541
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-06-17.md",
+        "wordCountStart": 64,
+        "charCountStart": 501,
+        "changes": [],
+        "id": 542
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-06-18.md",
+        "wordCountStart": 51,
+        "charCountStart": 394,
+        "changes": [
+          {
+            "timeKey": "08:35",
+            "w": -51,
+            "c": -394
+          }
+        ],
+        "id": 543
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-06-19.md",
+        "wordCountStart": 51,
+        "charCountStart": 396,
+        "changes": [
+          {
+            "timeKey": "08:35",
+            "w": -51,
+            "c": -396
+          }
+        ],
+        "id": 544
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-06-20.md",
+        "wordCountStart": 51,
+        "charCountStart": 396,
+        "changes": [
+          {
+            "timeKey": "08:35",
+            "w": -51,
+            "c": -396
+          }
+        ],
+        "id": 545
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-06-21.md",
+        "wordCountStart": 51,
+        "charCountStart": 397,
+        "changes": [
+          {
+            "timeKey": "08:35",
+            "w": -51,
+            "c": -397
+          }
+        ],
+        "id": 546
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-06-22.md",
+        "wordCountStart": 52,
+        "charCountStart": 400,
+        "changes": [
+          {
+            "timeKey": "08:35",
+            "w": -52,
+            "c": -400
+          }
+        ],
+        "id": 547
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-06-23.md",
+        "wordCountStart": 51,
+        "charCountStart": 396,
+        "changes": [
+          {
+            "timeKey": "08:35",
+            "w": -51,
+            "c": -396
+          }
+        ],
+        "id": 548
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-06-24.md",
+        "wordCountStart": 51,
+        "charCountStart": 394,
+        "changes": [
+          {
+            "timeKey": "08:35",
+            "w": -51,
+            "c": -394
+          }
+        ],
+        "id": 549
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-06-25.md",
+        "wordCountStart": 51,
+        "charCountStart": 395,
+        "changes": [
+          {
+            "timeKey": "08:35",
+            "w": -51,
+            "c": -395
+          }
+        ],
+        "id": 550
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-06-26.md",
+        "wordCountStart": 51,
+        "charCountStart": 396,
+        "changes": [
+          {
+            "timeKey": "08:35",
+            "w": -51,
+            "c": -396
+          }
+        ],
+        "id": 551
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-06-27.md",
+        "wordCountStart": 51,
+        "charCountStart": 395,
+        "changes": [
+          {
+            "timeKey": "08:35",
+            "w": -51,
+            "c": -395
+          }
+        ],
+        "id": 552
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-06-28.md",
+        "wordCountStart": 493,
+        "charCountStart": 2969,
+        "changes": [],
+        "id": 553
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-06-29.md",
+        "wordCountStart": 51,
+        "charCountStart": 395,
+        "changes": [
+          {
+            "timeKey": "08:35",
+            "w": -51,
+            "c": -395
+          }
+        ],
+        "id": 554
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-06-30.md",
+        "wordCountStart": 358,
+        "charCountStart": 1942,
+        "changes": [],
+        "id": 555
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-07-01.md",
+        "wordCountStart": 51,
+        "charCountStart": 395,
+        "changes": [
+          {
+            "timeKey": "08:35",
+            "w": -51,
+            "c": -395
+          }
+        ],
+        "id": 556
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-07-02.md",
+        "wordCountStart": 51,
+        "charCountStart": 396,
+        "changes": [
+          {
+            "timeKey": "08:35",
+            "w": -51,
+            "c": -396
+          }
+        ],
+        "id": 557
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-07-03.md",
+        "wordCountStart": 329,
+        "charCountStart": 1766,
+        "changes": [],
+        "id": 558
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-07-04.md",
+        "wordCountStart": 51,
+        "charCountStart": 395,
+        "changes": [
+          {
+            "timeKey": "08:35",
+            "w": -51,
+            "c": -395
+          }
+        ],
+        "id": 559
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-07-05.md",
+        "wordCountStart": 51,
+        "charCountStart": 395,
+        "changes": [
+          {
+            "timeKey": "08:35",
+            "w": -51,
+            "c": -395
+          }
+        ],
+        "id": 560
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-07-06.md",
+        "wordCountStart": 51,
+        "charCountStart": 395,
+        "changes": [
+          {
+            "timeKey": "08:35",
+            "w": -51,
+            "c": -395
+          }
+        ],
+        "id": 561
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-07-07.md",
+        "wordCountStart": 52,
+        "charCountStart": 400,
+        "changes": [
+          {
+            "timeKey": "08:35",
+            "w": -52,
+            "c": -400
+          }
+        ],
+        "id": 562
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-07-08.md",
+        "wordCountStart": 51,
+        "charCountStart": 394,
+        "changes": [
+          {
+            "timeKey": "08:35",
+            "w": -51,
+            "c": -394
+          }
+        ],
+        "id": 563
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-07-09.md",
+        "wordCountStart": 51,
+        "charCountStart": 394,
+        "changes": [
+          {
+            "timeKey": "08:35",
+            "w": -51,
+            "c": -394
+          }
+        ],
+        "id": 564
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-07-10.md",
+        "wordCountStart": 51,
+        "charCountStart": 394,
+        "changes": [
+          {
+            "timeKey": "08:35",
+            "w": -51,
+            "c": -394
+          }
+        ],
+        "id": 565
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-07-11.md",
+        "wordCountStart": 50,
+        "charCountStart": 391,
+        "changes": [
+          {
+            "timeKey": "08:35",
+            "w": -50,
+            "c": -391
+          }
+        ],
+        "id": 566
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-07-16.md",
+        "wordCountStart": 70,
+        "charCountStart": 524,
+        "changes": [],
+        "id": 567
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-07-17.md",
+        "wordCountStart": 49,
+        "charCountStart": 386,
+        "changes": [
+          {
+            "timeKey": "08:35",
+            "w": -49,
+            "c": -386
+          }
+        ],
+        "id": 568
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-07-18.md",
+        "wordCountStart": 67,
+        "charCountStart": 507,
+        "changes": [],
+        "id": 569
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-07-19.md",
+        "wordCountStart": 51,
+        "charCountStart": 395,
+        "changes": [
+          {
+            "timeKey": "08:35",
+            "w": -51,
+            "c": -395
+          }
+        ],
+        "id": 570
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-07-20.md",
+        "wordCountStart": 57,
+        "charCountStart": 424,
+        "changes": [],
+        "id": 571
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-07-21.md",
+        "wordCountStart": 327,
+        "charCountStart": 1730,
+        "changes": [],
+        "id": 572
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-07-22.md",
+        "wordCountStart": 51,
+        "charCountStart": 394,
+        "changes": [],
+        "id": 573
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-07-23.md",
+        "wordCountStart": 51,
+        "charCountStart": 395,
+        "changes": [
+          {
+            "timeKey": "08:35",
+            "w": -51,
+            "c": -395
+          }
+        ],
+        "id": 574
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-07-24.md",
+        "wordCountStart": 51,
+        "charCountStart": 395,
+        "changes": [
+          {
+            "timeKey": "08:35",
+            "w": -51,
+            "c": -395
+          }
+        ],
+        "id": 575
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-07-25.md",
+        "wordCountStart": 51,
+        "charCountStart": 395,
+        "changes": [
+          {
+            "timeKey": "08:35",
+            "w": -51,
+            "c": -395
+          }
+        ],
+        "id": 576
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-07-26.md",
+        "wordCountStart": 51,
+        "charCountStart": 395,
+        "changes": [
+          {
+            "timeKey": "08:35",
+            "w": -51,
+            "c": -395
+          }
+        ],
+        "id": 577
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-07-27.md",
+        "wordCountStart": 51,
+        "charCountStart": 395,
+        "changes": [
+          {
+            "timeKey": "08:40",
+            "w": -51,
+            "c": -395
+          }
+        ],
+        "id": 578
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-07-28.md",
+        "wordCountStart": 52,
+        "charCountStart": 400,
+        "changes": [
+          {
+            "timeKey": "08:40",
+            "w": -52,
+            "c": -400
+          }
+        ],
+        "id": 579
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-07-29.md",
+        "wordCountStart": 51,
+        "charCountStart": 395,
+        "changes": [
+          {
+            "timeKey": "08:40",
+            "w": -51,
+            "c": -395
+          }
+        ],
+        "id": 580
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-07-30.md",
+        "wordCountStart": 51,
+        "charCountStart": 396,
+        "changes": [
+          {
+            "timeKey": "08:40",
+            "w": -51,
+            "c": -396
+          }
+        ],
+        "id": 581
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-07-31.md",
+        "wordCountStart": 51,
+        "charCountStart": 394,
+        "changes": [
+          {
+            "timeKey": "08:40",
+            "w": -51,
+            "c": -394
+          }
+        ],
+        "id": 582
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-08-01.md",
+        "wordCountStart": 378,
+        "charCountStart": 2189,
+        "changes": [],
+        "id": 583
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-08-09.md",
+        "wordCountStart": 929,
+        "charCountStart": 4899,
+        "changes": [],
+        "id": 584
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2023/2023-08-11.md",
+        "wordCountStart": 51,
+        "charCountStart": 402,
+        "changes": [],
+        "id": 585
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2022/2022-03-01.md",
+        "wordCountStart": 193,
+        "charCountStart": 1111,
+        "changes": [],
+        "id": 586
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2022/2022-03-02.md",
+        "wordCountStart": 177,
+        "charCountStart": 983,
+        "changes": [],
+        "id": 587
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2022/2022-03-03.md",
+        "wordCountStart": 76,
+        "charCountStart": 465,
+        "changes": [],
+        "id": 588
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2022/2022-03-04.md",
+        "wordCountStart": 90,
+        "charCountStart": 537,
+        "changes": [],
+        "id": 589
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2022/2022-03-08.md",
+        "wordCountStart": 55,
+        "charCountStart": 301,
+        "changes": [],
+        "id": 590
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2022/2022-03-09.md",
+        "wordCountStart": 37,
+        "charCountStart": 260,
+        "changes": [],
+        "id": 591
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2022/2022-03-27.md",
+        "wordCountStart": 36,
+        "charCountStart": 237,
+        "changes": [],
+        "id": 592
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2022/2022-03-10.md",
+        "wordCountStart": 58,
+        "charCountStart": 365,
+        "changes": [],
+        "id": 593
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2022/2022-03-28.md",
+        "wordCountStart": 117,
+        "charCountStart": 695,
+        "changes": [],
+        "id": 594
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2022/2022-04-10.md",
+        "wordCountStart": 221,
+        "charCountStart": 1344,
+        "changes": [],
+        "id": 595
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2022/2022-06-19.md",
+        "wordCountStart": 114,
+        "charCountStart": 740,
+        "changes": [],
+        "id": 596
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2022/2022-06-20.md",
+        "wordCountStart": 90,
+        "charCountStart": 477,
+        "changes": [],
+        "id": 597
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2022/2022-06-21.md",
+        "wordCountStart": 18,
+        "charCountStart": 165,
+        "changes": [],
+        "id": 598
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2022/2022-06-22.md",
+        "wordCountStart": 41,
+        "charCountStart": 275,
+        "changes": [],
+        "id": 599
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2022/2022-06-23.md",
+        "wordCountStart": 241,
+        "charCountStart": 1237,
+        "changes": [],
+        "id": 600
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2022/2022-07-14.md",
+        "wordCountStart": 114,
+        "charCountStart": 731,
+        "changes": [],
+        "id": 601
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2022/2022-07-17.md",
+        "wordCountStart": 116,
+        "charCountStart": 672,
+        "changes": [],
+        "id": 602
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2022/2022-07-18.md",
+        "wordCountStart": 96,
+        "charCountStart": 640,
+        "changes": [],
+        "id": 603
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2022/2022-07-19.md",
+        "wordCountStart": 48,
+        "charCountStart": 364,
+        "changes": [],
+        "id": 604
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2022/2022-07-20.md",
+        "wordCountStart": 64,
+        "charCountStart": 403,
+        "changes": [],
+        "id": 605
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2022/2022-07-21.md",
+        "wordCountStart": 147,
+        "charCountStart": 943,
+        "changes": [],
+        "id": 606
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2022/2022-07-22.md",
+        "wordCountStart": 80,
+        "charCountStart": 475,
+        "changes": [],
+        "id": 607
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2022/2022-07-23.md",
+        "wordCountStart": 117,
+        "charCountStart": 646,
+        "changes": [],
+        "id": 608
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2022/2022-07-24.md",
+        "wordCountStart": 20,
+        "charCountStart": 152,
+        "changes": [],
+        "id": 609
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2022/2022-07-25.md",
+        "wordCountStart": 37,
+        "charCountStart": 210,
+        "changes": [],
+        "id": 610
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2022/2022-07-27.md",
+        "wordCountStart": 45,
+        "charCountStart": 323,
+        "changes": [],
+        "id": 611
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2022/2022-07-28.md",
+        "wordCountStart": 28,
+        "charCountStart": 218,
+        "changes": [],
+        "id": 612
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2022/2022-07-29.md",
+        "wordCountStart": 36,
+        "charCountStart": 199,
+        "changes": [],
+        "id": 613
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2022/2022-07-30.md",
+        "wordCountStart": 87,
+        "charCountStart": 470,
+        "changes": [],
+        "id": 614
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2022/2022-07-31.md",
+        "wordCountStart": 15,
+        "charCountStart": 85,
+        "changes": [],
+        "id": 615
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2022/2022-08-01.md",
+        "wordCountStart": 35,
+        "charCountStart": 191,
+        "changes": [],
+        "id": 616
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2022/2022-08-03.md",
+        "wordCountStart": 22,
+        "charCountStart": 115,
+        "changes": [],
+        "id": 617
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2022/2022-08-06.md",
+        "wordCountStart": 56,
+        "charCountStart": 288,
+        "changes": [],
+        "id": 618
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2022/2022-08-14.md",
+        "wordCountStart": 44,
+        "charCountStart": 315,
+        "changes": [],
+        "id": 619
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2022/2022-08-15.md",
+        "wordCountStart": 24,
+        "charCountStart": 148,
+        "changes": [],
+        "id": 620
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2022/2022-08-16.md",
+        "wordCountStart": 123,
+        "charCountStart": 799,
+        "changes": [],
+        "id": 621
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2022/2022-08-23.md",
+        "wordCountStart": 83,
+        "charCountStart": 575,
+        "changes": [],
+        "id": 622
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2022/2022-08-24.md",
+        "wordCountStart": 80,
+        "charCountStart": 460,
+        "changes": [],
+        "id": 623
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2022/2022-08-25.md",
+        "wordCountStart": 237,
+        "charCountStart": 1437,
+        "changes": [],
+        "id": 624
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2022/2022-09-01.md",
+        "wordCountStart": 10,
+        "charCountStart": 87,
+        "changes": [],
+        "id": 625
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2022/2022-09-03.md",
+        "wordCountStart": 159,
+        "charCountStart": 923,
+        "changes": [],
+        "id": 626
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2022/2022-09-06.md",
+        "wordCountStart": 1963,
+        "charCountStart": 12227,
+        "changes": [],
+        "id": 627
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2022/2022-09-19.md",
+        "wordCountStart": 18,
+        "charCountStart": 103,
+        "changes": [],
+        "id": 628
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2022/2022-09-15.md",
+        "wordCountStart": 20,
+        "charCountStart": 181,
+        "changes": [],
+        "id": 629
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2022/2022-09-20.md",
+        "wordCountStart": 49,
+        "charCountStart": 293,
+        "changes": [],
+        "id": 630
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2022/2022-09-21.md",
+        "wordCountStart": 13,
+        "charCountStart": 88,
+        "changes": [],
+        "id": 631
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2022/2022-09-24.md",
+        "wordCountStart": 8,
+        "charCountStart": 47,
+        "changes": [],
+        "id": 632
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2022/2022-09-27.md",
+        "wordCountStart": 47,
+        "charCountStart": 349,
+        "changes": [],
+        "id": 633
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2022/2022-09-28.md",
+        "wordCountStart": 25,
+        "charCountStart": 171,
+        "changes": [],
+        "id": 634
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2022/2022-10-03.md",
+        "wordCountStart": 5,
+        "charCountStart": 49,
+        "changes": [],
+        "id": 635
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2022/2022-10-13.md",
+        "wordCountStart": 102,
+        "charCountStart": 635,
+        "changes": [],
+        "id": 636
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2022/2022-10-15.md",
+        "wordCountStart": 27,
+        "charCountStart": 155,
+        "changes": [],
+        "id": 637
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2022/2022-10-16.md",
+        "wordCountStart": 23,
+        "charCountStart": 141,
+        "changes": [],
+        "id": 638
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2022/2022-10-17.md",
+        "wordCountStart": 21,
+        "charCountStart": 126,
+        "changes": [],
+        "id": 639
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2022/2022-10-18.md",
+        "wordCountStart": 35,
+        "charCountStart": 266,
+        "changes": [],
+        "id": 640
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2022/2022-10-21.md",
+        "wordCountStart": 57,
+        "charCountStart": 390,
+        "changes": [],
+        "id": 641
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2022/2022-10-22.md",
+        "wordCountStart": 60,
+        "charCountStart": 362,
+        "changes": [],
+        "id": 642
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2022/2022-10-26.md",
+        "wordCountStart": 19,
+        "charCountStart": 92,
+        "changes": [],
+        "id": 643
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2022/2022-10-27.md",
+        "wordCountStart": 221,
+        "charCountStart": 1453,
+        "changes": [],
+        "id": 644
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2022/2022-10-28.md",
+        "wordCountStart": 101,
+        "charCountStart": 612,
+        "changes": [],
+        "id": 645
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2022/2022-10-29.md",
+        "wordCountStart": 101,
+        "charCountStart": 561,
+        "changes": [],
+        "id": 646
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2022/2022-10-31.md",
+        "wordCountStart": 18,
+        "charCountStart": 115,
+        "changes": [],
+        "id": 647
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2022/2022-10-30.md",
+        "wordCountStart": 52,
+        "charCountStart": 304,
+        "changes": [],
+        "id": 648
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2022/2022-11-01.md",
+        "wordCountStart": 123,
+        "charCountStart": 796,
+        "changes": [],
+        "id": 649
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2022/2022-11-03.md",
+        "wordCountStart": 181,
+        "charCountStart": 1061,
+        "changes": [],
+        "id": 650
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2022/2022-11-02.md",
+        "wordCountStart": 324,
+        "charCountStart": 1870,
+        "changes": [],
+        "id": 651
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2022/2022-11-09.md",
+        "wordCountStart": 309,
+        "charCountStart": 1878,
+        "changes": [],
+        "id": 652
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2022/2022-11-10.md",
+        "wordCountStart": 280,
+        "charCountStart": 1515,
+        "changes": [],
+        "id": 653
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2022/2022-11-11.md",
+        "wordCountStart": 201,
+        "charCountStart": 1320,
+        "changes": [],
+        "id": 654
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2022/2022-11-12.md",
+        "wordCountStart": 98,
+        "charCountStart": 552,
+        "changes": [],
+        "id": 655
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2022/2022-11-17.md",
+        "wordCountStart": 255,
+        "charCountStart": 1220,
+        "changes": [],
+        "id": 656
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2022/2022-11-21.md",
+        "wordCountStart": 585,
+        "charCountStart": 3462,
+        "changes": [],
+        "id": 657
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2022/2022-11-22.md",
+        "wordCountStart": 82,
+        "charCountStart": 577,
+        "changes": [],
+        "id": 658
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2022/2022-11-23.md",
+        "wordCountStart": 56,
+        "charCountStart": 342,
+        "changes": [],
+        "id": 659
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2022/2022-11-24.md",
+        "wordCountStart": 65,
+        "charCountStart": 399,
+        "changes": [],
+        "id": 660
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2022/2022-11-25.md",
+        "wordCountStart": 73,
+        "charCountStart": 427,
+        "changes": [],
+        "id": 661
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2022/2022-11-28.md",
+        "wordCountStart": 17,
+        "charCountStart": 135,
+        "changes": [],
+        "id": 662
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2022/2022-12-06.md",
+        "wordCountStart": 23,
+        "charCountStart": 165,
+        "changes": [],
+        "id": 663
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2022/2022-12-07.md",
+        "wordCountStart": 1327,
+        "charCountStart": 6879,
+        "changes": [],
+        "id": 664
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2022/2022-12-08.md",
+        "wordCountStart": 360,
+        "charCountStart": 2170,
+        "changes": [],
+        "id": 665
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2022/2022-12-11.md",
+        "wordCountStart": 451,
+        "charCountStart": 2603,
+        "changes": [],
+        "id": 666
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2022/2022-12-16.md",
+        "wordCountStart": 336,
+        "charCountStart": 2017,
+        "changes": [],
+        "id": 667
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2022/2022-12-18.md",
+        "wordCountStart": 212,
+        "charCountStart": 1246,
+        "changes": [],
+        "id": 668
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2022/2022-12-19.md",
+        "wordCountStart": 250,
+        "charCountStart": 1540,
+        "changes": [],
+        "id": 669
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2022/2022-12-21.md",
+        "wordCountStart": 264,
+        "charCountStart": 1415,
+        "changes": [],
+        "id": 670
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2022/2022-12-25.md",
+        "wordCountStart": 41,
+        "charCountStart": 303,
+        "changes": [
+          {
+            "timeKey": "08:45",
+            "w": -41,
+            "c": -303
+          }
+        ],
+        "id": 671
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2022/2022-12-24.md",
+        "wordCountStart": 135,
+        "charCountStart": 824,
+        "changes": [],
+        "id": 672
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2022/2022-12-26 2.md",
+        "wordCountStart": 122,
+        "charCountStart": 738,
+        "changes": [
+          {
+            "timeKey": "08:45",
+            "w": -122,
+            "c": -738
+          }
+        ],
+        "id": 673
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2022/2022-12-26.md",
+        "wordCountStart": 125,
+        "charCountStart": 746,
+        "changes": [
+          {
+            "timeKey": "08:45",
+            "w": -125,
+            "c": -746
+          }
+        ],
+        "id": 674
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2022/2022-12-27.md",
+        "wordCountStart": 125,
+        "charCountStart": 746,
+        "changes": [
+          {
+            "timeKey": "08:45",
+            "w": -125,
+            "c": -746
+          }
+        ],
+        "id": 675
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2022/2022-12-28.md",
+        "wordCountStart": 131,
+        "charCountStart": 777,
+        "changes": [
+          {
+            "timeKey": "08:45",
+            "w": -131,
+            "c": -777
+          }
+        ],
+        "id": 676
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2022/2022-12-29.md",
+        "wordCountStart": 125,
+        "charCountStart": 746,
+        "changes": [
+          {
+            "timeKey": "08:45",
+            "w": -125,
+            "c": -746
+          }
+        ],
+        "id": 677
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2022/2022-12-30.md",
+        "wordCountStart": 125,
+        "charCountStart": 746,
+        "changes": [
+          {
+            "timeKey": "08:45",
+            "w": -125,
+            "c": -746
+          }
+        ],
+        "id": 678
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2022/2022-12-31.md",
+        "wordCountStart": 127,
+        "charCountStart": 759,
+        "changes": [
+          {
+            "timeKey": "08:45",
+            "w": -127,
+            "c": -759
+          }
+        ],
+        "id": 679
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "00 Private/20 Daily Notes/2022/2022-W50.md",
+        "wordCountStart": 82,
+        "charCountStart": 487,
+        "changes": [],
+        "id": 680
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "DAILY-READING-SETUP.md",
+        "wordCountStart": 274,
+        "charCountStart": 1996,
+        "changes": [],
+        "id": 681
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "Daily Reading Recommendations - 2026-01-01.md",
+        "wordCountStart": 411,
+        "charCountStart": 3218,
+        "changes": [
+          {
+            "timeKey": "09:55",
+            "w": -411,
+            "c": -3218
+          }
+        ],
+        "id": 682
+      },
+      {
+        "date": "2026-01-05",
+        "filePath": "Daily Reading Recommendations - 2026-01-05.md",
+        "wordCountStart": 68,
+        "charCountStart": 521,
+        "changes": [
+          {
+            "timeKey": "09:55",
+            "w": -68,
+            "c": -521
+          }
+        ],
+        "id": 683
+      },
+      {
+        "date": "2026-01-11",
+        "filePath": "DAILY-READING-SETUP.md",
+        "wordCountStart": 274,
+        "charCountStart": 1996,
+        "changes": [
+          {
+            "timeKey": "21:30",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 685
+      },
+      {
+        "date": "2026-01-11",
+        "filePath": "10 Workbench/2025 Performance Review.md",
+        "wordCountStart": 494,
+        "charCountStart": 3570,
+        "changes": [],
+        "id": 686
+      },
+      {
+        "date": "2026-01-11",
+        "filePath": "10 Workbench/2025 Key Accomplishments.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "21:40",
+            "w": 513,
+            "c": 3354
+          }
+        ],
+        "id": 687
+      },
+      {
+        "date": "2026-01-11",
+        "filePath": "2025 Bullet Journal.md",
+        "wordCountStart": 1415,
+        "charCountStart": 8398,
+        "changes": [
+          {
+            "timeKey": "21:50",
+            "w": 5,
+            "c": 17
+          }
+        ],
+        "id": 688
+      },
+      {
+        "date": "2026-01-12",
+        "filePath": "2025 Bullet Journal.md",
+        "wordCountStart": 1420,
+        "charCountStart": 8415,
+        "changes": [
+          {
+            "timeKey": "21:20",
+            "w": 99,
+            "c": 545
+          }
+        ],
+        "id": 689
+      },
+      {
+        "date": "2026-01-12",
+        "filePath": "10 Workbench/2025 Key Accomplishments.md",
+        "wordCountStart": 513,
+        "charCountStart": 3354,
+        "changes": [
+          {
+            "timeKey": "09:45",
+            "w": 0,
+            "c": 7
+          },
+          {
+            "timeKey": "09:50",
+            "w": 10,
+            "c": 89
+          },
+          {
+            "timeKey": "09:55",
+            "w": -50,
+            "c": -328
+          },
+          {
+            "timeKey": "10:00",
+            "w": -22,
+            "c": -149
+          },
+          {
+            "timeKey": "11:25",
+            "w": -101,
+            "c": -656
+          }
+        ],
+        "id": 690
       }
     ]
   }

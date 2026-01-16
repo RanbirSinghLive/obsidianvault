@@ -1,0 +1,1 @@
+- sitting here. at 10:36pm with you on my chest sleeping while I'm doing everything to stay awake. This is technically not my first letter to you as I've written to you plenty, but this is me taking the time to get to know you first before writing this.

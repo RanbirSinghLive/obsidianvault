@@ -1,0 +1,25 @@
+- Initiated joint business transformation exercise - Wingspan
+	- Identified initiatives across $150m in identified annual incremental earnings covering FOPS, MTC, Fuel and other departments
+	- Mapped out four-party pilot deal architecture for increased long-term capacity
+	- Amassed a pipeline of savings totalling $57M in 2026, $104M in 2028
+		- In 2026, more than half is new vs. the financial plan
+		- Crew and network (~$25M savings in ‘26)
+			- Focus of the stream is improving pilot availability and BH production at Jazz
+			- Levers include network scheduling improvements (network changes started in Dec ’25) and AR pilot (+65y/o) program
+		- Maintenance (~$26M savings in ‘26)
+			- Phase 1 procurement efforts completed (7 RFPs worth $59M, delivering $14M savings in ’26, $17M in ’28)
+			- Efforts focused on “strategic levers” (e.g., alternate pricing models, multiple RFP rounds) within pricing / contract structure which yielded significant results
+		- Other cost efficiencies (~$6M savings in ‘26)
+			- Successfully kicked off fuel savings (e.g., alternate airport selection) and crew cost initiatives (YHZ FA rightsizing)
+- Jazz maintained key performance delivery on vital ops performance metrics in spite of tough December and aggressive targets
+	- D0 increased by 0.7pp (56.8% vs. 56.1% prior year) on target of 60.5%
+	- MSDT performance up by 1.4pp (27.8% vs. 26.4% prior year) on target of 29.8%
+	- A14 Arrivals down by 0.9pp (74.6% vs. 75.5% prior year) on target of 77.7%
+- YTZ Expansion
+	- Negotiated 60% rebate for incremental slots with Nieuport Aviation and 12% rebate with PortsToronto - resulting in ~$10M savings per year versus baseline cost
+	- Negotiated $150K of in-kind media support, permanent terminal brand placement and right of first refusal for a transborder lounge with Nieuport Aviation
+- Other ops accomplishments
+	- Supported YCG ops stability with 67 days of deployment of the disruption recovery shuttle
+	- Glowing Hearted: Drove final execution of long-standing vendor contracts with Astronics, GAL & Geven to protect updated timelines for fleet modification programs
+	- Drove execution of right-sized YYC STOC solution by shifting work to YVR STOC, resulting in 2 FTE reduction in staffing cost
+	- Led Fortitude planning for CUPE disruption across Jazz, PAL and Landline
