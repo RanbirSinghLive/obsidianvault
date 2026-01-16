@@ -8,6 +8,7 @@ export const sharedPageComponents: SharedLayout = {
   afterBody: [Component.PageColor()],
   footer: Component.Footer({
     links: {
+      GitHub: "https://github.com/RanbirSinghLive",
       "Twitter/X": "https://x.com/ranbirsinghlive",
       LinkedIn: "https://www.linkedin.com/in/ranbirsinghlive/",
       Newsletter: "https://ranbirsingh.substack.com/",
