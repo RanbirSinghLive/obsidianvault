@@ -1,0 +1,187 @@
+// Sidenote margin dimensions
+$sidenote-width: 280px;
+$sidenote-gutter: 40px;
+
+// Breakpoints (matching variables.scss)
+$desktop-breakpoint: 1200px;
+
+// ============================================
+// WRAPPER AND MARKERS
+// ============================================
+
+.sidenote-wrapper {
+  position: relative;
+}
+
+// The clickable number/marker
+label.sidenote-number {
+  cursor: pointer;
+
+  sup {
+    font-feature-settings: "sups";
+    font-size: 0.75em;
+    vertical-align: super;
+  }
+
+  a {
+    color: var(--secondary);
+    text-decoration: none;
+
+    &:hover {
+      color: var(--tertiary);
+    }
+  }
+}
+
+// Hidden checkbox for mobile toggle functionality
+.sidenote-toggle {
+  display: none;
+}
+
+// ============================================
+// SIDENOTE CONTENT - DESKTOP
+// ============================================
+
+@media all and (min-width: #{$desktop-breakpoint}) {
+  .sidenote {
+    // Position in the right margin
+    position: absolute;
+    right: calc(-#{$sidenote-width} - #{$sidenote-gutter});
+    width: $sidenote-width;
+
+    // Typography
+    font-size: 0.85rem;
+    line-height: 1.4;
+    color: var(--darkgray);
+
+    // Visual styling
+    padding: 0;
+    margin-top: -0.5rem; // Align with baseline
+
+    // The number prefix in the sidenote
+    & > .sidenote-number {
+      font-weight: 600;
+      color: var(--secondary);
+      margin-right: 0.3rem;
+      font-size: 0.9em;
+
+      &::after {
+        content: ".";
+      }
+    }
+
+    // Paragraph styling within sidenotes
+    p {
+      margin: 0;
+      display: inline;
+
+      & + p {
+        display: block;
+        margin-top: 0.5rem;
+      }
+    }
+
+    // Links in sidenotes
+    a {
+      font-weight: normal;
+    }
+  }
+
+  // Hide the traditional footnotes section on desktop
+  .sidenote-hidden-footnotes {
+    display: none;
+  }
+
+  // Ensure article can accommodate sidenotes
+  article {
+    position: relative;
+    overflow: visible;
+  }
+
+  // Make center column aware of sidenote space
+  .center {
+    overflow: visible;
+  }
+}
+
+// ============================================
+// SIDENOTE CONTENT - TABLET & MOBILE
+// ============================================
+
+@media all and (max-width: #{$desktop-breakpoint - 1px}) {
+  // Show sidenotes as inline expandable notes
+  .sidenote {
+    display: none;
+
+    // When toggled open
+    .sidenote-toggle:checked ~ & {
+      display: block;
+      background: var(--highlight);
+      padding: 0.75rem 1rem;
+      margin: 0.5rem 0;
+      border-radius: 5px;
+      border-left: 3px solid var(--secondary);
+      font-size: 0.9rem;
+      line-height: 1.5;
+    }
+
+    & > .sidenote-number {
+      font-weight: 600;
+      color: var(--secondary);
+      margin-right: 0.3rem;
+
+      &::after {
+        content: ".";
+      }
+    }
+
+    p {
+      margin: 0;
+      display: inline;
+    }
+  }
+
+  // Show footnotes section as fallback on smaller screens
+  .sidenote-hidden-footnotes {
+    display: block;
+  }
+}
+
+// ============================================
+// ACCESSIBILITY ENHANCEMENTS
+// ============================================
+
+// Focus states for keyboard navigation
+label.sidenote-number:focus-within {
+  outline: 2px solid var(--secondary);
+  outline-offset: 2px;
+  border-radius: 2px;
+}
+
+// Reduce motion preference
+@media (prefers-reduced-motion: reduce) {
+  .sidenote {
+    transition: none;
+  }
+}
+
+// High contrast mode support
+@media (forced-colors: active) {
+  .sidenote {
+    border: 1px solid CanvasText;
+  }
+}
+
+// ============================================
+// PRINT STYLES
+// ============================================
+
+@media print {
+  .sidenote {
+    display: none !important;
+  }
+
+  .sidenote-hidden-footnotes {
+    display: block !important;
+  }
+}

@@ -316,6 +316,20 @@ a {
   border-top: 1px solid var(--lightgray);
 }
 
+// Ensure center column and article don't clip sidenotes on desktop
+@media all and ($desktop) {
+  .page > #quartz-body {
+    & .center {
+      overflow: visible;
+    }
+
+    & .center > article {
+      position: relative;
+      overflow: visible;
+    }
+  }
+}
+
 input[type="checkbox"] {
   transform: translateY(2px);
   color: var(--secondary);
