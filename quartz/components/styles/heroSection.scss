@@ -1,0 +1,124 @@
+.hero-section {
+  margin-bottom: 3rem;
+}
+
+.hero-header {
+  margin-bottom: 2.5rem;
+  text-align: left;
+}
+
+.hero-title {
+  font-family: var(--headerFont);
+  font-size: 3rem;
+  font-weight: 600;
+  color: var(--dark);
+  margin: 0 0 0.75rem 0;
+  line-height: 1.1;
+}
+
+.hero-subtitle {
+  font-family: var(--bodyFont);
+  font-size: 1.25rem;
+  color: var(--gray);
+  margin: 0;
+  line-height: 1.5;
+}
+
+.hero-cards {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1rem;
+}
+
+.hero-card {
+  display: flex;
+  flex-direction: column;
+  padding: 1.5rem;
+  border: 1px solid var(--lightgray);
+  border-radius: 8px;
+  background: var(--light);
+  text-decoration: none;
+  transition: all 0.2s ease;
+  position: relative;
+  overflow: hidden;
+
+  &::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 3px;
+    background: var(--secondary);
+    transform: scaleX(0);
+    transform-origin: left;
+    transition: transform 0.2s ease;
+  }
+
+  &:hover {
+    border-color: var(--secondary);
+    background: var(--highlight);
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+
+    &::before {
+      transform: scaleX(1);
+    }
+
+    .card-number {
+      color: var(--secondary);
+    }
+  }
+}
+
+.card-number {
+  font-family: var(--codeFont);
+  font-size: 0.85rem;
+  color: var(--gray);
+  margin-bottom: 0.75rem;
+  transition: color 0.2s ease;
+}
+
+.card-title {
+  font-family: var(--headerFont);
+  font-size: 1.25rem;
+  font-weight: 600;
+  color: var(--dark);
+  margin: 0 0 0.5rem 0;
+  line-height: 1.3;
+}
+
+.card-description {
+  font-family: var(--bodyFont);
+  font-size: 0.9rem;
+  color: var(--gray);
+  margin: 0;
+  line-height: 1.5;
+  flex-grow: 1;
+}
+
+// Tablet: 2 columns
+@media (max-width: 1200px) {
+  .hero-cards {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+// Mobile: 1 column
+@media (max-width: 800px) {
+  .hero-title {
+    font-size: 2.25rem;
+  }
+
+  .hero-subtitle {
+    font-size: 1.1rem;
+  }
+
+  .hero-cards {
+    grid-template-columns: 1fr;
+  }
+
+  .hero-card {
+    padding: 1.25rem;
+  }
+}

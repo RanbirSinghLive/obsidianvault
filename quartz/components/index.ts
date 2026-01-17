@@ -25,6 +25,7 @@ import Flex from "./Flex"
 import ConditionalRender from "./ConditionalRender"
 import PageColor from "./PageColor"
 import NextPrevious from "./NextPrevious"
+import HeroSection from "./HeroSection"
 
 export {
   ArticleTitle,
@@ -54,4 +55,5 @@ export {
   ConditionalRender,
   PageColor,
   NextPrevious,
+  HeroSection,
 }
