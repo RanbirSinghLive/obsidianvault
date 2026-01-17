@@ -67,8 +67,9 @@ export default {
     },
     error: {
       title: "Not Found",
-      notFound: "Either this page is private or doesn't exist.",
-      home: "Return to Homepage",
+      notFound: "Uh oh, looks like you found a glitch in the matrix.",
+      subtitle: "Run quick before Agent Smith finds out.",
+      home: "← Escape to safety",
     },
     folderContent: {
       folder: "Folder",
