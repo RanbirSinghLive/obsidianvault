@@ -48,6 +48,15 @@ export const defaultContentPageLayout: PageLayout = {
       condition: (page) => page.fileData.slug === "index",
     }),
     Component.ConditionalRender({
+      component: Component.RecentNotes({
+        title: "Recent Changes",
+        limit: 5,
+        showTags: true,
+        filter: (f) => f.slug !== "index",
+      }),
+      condition: (page) => page.fileData.slug === "index",
+    }),
+    Component.ConditionalRender({
       component: Component.ArticleTitle(),
       condition: (page) => page.fileData.slug !== "index",
     }),
