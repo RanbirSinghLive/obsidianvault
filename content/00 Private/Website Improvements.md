@@ -1,0 +1,10 @@
+- [x] Custom favicon R
+- [x] Custom home link from substack
+- [x] Add github link
+- [x] Giscus comments
+- [x] add before/after links for notes within a within a folder
+- [x] **Create custom hero section** for index.md with CSS
+- [x] **Custom 404 page** - Write a personal/witty message, maybe with a mini-game or random quote
+- [x] **Changelog** - Show recent changes to the site
+	- [ ] **Add RecentNotes to homepage** - Component exists but not in layout (quartz/components/RecentNotes.tsx:1)
+- [ ] polish home page 

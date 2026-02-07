@@ -54,7 +54,37 @@
       "2025-08-21",
       "2025-09-14",
       "2025-10-05",
-      "2026-01-11"
+      "2026-01-11",
+      "2025-08-17",
+      "2025-08-18",
+      "2025-08-19",
+      "2025-08-20",
+      "2025-08-22",
+      "2025-08-24",
+      "2025-08-25",
+      "2025-09-01",
+      "2025-09-10",
+      "2025-09-15",
+      "2025-09-16",
+      "2025-09-17",
+      "2025-09-18",
+      "2025-09-20",
+      "2025-09-21",
+      "2025-09-22",
+      "2025-09-23",
+      "2025-09-24",
+      "2025-09-28",
+      "2025-09-29",
+      "2025-09-30",
+      "2025-10-01",
+      "2025-10-06",
+      "2026-01-04",
+      "2026-01-05",
+      "2026-01-12",
+      "2026-01-15",
+      "2026-01-27",
+      "2026-02-03",
+      "2026-02-04"
     ],
     "dailyActivity": [
       {
@@ -429,7 +459,7 @@
       },
       {
         "date": "2025-08-19",
-        "filePath": "10 Workbench/Megathread Fodder.md",
+        "filePath": "Cards/Cool Links.md",
         "wordCountStart": 60,
         "charCountStart": 349,
         "changes": [],
@@ -1444,7 +1474,7 @@
       },
       {
         "date": "2025-09-14",
-        "filePath": "10 Workbench/Megathread Fodder.md",
+        "filePath": "Cards/Cool Links.md",
         "wordCountStart": 60,
         "charCountStart": 349,
         "changes": [],
@@ -2385,7 +2415,7 @@
       },
       {
         "date": "2025-09-22",
-        "filePath": "10 Workbench/Oct 2025 Novel Thoughts.md",
+        "filePath": "00 Private/Oct 2025 Novel Thoughts.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -2399,7 +2429,7 @@
       },
       {
         "date": "2025-09-22",
-        "filePath": "10 Workbench/Untitled Kanban.md",
+        "filePath": "10 Workbench/Vibe-Coding Board.md",
         "wordCountStart": 2,
         "charCountStart": 32,
         "changes": [
@@ -2684,7 +2714,7 @@
       },
       {
         "date": "2025-09-27",
-        "filePath": "10 Workbench/Megathread Fodder.md",
+        "filePath": "Cards/Cool Links.md",
         "wordCountStart": 60,
         "charCountStart": 349,
         "changes": [],
@@ -3186,7 +3216,7 @@
       },
       {
         "date": "2025-10-12",
-        "filePath": "10 Workbench/Oct 2025 Novel Thoughts.md",
+        "filePath": "00 Private/Oct 2025 Novel Thoughts.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -3200,7 +3230,7 @@
       },
       {
         "date": "2025-10-27",
-        "filePath": "10 Workbench/Oct 2025 Novel Thoughts.md",
+        "filePath": "00 Private/Oct 2025 Novel Thoughts.md",
         "wordCountStart": 45,
         "charCountStart": 268,
         "changes": [],
@@ -3338,7 +3368,7 @@
       },
       {
         "date": "2025-11-09",
-        "filePath": "10 Workbench/Megathread Fodder.md",
+        "filePath": "Cards/Cool Links.md",
         "wordCountStart": 60,
         "charCountStart": 349,
         "changes": [],
@@ -9526,6 +9556,1920 @@
           }
         ],
         "id": 690
+      },
+      {
+        "date": "2026-01-15",
+        "filePath": "10 Workbench/2025 Performance Review.md",
+        "wordCountStart": 494,
+        "charCountStart": 3570,
+        "changes": [
+          {
+            "timeKey": "17:45",
+            "w": -494,
+            "c": -3570
+          }
+        ],
+        "id": 691
+      },
+      {
+        "date": "2026-01-15",
+        "filePath": "10 Workbench/Jackal.md",
+        "wordCountStart": 331,
+        "charCountStart": 1773,
+        "changes": [],
+        "id": 692
+      },
+      {
+        "date": "2026-01-15",
+        "filePath": "2025 Bullet Journal.md",
+        "wordCountStart": 1519,
+        "charCountStart": 8960,
+        "changes": [],
+        "id": 695
+      },
+      {
+        "date": "2026-01-15",
+        "filePath": "Cards/It's Time to Make Software Artisanal.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "10:00",
+            "w": 26,
+            "c": 114
+          },
+          {
+            "timeKey": "10:05",
+            "w": 173,
+            "c": 930
+          },
+          {
+            "timeKey": "10:10",
+            "w": 117,
+            "c": 645
+          },
+          {
+            "timeKey": "10:15",
+            "w": 21,
+            "c": 126
+          },
+          {
+            "timeKey": "14:30",
+            "w": -4,
+            "c": -23
+          },
+          {
+            "timeKey": "14:35",
+            "w": 60,
+            "c": 389
+          },
+          {
+            "timeKey": "14:40",
+            "w": 1,
+            "c": 12
+          },
+          {
+            "timeKey": "16:10",
+            "w": 0,
+            "c": 19
+          },
+          {
+            "timeKey": "16:15",
+            "w": -8,
+            "c": -6
+          },
+          {
+            "timeKey": "16:20",
+            "w": 3,
+            "c": 46
+          },
+          {
+            "timeKey": "16:25",
+            "w": -5,
+            "c": -44
+          },
+          {
+            "timeKey": "16:30",
+            "w": 0,
+            "c": -1
+          },
+          {
+            "timeKey": "16:40",
+            "w": -3,
+            "c": -16
+          },
+          {
+            "timeKey": "16:45",
+            "w": -6,
+            "c": -43
+          }
+        ],
+        "id": 696
+      },
+      {
+        "date": "2026-01-15",
+        "filePath": "Cards/Ranbir Singh.md",
+        "wordCountStart": 130,
+        "charCountStart": 711,
+        "changes": [],
+        "id": 697
+      },
+      {
+        "date": "2026-01-15",
+        "filePath": "Cards/Home.md",
+        "wordCountStart": 211,
+        "charCountStart": 1265,
+        "changes": [
+          {
+            "timeKey": "16:50",
+            "w": -23,
+            "c": -129
+          }
+        ],
+        "id": 698
+      },
+      {
+        "date": "2026-01-15",
+        "filePath": "00 Private/Oct 2025 Novel Thoughts.md",
+        "wordCountStart": 45,
+        "charCountStart": 268,
+        "changes": [],
+        "id": 699
+      },
+      {
+        "date": "2026-01-16",
+        "filePath": "Cards/It's Time to Make Software Artisanal.md",
+        "wordCountStart": 375,
+        "charCountStart": 2148,
+        "changes": [
+          {
+            "timeKey": "07:00",
+            "w": 6,
+            "c": 39
+          },
+          {
+            "timeKey": "21:25",
+            "w": 6,
+            "c": 51
+          }
+        ],
+        "id": 700
+      },
+      {
+        "date": "2026-01-16",
+        "filePath": "40 Reference/Omnivore/Shop Class as Soulcraft.md",
+        "wordCountStart": 309,
+        "charCountStart": 2427,
+        "changes": [],
+        "id": 701
+      },
+      {
+        "date": "2026-01-16",
+        "filePath": "Cards/Waiting For The Agents To Run.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "07:00",
+            "w": 28,
+            "c": 146
+          }
+        ],
+        "id": 702
+      },
+      {
+        "date": "2026-01-16",
+        "filePath": "00 Private/Website Improvements.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "07:10",
+            "w": 4,
+            "c": 22
+          },
+          {
+            "timeKey": "07:15",
+            "w": 28,
+            "c": 137
+          },
+          {
+            "timeKey": "09:00",
+            "w": 3,
+            "c": 15
+          },
+          {
+            "timeKey": "10:55",
+            "w": -2,
+            "c": 0
+          },
+          {
+            "timeKey": "11:00",
+            "w": 345,
+            "c": 2447
+          },
+          {
+            "timeKey": "11:05",
+            "w": 241,
+            "c": 1846
+          },
+          {
+            "timeKey": "11:50",
+            "w": -61,
+            "c": -408
+          },
+          {
+            "timeKey": "11:55",
+            "w": -1,
+            "c": -2
+          },
+          {
+            "timeKey": "15:05",
+            "w": -104,
+            "c": -720
+          },
+          {
+            "timeKey": "15:20",
+            "w": -102,
+            "c": -781
+          },
+          {
+            "timeKey": "15:25",
+            "w": -17,
+            "c": -165
+          },
+          {
+            "timeKey": "15:35",
+            "w": -97,
+            "c": -714
+          },
+          {
+            "timeKey": "15:40",
+            "w": -96,
+            "c": -813
+          },
+          {
+            "timeKey": "16:20",
+            "w": -3,
+            "c": -11
+          },
+          {
+            "timeKey": "16:40",
+            "w": 1,
+            "c": 4
+          },
+          {
+            "timeKey": "17:10",
+            "w": -11,
+            "c": -73
+          },
+          {
+            "timeKey": "17:15",
+            "w": -1,
+            "c": 0
+          },
+          {
+            "timeKey": "21:40",
+            "w": -19,
+            "c": -117
+          },
+          {
+            "timeKey": "21:45",
+            "w": -26,
+            "c": -176
+          },
+          {
+            "timeKey": "22:00",
+            "w": 3,
+            "c": 26
+          },
+          {
+            "timeKey": "22:05",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 703
+      },
+      {
+        "date": "2026-01-16",
+        "filePath": "index.md",
+        "wordCountStart": 200,
+        "charCountStart": 1279,
+        "changes": [
+          {
+            "timeKey": "21:45",
+            "w": -70,
+            "c": -432
+          }
+        ],
+        "id": 704
+      },
+      {
+        "date": "2026-01-16",
+        "filePath": "Cards/This is my digital garden.md",
+        "wordCountStart": 138,
+        "charCountStart": 822,
+        "changes": [
+          {
+            "timeKey": "21:55",
+            "w": 53,
+            "c": 315
+          }
+        ],
+        "id": 705
+      },
+      {
+        "date": "2026-01-17",
+        "filePath": "index.md",
+        "wordCountStart": 130,
+        "charCountStart": 847,
+        "changes": [],
+        "id": 706
+      },
+      {
+        "date": "2026-01-17",
+        "filePath": "Cards/This is my digital garden.md",
+        "wordCountStart": 191,
+        "charCountStart": 1137,
+        "changes": [],
+        "id": 707
+      },
+      {
+        "date": "2026-01-17",
+        "filePath": "10 Workbench/2025 Bullet Journal.md",
+        "wordCountStart": 1519,
+        "charCountStart": 8960,
+        "changes": [
+          {
+            "timeKey": "21:35",
+            "w": 102,
+            "c": 528
+          },
+          {
+            "timeKey": "21:50",
+            "w": 7,
+            "c": 34
+          }
+        ],
+        "id": 708
+      },
+      {
+        "date": "2026-01-18",
+        "filePath": "10 Workbench/2025 Bullet Journal.md",
+        "wordCountStart": 1628,
+        "charCountStart": 9522,
+        "changes": [
+          {
+            "timeKey": "21:00",
+            "w": 146,
+            "c": 788
+          },
+          {
+            "timeKey": "21:05",
+            "w": 15,
+            "c": 94
+          },
+          {
+            "timeKey": "21:10",
+            "w": 26,
+            "c": 157
+          }
+        ],
+        "id": 709
+      },
+      {
+        "date": "2026-01-19",
+        "filePath": "10 Workbench/2025 Bullet Journal.md",
+        "wordCountStart": 1815,
+        "charCountStart": 10561,
+        "changes": [],
+        "id": 710
+      },
+      {
+        "date": "2026-01-19",
+        "filePath": "10 Workbench/2025_Tax_Document_Checklist.md",
+        "wordCountStart": 944,
+        "charCountStart": 6494,
+        "changes": [
+          {
+            "timeKey": "11:30",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "15:35",
+            "w": -6,
+            "c": 0
+          }
+        ],
+        "id": 711
+      },
+      {
+        "date": "2026-01-21",
+        "filePath": "10 Workbench/Everything Is A Codebase Now.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:15",
+            "w": 39,
+            "c": 229
+          },
+          {
+            "timeKey": "12:20",
+            "w": 82,
+            "c": 558
+          },
+          {
+            "timeKey": "12:25",
+            "w": 98,
+            "c": 682
+          },
+          {
+            "timeKey": "12:30",
+            "w": 45,
+            "c": 284
+          },
+          {
+            "timeKey": "13:45",
+            "w": 8,
+            "c": 45
+          },
+          {
+            "timeKey": "19:05",
+            "w": 10,
+            "c": 55
+          },
+          {
+            "timeKey": "21:00",
+            "w": 10,
+            "c": 59
+          },
+          {
+            "timeKey": "21:10",
+            "w": 176,
+            "c": 1236
+          }
+        ],
+        "id": 712
+      },
+      {
+        "date": "2026-01-22",
+        "filePath": "10 Workbench/Everything Is A Codebase Now.md",
+        "wordCountStart": 460,
+        "charCountStart": 3103,
+        "changes": [
+          {
+            "timeKey": "21:45",
+            "w": 1,
+            "c": 11
+          },
+          {
+            "timeKey": "22:00",
+            "w": 24,
+            "c": 143
+          },
+          {
+            "timeKey": "22:10",
+            "w": -3,
+            "c": 5
+          },
+          {
+            "timeKey": "07:45",
+            "w": -482,
+            "c": -3262
+          }
+        ],
+        "id": 713
+      },
+      {
+        "date": "2026-01-23",
+        "filePath": "10 Workbench/2025_Tax_Document_Checklist.md",
+        "wordCountStart": 938,
+        "charCountStart": 6494,
+        "changes": [],
+        "id": 714
+      },
+      {
+        "date": "2026-01-23",
+        "filePath": "Cards/Everything Is A Codebase.md",
+        "wordCountStart": 482,
+        "charCountStart": 3262,
+        "changes": [
+          {
+            "timeKey": "21:15",
+            "w": 164,
+            "c": 1190
+          }
+        ],
+        "id": 715
+      },
+      {
+        "date": "2026-01-23",
+        "filePath": "00 Private/Oct 2025 Novel Thoughts.md",
+        "wordCountStart": 45,
+        "charCountStart": 268,
+        "changes": [],
+        "id": 716
+      },
+      {
+        "date": "2026-01-23",
+        "filePath": "10 Workbench/Newsletter.md",
+        "wordCountStart": 262,
+        "charCountStart": 1732,
+        "changes": [],
+        "id": 717
+      },
+      {
+        "date": "2026-01-23",
+        "filePath": "10 Workbench/My 1st Letter To You.md",
+        "wordCountStart": 52,
+        "charCountStart": 253,
+        "changes": [],
+        "id": 718
+      },
+      {
+        "date": "2026-01-23",
+        "filePath": "Cards/Cool Links.md",
+        "wordCountStart": 60,
+        "charCountStart": 349,
+        "changes": [],
+        "id": 719
+      },
+      {
+        "date": "2026-01-23",
+        "filePath": "10 Workbench/Jackal.md",
+        "wordCountStart": 331,
+        "charCountStart": 1773,
+        "changes": [],
+        "id": 720
+      },
+      {
+        "date": "2026-01-23",
+        "filePath": "10 Workbench/Hydrogen - The Second Pillar of the Propulsion Revolution.md",
+        "wordCountStart": 1781,
+        "charCountStart": 12175,
+        "changes": [],
+        "id": 721
+      },
+      {
+        "date": "2026-01-24",
+        "filePath": "10 Workbench/Workbench Kanban.md",
+        "wordCountStart": 84,
+        "charCountStart": 567,
+        "changes": [
+          {
+            "timeKey": "10:35",
+            "w": -84,
+            "c": -567
+          }
+        ],
+        "id": 722
+      },
+      {
+        "date": "2026-01-24",
+        "filePath": "Cards/Scrivener 2017-2020/-40.md",
+        "wordCountStart": 44650,
+        "charCountStart": 233510,
+        "changes": [
+          {
+            "timeKey": "10:25",
+            "w": -44650,
+            "c": -233510
+          }
+        ],
+        "id": 723
+      },
+      {
+        "date": "2026-01-24",
+        "filePath": "Cards/Scrivener 2017-2020/-40_1.md",
+        "wordCountStart": 44650,
+        "charCountStart": 233510,
+        "changes": [
+          {
+            "timeKey": "10:25",
+            "w": -44650,
+            "c": -233510
+          }
+        ],
+        "id": 724
+      },
+      {
+        "date": "2026-01-24",
+        "filePath": "Cards/Scrivener 2017-2020/Click Click Boom.md",
+        "wordCountStart": 60649,
+        "charCountStart": 335086,
+        "changes": [
+          {
+            "timeKey": "10:30",
+            "w": -60649,
+            "c": -335086
+          }
+        ],
+        "id": 725
+      },
+      {
+        "date": "2026-01-24",
+        "filePath": "Cards/Scrivener 2017-2020/-40.md",
+        "wordCountStart": 44651,
+        "charCountStart": 233524,
+        "changes": [],
+        "id": 726
+      },
+      {
+        "date": "2026-01-24",
+        "filePath": "Cards/Scrivener 2017-2020/A Traveller's Guide to Loving and Leaving Montreal.md",
+        "wordCountStart": 202,
+        "charCountStart": 1080,
+        "changes": [],
+        "id": 727
+      },
+      {
+        "date": "2026-01-24",
+        "filePath": "Cards/Scrivener 2017-2020/Alexandria.md",
+        "wordCountStart": 293,
+        "charCountStart": 1661,
+        "changes": [
+          {
+            "timeKey": "10:30",
+            "w": -293,
+            "c": -1661
+          }
+        ],
+        "id": 728
+      },
+      {
+        "date": "2026-01-24",
+        "filePath": "Cards/Scrivener 2017-2020/Alexandria.md",
+        "wordCountStart": 300,
+        "charCountStart": 1710,
+        "changes": [],
+        "id": 729
+      },
+      {
+        "date": "2026-01-24",
+        "filePath": "Cards/Scrivener 2017-2020/ALYK1- Machine Learning.md",
+        "wordCountStart": 949,
+        "charCountStart": 4888,
+        "changes": [],
+        "id": 730
+      },
+      {
+        "date": "2026-01-24",
+        "filePath": "Cards/Scrivener 2017-2020/Click Click Boom_1.md",
+        "wordCountStart": 58438,
+        "charCountStart": 322738,
+        "changes": [
+          {
+            "timeKey": "10:30",
+            "w": -58438,
+            "c": -322738
+          }
+        ],
+        "id": 731
+      },
+      {
+        "date": "2026-01-24",
+        "filePath": "Cards/Scrivener 2017-2020/Click Click Boom_2.md",
+        "wordCountStart": 58489,
+        "charCountStart": 323075,
+        "changes": [
+          {
+            "timeKey": "10:30",
+            "w": -58489,
+            "c": -323075
+          }
+        ],
+        "id": 732
+      },
+      {
+        "date": "2026-01-24",
+        "filePath": "Cards/Scrivener 2017-2020/Click Click Boom_3.md",
+        "wordCountStart": 60191,
+        "charCountStart": 332356,
+        "changes": [
+          {
+            "timeKey": "10:30",
+            "w": -60191,
+            "c": -332356
+          }
+        ],
+        "id": 733
+      },
+      {
+        "date": "2026-01-24",
+        "filePath": "Cards/Scrivener 2017-2020/Click Click Boom_4.md",
+        "wordCountStart": 60249,
+        "charCountStart": 332685,
+        "changes": [],
+        "id": 734
+      },
+      {
+        "date": "2026-01-24",
+        "filePath": "Cards/Scrivener 2017-2020/Couch to 80K.md",
+        "wordCountStart": 104,
+        "charCountStart": 748,
+        "changes": [
+          {
+            "timeKey": "10:30",
+            "w": -104,
+            "c": -748
+          }
+        ],
+        "id": 735
+      },
+      {
+        "date": "2026-01-24",
+        "filePath": "Cards/Scrivener 2017-2020/Couch to 80K_1.md",
+        "wordCountStart": 136,
+        "charCountStart": 978,
+        "changes": [
+          {
+            "timeKey": "10:30",
+            "w": -136,
+            "c": -978
+          }
+        ],
+        "id": 736
+      },
+      {
+        "date": "2026-01-24",
+        "filePath": "Cards/Scrivener 2017-2020/Delivery.md",
+        "wordCountStart": 6383,
+        "charCountStart": 33269,
+        "changes": [],
+        "id": 737
+      },
+      {
+        "date": "2026-01-24",
+        "filePath": "Cards/Scrivener 2017-2020/Epic.md",
+        "wordCountStart": 105,
+        "charCountStart": 635,
+        "changes": [],
+        "id": 738
+      },
+      {
+        "date": "2026-01-24",
+        "filePath": "Cards/Scrivener 2017-2020/From Pawn to Player.md",
+        "wordCountStart": 857,
+        "charCountStart": 54926,
+        "changes": [
+          {
+            "timeKey": "10:30",
+            "w": -857,
+            "c": -54926
+          }
+        ],
+        "id": 739
+      },
+      {
+        "date": "2026-01-24",
+        "filePath": "Cards/Scrivener 2017-2020/From Pawn to Player_1.md",
+        "wordCountStart": 2002,
+        "charCountStart": 61566,
+        "changes": [
+          {
+            "timeKey": "10:30",
+            "w": -2002,
+            "c": -61566
+          }
+        ],
+        "id": 740
+      },
+      {
+        "date": "2026-01-24",
+        "filePath": "Cards/Scrivener 2017-2020/From Pawn to Player_2.md",
+        "wordCountStart": 2010,
+        "charCountStart": 61628,
+        "changes": [],
+        "id": 741
+      },
+      {
+        "date": "2026-01-24",
+        "filePath": "Cards/Scrivener 2017-2020/Going Places.md",
+        "wordCountStart": 1450,
+        "charCountStart": 7186,
+        "changes": [
+          {
+            "timeKey": "10:30",
+            "w": -1450,
+            "c": -7186
+          }
+        ],
+        "id": 742
+      },
+      {
+        "date": "2026-01-24",
+        "filePath": "Cards/Scrivener 2017-2020/Going Places_1.md",
+        "wordCountStart": 1456,
+        "charCountStart": 7229,
+        "changes": [],
+        "id": 743
+      },
+      {
+        "date": "2026-01-24",
+        "filePath": "Cards/Scrivener 2017-2020/Idea Book.md",
+        "wordCountStart": 2637,
+        "charCountStart": 13868,
+        "changes": [
+          {
+            "timeKey": "10:30",
+            "w": -2637,
+            "c": -13868
+          }
+        ],
+        "id": 744
+      },
+      {
+        "date": "2026-01-24",
+        "filePath": "Cards/Scrivener 2017-2020/Idea Book_2.md",
+        "wordCountStart": 3013,
+        "charCountStart": 16025,
+        "changes": [],
+        "id": 745
+      },
+      {
+        "date": "2026-01-24",
+        "filePath": "Cards/Scrivener 2017-2020/Idea Book_1.md",
+        "wordCountStart": 2761,
+        "charCountStart": 14582,
+        "changes": [
+          {
+            "timeKey": "10:30",
+            "w": -2761,
+            "c": -14582
+          }
+        ],
+        "id": 746
+      },
+      {
+        "date": "2026-01-24",
+        "filePath": "Cards/Scrivener 2017-2020/Uber.md",
+        "wordCountStart": 11405,
+        "charCountStart": 514263,
+        "changes": [
+          {
+            "timeKey": "10:30",
+            "w": -11405,
+            "c": -514263
+          }
+        ],
+        "id": 747
+      },
+      {
+        "date": "2026-01-24",
+        "filePath": "Cards/Scrivener 2017-2020/Uber_4.md",
+        "wordCountStart": 11406,
+        "charCountStart": 514272,
+        "changes": [],
+        "id": 748
+      },
+      {
+        "date": "2026-01-24",
+        "filePath": "Cards/Scrivener 2017-2020/Uber_1.md",
+        "wordCountStart": 12093,
+        "charCountStart": 517098,
+        "changes": [
+          {
+            "timeKey": "10:30",
+            "w": -12093,
+            "c": -517098
+          }
+        ],
+        "id": 749
+      },
+      {
+        "date": "2026-01-24",
+        "filePath": "Cards/Scrivener 2017-2020/India Rough.md",
+        "wordCountStart": 1155,
+        "charCountStart": 5898,
+        "changes": [
+          {
+            "timeKey": "10:30",
+            "w": -1155,
+            "c": -5898
+          }
+        ],
+        "id": 750
+      },
+      {
+        "date": "2026-01-24",
+        "filePath": "Cards/Scrivener 2017-2020/India Rough_2.md",
+        "wordCountStart": 1155,
+        "charCountStart": 5883,
+        "changes": [],
+        "id": 751
+      },
+      {
+        "date": "2026-01-24",
+        "filePath": "Cards/Scrivener 2017-2020/India Rough_1.md",
+        "wordCountStart": 1110,
+        "charCountStart": 5649,
+        "changes": [
+          {
+            "timeKey": "10:30",
+            "w": -1110,
+            "c": -5649
+          }
+        ],
+        "id": 752
+      },
+      {
+        "date": "2026-01-24",
+        "filePath": "Cards/Scrivener 2017-2020/India Spec 09MAY18.md",
+        "wordCountStart": 38,
+        "charCountStart": 256,
+        "changes": [],
+        "id": 753
+      },
+      {
+        "date": "2026-01-24",
+        "filePath": "Cards/Scrivener 2017-2020/Instant Pyaar.md",
+        "wordCountStart": 31,
+        "charCountStart": 522370,
+        "changes": [
+          {
+            "timeKey": "10:30",
+            "w": -31,
+            "c": -522370
+          }
+        ],
+        "id": 754
+      },
+      {
+        "date": "2026-01-24",
+        "filePath": "Cards/Scrivener 2017-2020/Never Heard Of It.md",
+        "wordCountStart": 586,
+        "charCountStart": 2925,
+        "changes": [
+          {
+            "timeKey": "10:30",
+            "w": -586,
+            "c": -2925
+          }
+        ],
+        "id": 755
+      },
+      {
+        "date": "2026-01-24",
+        "filePath": "Cards/Scrivener 2017-2020/Never Heard Of It_3.md",
+        "wordCountStart": 1084,
+        "charCountStart": 5358,
+        "changes": [
+          {
+            "timeKey": "10:30",
+            "w": -1084,
+            "c": -5358
+          }
+        ],
+        "id": 756
+      },
+      {
+        "date": "2026-01-24",
+        "filePath": "Cards/Scrivener 2017-2020/Jars_1.md",
+        "wordCountStart": 1481,
+        "charCountStart": 7774,
+        "changes": [
+          {
+            "timeKey": "10:30",
+            "w": -1481,
+            "c": -7774
+          }
+        ],
+        "id": 757
+      },
+      {
+        "date": "2026-01-24",
+        "filePath": "Cards/Scrivener 2017-2020/Self-Help_1.md",
+        "wordCountStart": 440,
+        "charCountStart": 2380,
+        "changes": [
+          {
+            "timeKey": "10:30",
+            "w": -440,
+            "c": -2380
+          }
+        ],
+        "id": 758
+      },
+      {
+        "date": "2026-01-24",
+        "filePath": "Cards/Scrivener 2017-2020/Sarah's File.md",
+        "wordCountStart": 18,
+        "charCountStart": 167,
+        "changes": [],
+        "id": 759
+      },
+      {
+        "date": "2026-01-24",
+        "filePath": "Cards/Scrivener 2017-2020/Short story for Kat.md",
+        "wordCountStart": 1010,
+        "charCountStart": 5160,
+        "changes": [],
+        "id": 760
+      },
+      {
+        "date": "2026-01-24",
+        "filePath": "Cards/Scrivener 2017-2020/The Hardest Part Of Driving A Truck.md",
+        "wordCountStart": 7771,
+        "charCountStart": 40311,
+        "changes": [],
+        "id": 761
+      },
+      {
+        "date": "2026-01-24",
+        "filePath": "Cards/Scrivener 2017-2020/The Mercantilist.md",
+        "wordCountStart": 55233,
+        "charCountStart": 726640,
+        "changes": [
+          {
+            "timeKey": "10:30",
+            "w": -55233,
+            "c": -726640
+          }
+        ],
+        "id": 762
+      },
+      {
+        "date": "2026-01-24",
+        "filePath": "Cards/Scrivener 2017-2020/The Opposite Force.md",
+        "wordCountStart": 2623,
+        "charCountStart": 14282,
+        "changes": [
+          {
+            "timeKey": "10:30",
+            "w": -2623,
+            "c": -14282
+          }
+        ],
+        "id": 763
+      },
+      {
+        "date": "2026-01-24",
+        "filePath": "Cards/Scrivener 2017-2020/The Sick Man of Europe.md",
+        "wordCountStart": 1259,
+        "charCountStart": 6276,
+        "changes": [
+          {
+            "timeKey": "10:30",
+            "w": -1259,
+            "c": -6276
+          }
+        ],
+        "id": 764
+      },
+      {
+        "date": "2026-01-24",
+        "filePath": "Cards/Scrivener 2017-2020/The Sick Man of Europe_1.md",
+        "wordCountStart": 1725,
+        "charCountStart": 8706,
+        "changes": [
+          {
+            "timeKey": "10:30",
+            "w": -1725,
+            "c": -8706
+          }
+        ],
+        "id": 765
+      },
+      {
+        "date": "2026-01-24",
+        "filePath": "Cards/Scrivener 2017-2020/Three Generations.md",
+        "wordCountStart": 1215,
+        "charCountStart": 6389,
+        "changes": [
+          {
+            "timeKey": "10:30",
+            "w": -1215,
+            "c": -6389
+          }
+        ],
+        "id": 766
+      },
+      {
+        "date": "2026-01-24",
+        "filePath": "10 Workbench/2025_Tax_Document_Checklist.md",
+        "wordCountStart": 938,
+        "charCountStart": 6494,
+        "changes": [],
+        "id": 767
+      },
+      {
+        "date": "2026-01-24",
+        "filePath": "10 Workbench/2025 Bullet Journal.md",
+        "wordCountStart": 1815,
+        "charCountStart": 10561,
+        "changes": [],
+        "id": 768
+      },
+      {
+        "date": "2026-01-24",
+        "filePath": "10 Workbench/AI Scaling Board Game.md",
+        "wordCountStart": 1887,
+        "charCountStart": 11513,
+        "changes": [],
+        "id": 769
+      },
+      {
+        "date": "2026-01-24",
+        "filePath": "Cards/Everything Is A Codebase.md",
+        "wordCountStart": 646,
+        "charCountStart": 4452,
+        "changes": [],
+        "id": 770
+      },
+      {
+        "date": "2026-01-24",
+        "filePath": "10 Workbench/Highlights From Reading.md",
+        "wordCountStart": 32,
+        "charCountStart": 204,
+        "changes": [],
+        "id": 771
+      },
+      {
+        "date": "2026-01-24",
+        "filePath": "10 Workbench/Hydrogen - The Second Pillar of the Propulsion Revolution.md",
+        "wordCountStart": 1781,
+        "charCountStart": 12175,
+        "changes": [],
+        "id": 772
+      },
+      {
+        "date": "2026-01-24",
+        "filePath": "10 Workbench/Jackal.md",
+        "wordCountStart": 331,
+        "charCountStart": 1773,
+        "changes": [],
+        "id": 773
+      },
+      {
+        "date": "2026-01-24",
+        "filePath": "Cards/Cool Links.md",
+        "wordCountStart": 60,
+        "charCountStart": 349,
+        "changes": [],
+        "id": 774
+      },
+      {
+        "date": "2026-01-24",
+        "filePath": "10 Workbench/My 1st Letter To You.md",
+        "wordCountStart": 52,
+        "charCountStart": 253,
+        "changes": [],
+        "id": 775
+      },
+      {
+        "date": "2026-01-24",
+        "filePath": "00 Private/Website Improvements.md",
+        "wordCountStart": 85,
+        "charCountStart": 517,
+        "changes": [],
+        "id": 776
+      },
+      {
+        "date": "2026-01-24",
+        "filePath": "00 Private/Oct 2025 Novel Thoughts.md",
+        "wordCountStart": 45,
+        "charCountStart": 268,
+        "changes": [],
+        "id": 777
+      },
+      {
+        "date": "2026-01-24",
+        "filePath": "Cards/Waiting For The Agents To Run.md",
+        "wordCountStart": 28,
+        "charCountStart": 146,
+        "changes": [],
+        "id": 778
+      },
+      {
+        "date": "2026-01-24",
+        "filePath": "10 Workbench/Newsletter.md",
+        "wordCountStart": 262,
+        "charCountStart": 1732,
+        "changes": [],
+        "id": 779
+      },
+      {
+        "date": "2026-01-25",
+        "filePath": "10 Workbench/Vibe-Coding Board.md",
+        "wordCountStart": 2,
+        "charCountStart": 32,
+        "changes": [
+          {
+            "timeKey": "15:00",
+            "w": -1,
+            "c": -27
+          },
+          {
+            "timeKey": "15:05",
+            "w": -1,
+            "c": -5
+          },
+          {
+            "timeKey": "18:05",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 780
+      },
+      {
+        "date": "2026-01-25",
+        "filePath": "10 Workbench/2025 Bullet Journal.md",
+        "wordCountStart": 1706,
+        "charCountStart": 9887,
+        "changes": [
+          {
+            "timeKey": "20:45",
+            "w": 101,
+            "c": 573
+          },
+          {
+            "timeKey": "20:50",
+            "w": 126,
+            "c": 687
+          },
+          {
+            "timeKey": "20:55",
+            "w": 6,
+            "c": 46
+          }
+        ],
+        "id": 781
+      },
+      {
+        "date": "2026-01-26",
+        "filePath": "10 Workbench/2025 Bullet Journal.md",
+        "wordCountStart": 1939,
+        "charCountStart": 11193,
+        "changes": [
+          {
+            "timeKey": "21:35",
+            "w": 90,
+            "c": 455
+          },
+          {
+            "timeKey": "21:40",
+            "w": 175,
+            "c": 932
+          }
+        ],
+        "id": 782
+      },
+      {
+        "date": "2026-01-26",
+        "filePath": "10 Workbench/Essay Pipeline.md",
+        "wordCountStart": 32,
+        "charCountStart": 280,
+        "changes": [],
+        "id": 783
+      },
+      {
+        "date": "2026-01-26",
+        "filePath": "Cards/Everything Is A Codebase.md",
+        "wordCountStart": 646,
+        "charCountStart": 4452,
+        "changes": [
+          {
+            "timeKey": "08:30",
+            "w": 25,
+            "c": 141
+          },
+          {
+            "timeKey": "08:35",
+            "w": 0,
+            "c": -34
+          },
+          {
+            "timeKey": "08:40",
+            "w": 83,
+            "c": 728
+          },
+          {
+            "timeKey": "08:45",
+            "w": 81,
+            "c": 696
+          },
+          {
+            "timeKey": "08:50",
+            "w": -72,
+            "c": -488
+          },
+          {
+            "timeKey": "08:55",
+            "w": -160,
+            "c": -1267
+          },
+          {
+            "timeKey": "09:00",
+            "w": -235,
+            "c": -1796
+          },
+          {
+            "timeKey": "21:55",
+            "w": 199,
+            "c": 1289
+          },
+          {
+            "timeKey": "22:00",
+            "w": -104,
+            "c": -918
+          },
+          {
+            "timeKey": "22:05",
+            "w": -73,
+            "c": -467
+          },
+          {
+            "timeKey": "22:10",
+            "w": -31,
+            "c": -173
+          },
+          {
+            "timeKey": "22:15",
+            "w": 452,
+            "c": 3020
+          }
+        ],
+        "id": 784
+      },
+      {
+        "date": "2026-01-26",
+        "filePath": "10 Workbench/AI Won't Take Your Job, But It Will Unbundle It.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "22:10",
+            "w": 190,
+            "c": 1325
+          }
+        ],
+        "id": 785
+      },
+      {
+        "date": "2026-01-27",
+        "filePath": "10 Workbench/Sandra 2025.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "13:35",
+            "w": 908,
+            "c": 33971
+          },
+          {
+            "timeKey": "13:40",
+            "w": 46,
+            "c": 296
+          },
+          {
+            "timeKey": "13:45",
+            "w": 169,
+            "c": 1020
+          },
+          {
+            "timeKey": "13:50",
+            "w": 13,
+            "c": 97
+          }
+        ],
+        "id": 786
+      },
+      {
+        "date": "2026-01-27",
+        "filePath": "10 Workbench/Bernard 2025.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "13:50",
+            "w": 1010,
+            "c": 48001
+          },
+          {
+            "timeKey": "13:55",
+            "w": 16,
+            "c": 100
+          },
+          {
+            "timeKey": "14:25",
+            "w": 14,
+            "c": 102
+          },
+          {
+            "timeKey": "14:55",
+            "w": 10,
+            "c": 56
+          },
+          {
+            "timeKey": "15:05",
+            "w": 113,
+            "c": 714
+          },
+          {
+            "timeKey": "15:10",
+            "w": 28,
+            "c": 177
+          },
+          {
+            "timeKey": "15:15",
+            "w": 55,
+            "c": 305
+          },
+          {
+            "timeKey": "15:20",
+            "w": 72,
+            "c": 434
+          },
+          {
+            "timeKey": "15:25",
+            "w": -9,
+            "c": -83
+          }
+        ],
+        "id": 787
+      },
+      {
+        "date": "2026-01-27",
+        "filePath": "10 Workbench/AI Won't Take Your Job, But It Will Unbundle It.md",
+        "wordCountStart": 190,
+        "charCountStart": 1325,
+        "changes": [],
+        "id": 788
+      },
+      {
+        "date": "2026-01-27",
+        "filePath": "Cards/Everything Is A Codebase.md",
+        "wordCountStart": 563,
+        "charCountStart": 3569,
+        "changes": [
+          {
+            "timeKey": "18:05",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "20:55",
+            "w": 5,
+            "c": 32
+          },
+          {
+            "timeKey": "21:00",
+            "w": 50,
+            "c": 241
+          }
+        ],
+        "id": 789
+      },
+      {
+        "date": "2026-01-27",
+        "filePath": "10 Workbench/2025 Bullet Journal.md",
+        "wordCountStart": 2204,
+        "charCountStart": 12580,
+        "changes": [
+          {
+            "timeKey": "20:50",
+            "w": 109,
+            "c": 585
+          }
+        ],
+        "id": 790
+      },
+      {
+        "date": "2026-01-28",
+        "filePath": "Cards/Everything Is A Codebase.md",
+        "wordCountStart": 618,
+        "charCountStart": 3844,
+        "changes": [
+          {
+            "timeKey": "07:20",
+            "w": -3,
+            "c": -10
+          },
+          {
+            "timeKey": "08:40",
+            "w": 39,
+            "c": 250
+          },
+          {
+            "timeKey": "08:45",
+            "w": -1,
+            "c": 26
+          },
+          {
+            "timeKey": "08:50",
+            "w": -25,
+            "c": -155
+          },
+          {
+            "timeKey": "08:55",
+            "w": 31,
+            "c": 180
+          },
+          {
+            "timeKey": "09:00",
+            "w": 7,
+            "c": 49
+          },
+          {
+            "timeKey": "09:05",
+            "w": -35,
+            "c": -155
+          },
+          {
+            "timeKey": "09:10",
+            "w": 65,
+            "c": 389
+          },
+          {
+            "timeKey": "16:35",
+            "w": -163,
+            "c": -1015
+          },
+          {
+            "timeKey": "16:40",
+            "w": 9,
+            "c": 54
+          }
+        ],
+        "id": 791
+      },
+      {
+        "date": "2026-01-28",
+        "filePath": "Cards/It's Time to Make Software Artisanal.md",
+        "wordCountStart": 387,
+        "charCountStart": 2238,
+        "changes": [],
+        "id": 792
+      },
+      {
+        "date": "2026-01-28",
+        "filePath": "10 Workbench/artisanal software.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "16:40",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 793
+      },
+      {
+        "date": "2026-01-28",
+        "filePath": "10 Workbench/Hydrogen - The Second Pillar of the Propulsion Revolution.md",
+        "wordCountStart": 1781,
+        "charCountStart": 12175,
+        "changes": [],
+        "id": 794
+      },
+      {
+        "date": "2026-01-28",
+        "filePath": "10 Workbench/AI Won't Take Your Job, But It Will Unbundle It.md",
+        "wordCountStart": 190,
+        "charCountStart": 1325,
+        "changes": [
+          {
+            "timeKey": "16:40",
+            "w": 26,
+            "c": 147
+          },
+          {
+            "timeKey": "16:45",
+            "w": 31,
+            "c": 162
+          }
+        ],
+        "id": 795
+      },
+      {
+        "date": "2026-01-30",
+        "filePath": "10 Workbench/AI Won't Take Your Job, But It Will Unbundle It.md",
+        "wordCountStart": 247,
+        "charCountStart": 1634,
+        "changes": [
+          {
+            "timeKey": "22:50",
+            "w": 0,
+            "c": 2
+          }
+        ],
+        "id": 796
+      },
+      {
+        "date": "2026-02-03",
+        "filePath": "10 Workbench/Untitled.base",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "16:00",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 799
+      },
+      {
+        "date": "2026-02-03",
+        "filePath": "10 Workbench/AI Won't Take Your Job, But It Will Unbundle It.md",
+        "wordCountStart": 315,
+        "charCountStart": 2054,
+        "changes": [
+          {
+            "timeKey": "09:05",
+            "w": 44,
+            "c": 344
+          },
+          {
+            "timeKey": "09:10",
+            "w": 19,
+            "c": 116
+          },
+          {
+            "timeKey": "15:35",
+            "w": 68,
+            "c": 418
+          },
+          {
+            "timeKey": "16:00",
+            "w": 33,
+            "c": 194
+          },
+          {
+            "timeKey": "16:25",
+            "w": 15,
+            "c": 113
+          },
+          {
+            "timeKey": "16:30",
+            "w": 13,
+            "c": 73
+          },
+          {
+            "timeKey": "20:50",
+            "w": 61,
+            "c": 380
+          },
+          {
+            "timeKey": "21:30",
+            "w": 29,
+            "c": 143
+          }
+        ],
+        "id": 800
+      },
+      {
+        "date": "2026-02-04",
+        "filePath": "10 Workbench/AI Won't Take Your Job, But It Will Unbundle It.md",
+        "wordCountStart": 376,
+        "charCountStart": 2434,
+        "changes": [
+          {
+            "timeKey": "08:25",
+            "w": 29,
+            "c": 143
+          },
+          {
+            "timeKey": "08:35",
+            "w": 44,
+            "c": 344
+          },
+          {
+            "timeKey": "09:10",
+            "w": 11,
+            "c": 76
+          },
+          {
+            "timeKey": "16:15",
+            "w": 10,
+            "c": 38
+          },
+          {
+            "timeKey": "16:20",
+            "w": 60,
+            "c": 317
+          },
+          {
+            "timeKey": "20:50",
+            "w": 55,
+            "c": 303
+          },
+          {
+            "timeKey": "20:55",
+            "w": 25,
+            "c": 152
+          },
+          {
+            "timeKey": "21:00",
+            "w": 78,
+            "c": 533
+          },
+          {
+            "timeKey": "21:05",
+            "w": 26,
+            "c": 135
+          }
+        ],
+        "id": 801
+      },
+      {
+        "date": "2026-02-02",
+        "filePath": "10 Workbench/Sandra 2025.md",
+        "wordCountStart": 1136,
+        "charCountStart": 35384,
+        "changes": [],
+        "id": 803
+      },
+      {
+        "date": "2026-02-02",
+        "filePath": "10 Workbench/2025 Bullet Journal.md",
+        "wordCountStart": 2812,
+        "charCountStart": 15523,
+        "changes": [
+          {
+            "timeKey": "21:45",
+            "w": 174,
+            "c": 918
+          },
+          {
+            "timeKey": "21:50",
+            "w": 7,
+            "c": 34
+          }
+        ],
+        "id": 804
+      },
+      {
+        "date": "2026-02-03",
+        "filePath": "10 Workbench/2025 Bullet Journal.md",
+        "wordCountStart": 2993,
+        "charCountStart": 16475,
+        "changes": [
+          {
+            "timeKey": "20:50",
+            "w": 34,
+            "c": 195
+          },
+          {
+            "timeKey": "20:55",
+            "w": 129,
+            "c": 789
+          },
+          {
+            "timeKey": "21:00",
+            "w": 41,
+            "c": 196
+          }
+        ],
+        "id": 806
+      },
+      {
+        "date": "2026-02-03",
+        "filePath": "10 Workbench/Bernard 2025.md",
+        "wordCountStart": 1309,
+        "charCountStart": 49806,
+        "changes": [],
+        "id": 807
+      },
+      {
+        "date": "2026-02-03",
+        "filePath": "10 Workbench/AI Won't Take Your Job, But It Will Unbundle It.md",
+        "wordCountStart": 247,
+        "charCountStart": 1636,
+        "changes": [
+          {
+            "timeKey": "09:05",
+            "w": 44,
+            "c": 344
+          },
+          {
+            "timeKey": "09:10",
+            "w": 19,
+            "c": 116
+          },
+          {
+            "timeKey": "15:35",
+            "w": 68,
+            "c": 418
+          },
+          {
+            "timeKey": "20:50",
+            "w": 61,
+            "c": 380
+          },
+          {
+            "timeKey": "21:30",
+            "w": 29,
+            "c": 143
+          }
+        ],
+        "id": 808
+      },
+      {
+        "date": "2026-02-04",
+        "filePath": "10 Workbench/2025 Bullet Journal.md",
+        "wordCountStart": 3197,
+        "charCountStart": 17655,
+        "changes": [
+          {
+            "timeKey": "20:40",
+            "w": 183,
+            "c": 935
+          },
+          {
+            "timeKey": "20:45",
+            "w": 66,
+            "c": 357
+          }
+        ],
+        "id": 809
+      },
+      {
+        "date": "2026-02-05",
+        "filePath": "10 Workbench/CPAs Beyond 2035.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "09:05",
+            "w": 21,
+            "c": 141
+          }
+        ],
+        "id": 810
+      },
+      {
+        "date": "2026-02-05",
+        "filePath": "10 Workbench/2025 Bullet Journal.md",
+        "wordCountStart": 3446,
+        "charCountStart": 18947,
+        "changes": [
+          {
+            "timeKey": "20:55",
+            "w": 23,
+            "c": 113
+          },
+          {
+            "timeKey": "21:00",
+            "w": 145,
+            "c": 801
+          },
+          {
+            "timeKey": "21:05",
+            "w": 29,
+            "c": 136
+          }
+        ],
+        "id": 811
+      },
+      {
+        "date": "2026-02-05",
+        "filePath": "10 Workbench/AI Won't Take Your Job, But It Will Unbundle It.md",
+        "wordCountStart": 714,
+        "charCountStart": 4475,
+        "changes": [
+          {
+            "timeKey": "14:50",
+            "w": 93,
+            "c": 462
+          },
+          {
+            "timeKey": "14:55",
+            "w": 134,
+            "c": 737
+          },
+          {
+            "timeKey": "15:00",
+            "w": 67,
+            "c": 339
+          },
+          {
+            "timeKey": "15:05",
+            "w": -2,
+            "c": -74
+          },
+          {
+            "timeKey": "21:05",
+            "w": 27,
+            "c": 145
+          },
+          {
+            "timeKey": "21:15",
+            "w": -79,
+            "c": -449
+          },
+          {
+            "timeKey": "21:20",
+            "w": -83,
+            "c": -687
+          }
+        ],
+        "id": 812
       }
     ]
   }

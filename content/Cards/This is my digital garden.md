@@ -1,4 +1,9 @@
-#🪴
+> [!button]- How to navigate this garden:
+> 🖱 Clicking on a link [[like this]] will make you follow it
+> ⬅  The left sidebar holds key pages & a search function
+> 🐦  Clicking on #hashtags shows related pages
+> 🔗  At the bottom of each page, you can see backlinks to that page
+> 🗺  Using the graph view on the right
 
 It is a combination public notebook & writing portfolio. It is also a method of [[Gamifying notetaking]].
 

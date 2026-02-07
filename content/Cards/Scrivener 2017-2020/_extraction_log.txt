@@ -1,0 +1,266 @@
+Scrivener Extraction Log
+Date: 2026-01-24 15:23:04
+============================================================
+
+Successful: 64
+Failed: 0
+Total: 64
+
+============================================================
+
+-40.bak2018-05-09T05-30.scriv
+  Output: -40.md
+  Status: Success (43,402 words)
+
+-40.bak2018-07-17T18-51.scriv
+  Output: -40_1.md
+  Status: Success (43,402 words)
+
+-40.bak2019-03-30T16-01.scriv
+  Output: -40_2.md
+  Status: Success (43,404 words)
+
+A Traveller's Guide to Loving and Leaving Montreal.bak2018-09-09T20-36.scriv
+  Output: A Traveller's Guide to Loving and Leaving Montreal.md
+  Status: Success (199 words)
+
+ALYK1- Machine Learning.bak2018-12-16T21-53.scriv
+  Output: ALYK1- Machine Learning.md
+  Status: Success (883 words)
+
+Alexandria.bak2018-10-15T21-50.scriv
+  Output: Alexandria.md
+  Status: Success (293 words)
+
+Alexandria.bak2018-10-21T17-32.scriv
+  Output: Alexandria_1.md
+  Status: Success (301 words)
+
+Click Click Boom.bak.zip
+  Output: Click Click Boom.md
+  Status: Success (53,803 words)
+
+Click Click Boom.bak1.zip
+  Output: Click Click Boom_1.md
+  Status: Success (51,824 words)
+
+Click Click Boom.bak2.zip
+  Output: Click Click Boom_2.md
+  Status: Success (51,874 words)
+
+Click Click Boom.bak3.zip
+  Output: Click Click Boom_3.md
+  Status: Success (53,422 words)
+
+Click Click Boom.bak4.zip
+  Output: Click Click Boom_4.md
+  Status: Success (53,475 words)
+
+Couch to 80K.bak2017-11-12T20-50.scriv
+  Output: Couch to 80K.md
+  Status: Success (107 words)
+
+Couch to 80K.bak2017-11-13T11-23.scriv
+  Output: Couch to 80K_1.md
+  Status: Success (140 words)
+
+Delivery.scriv
+  Output: Delivery.md
+  Status: Success (6,243 words)
+
+Epic.bak.zip
+  Output: Epic.md
+  Status: Success (106 words)
+
+From Pawn to Player.bak2019-02-24T22-27.scriv
+  Output: From Pawn to Player.md
+  Status: Success (860 words)
+
+From Pawn to Player.bak2019-02-25T22-58.scriv
+  Output: From Pawn to Player_1.md
+  Status: Success (2,031 words)
+
+From Pawn to Player.bak2019-02-26T07-45.scriv
+  Output: From Pawn to Player_2.md
+  Status: Success (2,041 words)
+
+Going Places.bak.zip
+  Output: Going Places.md
+  Status: Success (1,358 words)
+
+Going Places.bak1.zip
+  Output: Going Places_1.md
+  Status: Success (1,366 words)
+
+Idea Book.bak2019-11-10T16-25.scriv
+  Output: Idea Book.md
+  Status: Success (2,573 words)
+
+Idea Book.bak2019-12-21T22-19.scriv
+  Output: Idea Book_1.md
+  Status: Success (2,699 words)
+
+Idea Book.bak2020-01-05T21-22.scriv
+  Output: Idea Book_2.md
+  Status: Success (2,943 words)
+
+India Rough.bak2018-05-09T22-16.scriv
+  Output: India Rough.md
+  Status: Success (1,140 words)
+
+India Rough.bak3.zip
+  Output: India Rough_1.md
+  Status: Success (1,094 words)
+
+India Rough.bak4.zip
+  Output: India Rough_2.md
+  Status: Success (1,140 words)
+
+India Spec 09MAY18.bak2018-05-09T22-16.scriv
+  Output: India Spec 09MAY18.md
+  Status: Success (41 words)
+
+Instant Pyaar.bak.zip
+  Output: Instant Pyaar.md
+  Status: Success (36 words)
+
+Instant Pyaar.bak1.zip
+  Output: Instant Pyaar_1.md
+  Status: Success (78 words)
+
+Jars.bak2017-08-23T21-19.scriv
+  Output: Jars.md
+  Status: Success (1,276 words)
+
+Jars.bak2017-08-24T22-18.scriv
+  Output: Jars_1.md
+  Status: Success (1,379 words)
+
+Jars.bak2017-08-30T20-41.scriv
+  Output: Jars_2.md
+  Status: Success (1,676 words)
+
+Never Heard Of It.bak.zip
+  Output: Never Heard Of It.md
+  Status: Success (546 words)
+
+Never Heard Of It.bak1.zip
+  Output: Never Heard Of It_1.md
+  Status: Success (579 words)
+
+Never Heard Of It.bak2.zip
+  Output: Never Heard Of It_2.md
+  Status: Success (1,009 words)
+
+Never Heard Of It.bak3.zip
+  Output: Never Heard Of It_3.md
+  Status: Success (1,012 words)
+
+Never Heard Of It.bak4.zip
+  Output: Never Heard Of It_4.md
+  Status: Success (1,357 words)
+
+Sarah's File.bak2022-06-03T12-57.scriv
+  Output: Sarah's File.md
+  Status: Success (23 words)
+
+Self-Help.bak2019-01-06T19-49.scriv
+  Output: Self-Help.md
+  Status: Success (290 words)
+
+Self-Help.bak2019-01-07T18-46.scriv
+  Output: Self-Help_1.md
+  Status: Success (424 words)
+
+Self-Help.bak2019-01-07T20-13.scriv
+  Output: Self-Help_2.md
+  Status: Success (1,043 words)
+
+Shitty DM.bak2017-09-03T23-17.scriv
+  Output: Shitty DM.md
+  Status: Success (117 words)
+
+Short story for Kat.bak2018-07-01T17-45.scriv
+  Output: Short story for Kat.md
+  Status: Success (978 words)
+
+The Hardest Part Of Driving A Truck.bak.zip
+  Output: The Hardest Part Of Driving A Truck.md
+  Status: Success (7,596 words)
+
+The Mercantilist.bak.zip
+  Output: The Mercantilist.md
+  Status: Success (51,973 words)
+
+The Mercantilist.bak1.zip
+  Output: The Mercantilist_1.md
+  Status: Success (52,032 words)
+
+The Mercantilist.bak2.zip
+  Output: The Mercantilist_2.md
+  Status: Success (52,032 words)
+
+The Mercantilist.bak3.zip
+  Output: The Mercantilist_3.md
+  Status: Success (52,032 words)
+
+The Mercantilist.bak4.zip
+  Output: The Mercantilist_4.md
+  Status: Success (51,251 words)
+
+The Opposite Force.bak2018-11-05T20-29.scriv
+  Output: The Opposite Force.md
+  Status: Success (2,571 words)
+
+The Opposite Force.bak2019-04-28T12-34.scriv
+  Output: The Opposite Force_1.md
+  Status: Success (2,742 words)
+
+The Opposite Force.bak2019-04-28T18-01.scriv
+  Output: The Opposite Force_2.md
+  Status: Success (2,914 words)
+
+The Sick Man of Europe.bak2018-11-19T07-33.scriv
+  Output: The Sick Man of Europe.md
+  Status: Success (1,222 words)
+
+The Sick Man of Europe.bak2018-11-20T19-10.scriv
+  Output: The Sick Man of Europe_1.md
+  Status: Success (1,677 words)
+
+The Sick Man of Europe.bak2018-11-20T23-51.scriv
+  Output: The Sick Man of Europe_2.md
+  Status: Success (1,744 words)
+
+Three Generations.bak2019-09-01T10-28.scriv
+  Output: Three Generations.md
+  Status: Success (1,203 words)
+
+Three Generations.bak2019-09-04T14-36.scriv
+  Output: Three Generations_1.md
+  Status: Success (1,440 words)
+
+Three Generations.bak2019-09-08T22-01.scriv
+  Output: Three Generations_2.md
+  Status: Success (1,542 words)
+
+Uber.bak.zip
+  Output: Uber.md
+  Status: Success (10,884 words)
+
+Uber.bak1.zip
+  Output: Uber_1.md
+  Status: Success (11,541 words)
+
+Uber.bak2.zip
+  Output: Uber_2.md
+  Status: Success (9,414 words)
+
+Uber.bak3.zip
+  Output: Uber_3.md
+  Status: Success (10,118 words)
+
+Uber.bak4.zip
+  Output: Uber_4.md
+  Status: Success (10,885 words)
+

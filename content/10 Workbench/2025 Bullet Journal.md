@@ -32,73 +32,157 @@
 
 ## January
 
-1W - We hosted Aureliane for a New Year's brunch and talked about family and our planes for this new year
+1W - We hosted Aureliane for a New Year's brunch and talked about family and our plans for this new year
 2T - Helping Sarah through intense psiatica. It felt like a dress rehearsal for labour. Very sobering!
 3F - Getting reassurance from Dr. Morency on Potato's development right after she did someone's emergency C section
 4S - Getting started packing our hospital bags and then hosting Shannon for a nice dinner (tofu magique)
 5S - Sketching out the first draft of Singh family tree with mum and looking ahead to fleshing it out in Ludhiana
-
-CONTINUE
-
+6M - Moving offices faster than I anticipated with Sandra's kind help. Gotta get the smell out of it now!
+7T- An all hands to prepare for the new APPR 2.0 regime in Canada. Regulatory creep is a constant in Canada
+8W - Doing a couples session with our pelvic floor therapist and learning holds with Sarah that'll comfort her in labour
+9T - Getting frustrated negotiating with Parm and Sarah commiserating with me and telling me I'm patient at work
+10F - Booking Le Petit Hotel in Old Port for a babymoon on a Hotels.com credit and looking forward to a fun night
+11S - Lea came over to chat and support Sarah. Her and Gab have been amazing supports to us over the years.
+12S - Seeing kids sledding, teens playing hockey and adults cross-country skiing in Le Ber park on a sunny day.
+13M - Proud of my Landline presentation to Alex. EXCOM is next. Sarah made us cinnamon sugar popcorn for dessert
+14T - Finding out Potato's percentile weight dropped some more. Keeping each other strong before we see Dr. Morency
+15W - Feeling relieved once Morency told us Potato is doing OK and seeing their toes on screen! Phew.
+16T - Dinner at Rita with Ron. Learning about Theresa's birth of their twins and feeling better about Potato.
+17F - Babymoon at Le Petit Hotel in Old Port. Winter walk and watching random TV after Greek dinner out.
+18S - Breakfast in bed from Le Marquis and visiting the sewers at Pointe-a-Calliere. Book club at Anu and Michaels.
+19S - Tasting mum's practice postpartum daal. Finding out our neighbour Kevin is a painter. Lea delivering more baby things. Starting Only Murders Season 4.
+20M - Made Sarah waffles for breakfast. Comforted her at night after a tough conversation with Melissa.
+21T - 1st day of Senior Leader Summit. Having great talks from Jean Charest and Harley Winklestein on Canada's future.
+22W - Having a good talk from the RBC chief economist about Canada's future.
+23T - Learning that General McArthur's staff wrote the Japanese constitution in one week and it still remains in effect today.
+24F - Talking with Aaqib about his daughters and laughing about old stories while he encouraged me to write.
+25S - Mum spontaneously making postpartum test daal for us to enjoy while we prep the bassinest.
+26S - Finally packing our hospital bags and seeing Potato's first diapers. Laughing about how much we needed to pack.
+27M - Comforting Sarah as her psiatica gets worse. She's shown inner strength beyond anything I've ever known.
+28T- Synthesizing my thoughts on the future of Jazz considering the pilot shortage that now won't get better.
+29W - Doing in person pat leave handover to Kev and Bernard and coming home to have Rasoi with Sarah
+30T - Dropping in on mom after work and dripping snow in the kitchen. Melanie giving an ad hoc massage to comfort Sarah.
+31F - 37 week ultrasound: Potato's weight percentile increased! Feeling relief and excitement for their arrival
 ### Outlook:
 The final baby prep - ready to go at a moment's notice. Wrapping up & offloading work responsibilities to Keith & Bernard. Continuing to write & publish small works.
 
 ### Review:
-Sarah's prelation journey candy. In reflecting women about Potato's weight ending, investigations too. Mid-terms a different hormones of our life, Steam. Not getting any more small works written so I have prioritized recovery after semi-sleepless nights. Bro, on fatherhood!
+Sarah's psiatica journey ending in relief. Worries about Potato's weight ending in relief too. Midway through an efficient handover of work to the team. Not getting any more small works written as I've prioritized recovery after semi-sleepless nights. Bring on fatherhood!
 
-### Daily Entries:
+**26JAN**: The snowfall today looked like sand and melted right after it landed, or soon after. It was a high of -2, a good reprice from the frigid cold of the last 2 weeks.
 
-**1W** - We hosted Aureliane for a New Year's brunch. Talked about family & our plans for the year, brunch. Helping Sarah through intense post-partum...
+Sarah and Ayesha made up over FB messenger after Ayesha had not been around during Sarah's pregnancy.
 
-**2T** - Made Sarah waffles for breakfast. Comforted her at night about a rough conversation with Melissa. Got day at Senior Leader Summit. Heavy great folks from Jean Chorest & Harley Winterton in Coastbase. Hearty good talk from the RBC cholet economist about Canada's feature.
+Aaqib and I reminisced about the origins of Sukhpreet's decor business and both think she's doing well for herself.
 
-**3T** - Leary that Gen McArthur's shift wrote the Japanese constitution in 2 weeks & it's still remains involved to day.
+I packed out hospital bags at long last and have a final checklist to get out the door.
 
-**4F** - Talley of people about his daughters & laughing about old stories while he encouraged.
+Online everyone is talking about how the Chinese-made Deepseek R1 is upsetting OpenAI's dominance of the AI market
 
-**5S** - Mum's spontaneously making parfum test and for us to enjoy while the lassies test.
+We've reached the point in winter where the plants are missing the sunshine and slightly wilting. I made a plan to get floating bookshelves built over the front wall.
 
-**6S** - Finally packing an hospital bags & seeing Potato's first Olympics. She growing as her psilation gets worse.
+Sarah has had a bad psiatica as baby is getting bigger ahead of her due date. I set up a carpool to help us get a chill ride home from the hospital after they're born.
 
-**7T** - Concerns Sarah as her psilation gets worse. She's lost inner strength beyond anything I've ever known.
+I've been binging The Knick, and love it's setting. 1900 New York at the precipice of modern medicine. it feels close to the idea of my novel: 1830s physcian in India.
 
-**8T** - Synthesizing my thoughts on the future of Jazz considering the pilot shortage that now works get better
+I spent a long night yesterday trying to set up a static site using Github pages and learned a lot, despite hitting a wall at the end.
 
-**9W** - Nursing in person, parfum handout to Keith & Bernard & coming home to Montreal.
+My interest lately has been in programming, AI, and writing short blog posts.
 
-**10T** - Dropped Mom over after a happy, snow in the kitchen. A neighbour chemical hormones to comfort Sarah
+"Collect dots to connect dots later" - Steve Jobs via Dwarkesh Patel
 
-**11F** - Back! ultrasound! Potato's weight percentile increased. Feels relieved & excitement for the arrival.
+**30JAN**: I had my first audio conversation with ChatGPT 40 yesterday. I asked to have a French lesson and the back and forth was surprisingly fluid. I'm interested in exploring it further. I want to be able to prompt it with context and conduct an AI tutoring lesson. I know apps like Duolingo do this already, but I want to simultaneously use it as a way to better understand how AI works.
 
-**26 JAN**: The snowfall looked like it melted right after it landed or soon after. At least 2 weeks. Sarah & Ayesha made up over FB messages after Ayesha had not been around during pregnancy.
+I've had fun watching Dwarkesh Patel's lecture series with Sarah Paine. The topics were:
+- India, Pakistan and the Cold War
+- Japan and Bushido in WW2
+- The Rise of Mao in China
 
-**30JAN**: I had my first audio conversation w/ chatGPT 4o yesterday. I asked to have a arm lesson & she walked me forth was surprising that. I'm interested in exploring way it feels. I know apps like Duolingo this already but I want it to use it as a way to better understand how AI works.
+She always speaks with authority and has great frameworks to explain world events. She also answers questions with humility and humour. Dwarkesh is doing a great job with his show.
 
-I had fun watching Darrech Patel's lecture Series. The topics were:
-1. Inseln Meliern 2-the JWII
-2. Japan & Bushido in WWII
-3. Release of Mao in China
+Sarah just turned to me and told me she loves me. She's excited to see my become a dad. I thanked her and we shared our excitement to do things with Potato like story time and bike rides.
 
-She always speaks with authority & has great intentions so modern world effects. She also answers questions with humility & humor.
+We are inching closer to her due date and things are about to change very quickly. Time for long journal entries like these may be rare but it will still be vital.
 
-**31JAN**: With each turn of the earth, you get closer to us, we can't wait to hold you on the turn that bring a new dawn and a new life. See you soon my child.
+I need to record these magical days so I never quite lose them and they're always just a flip through the archives away.
 
----
+With each turn of the earth, you get closer to us. We can't wait to hold you on the turn that brings a new dawn and a new life. See you soon my child.
 
 ## February
 
+1S - Waking up to a sexy surprise. Having a 'baby shower' webchat with Tina, Virgina, Teri, Megan, and family to share our joy
+2S - Playing the Baby Hunch game with mum, She guessed Boy, born Feb 10, 5:30pm with V as the 1st letter of the name
+3M - Sarah's 1st day of mat leave - she caught up on admin. Having Bernard on Kev's staff meeting to help with the transition
+4T - Waking up at 4am to Sarah's water breaking. Meeting baby Khivi by 4:08pm! Welcome to the world my sweet daughter!
+5W - Learning to feed, change and hold Khivi in the maternity ward. Grateful for the stellar medical and doula care we're gotten.
+6T - Auntie Lea taking us home from the hospital. Bringing baby home for the first time and life changing forever.
+7F - Exhausted from a fitful night of zero sleep with Khivi being underfed and having early jaundice
+8S - Sleeping with Khivi under the blue jaundice lamps. Bringing her home from MUCH again to sleep on her own!
+9S - Visit from Anu and Michael and a three hour visit from Steph. Loving Khivi's voracious appetite and fattening face.
+10M - Showing Khivi to mum after bringing her home solo from the Royal Vic. Sarah getting a breast pump from CLSC
+11T - Feeling like we're finding out rhythm after an overnight visit from Iliana and doing more effective rolesharing
+12W - Waking up the most rested after our split shifting. Evening visit from Emil, grateful for their support
+13T - Going to a lactation consultant in the blizzard, being reassured that Sarah's body can produce milk
+14F - First time baby jitters with fussy eating, bloody umbilicus and snotty nose. A life of worry begins
+15S - Sucking snot out of Khivi's nose with a Nose Frida. Getting newborn gifts from our neighbours Raye and Kevin
+16S - Shovelling out of a once every three year storm to get fresh daal and rice from mum downstairs
+17M - Visit from lactation consultant Marion who says we're OK to ease off pumping. Yay, we'll take it!
+18T - Auntie Shannon came over to get us groceries and make turkey pasta for us to be nourished this week
+19W - Starting to watch Yellowstone together. Taking inkprints of Khivi's hand and foot for the baby book. Picking up Thursday Murder Club again.
+20T - Mum having her first hang with Khivi, her first kara and najjar cleansing. Great day
+21F - Staying up all night with Khivi in my arms. She must be having a growth spurt
+22S - Switching to a strict 2-hour feeding and 3-hour pumping schedule to get Khivi's weight up faster
+23S - Marion visiting to check on Khivi's weight and seeing she's gaining weight but we need to keep going!
+24M - Getting baby clothes from Mark and Tina and Khivi's first valentine's card from Melissa. Love from Cali!
+25T - Meeting Dr Aubin: Sarah's family doctor and now she's Khivi's too! I'm sure I'll be at her office often :P
+26W - Lesley and Steph coming over to check-in on us and reliving the wild day of Khivi's birth (water bottle!)
+27T - Khivi weighed in at 6 pounds today! Our new feeding protocol is working well and we'll keep it going
+28F - Starting tummy time with Khivi and seeing her 1st social smile (eyes open). It's exciting that we now have an activity to do wit her that isn't feeding!
 ### Outlook:
-Potato will be born this month & finally get a real name. Email need scramble to keep work stable post on leave. Support Sarah through pregnancy, maternity. Become a father.
+Potato will be born this month & finally get a real name! Final scramble to keep work stable into pat leave. Supporting Sarah through labour, whatever form it takes. Becoming a father.
 
 ### Review:
-A blood show followed by a 12 hour labour. Trying to take as many photos & videos as possible to remember so much early days. Work chugging along. I can officially a Dad. Here comes everything.
+A 'bloody show' followed by a 12 hour labour. Both deciding on Khivi as Potato's name simultaneously. Trying to take as many photos and videos as possible to remember these early days. Work doing OK with only a few notes of guidance to Bernard. Holding a hot water bottle against Sarah's back for the entire labour. I am offcially a dad! Here comes everything.
 
-[Multiple daily entries for February documenting baby care, visits from family and friends, adjusting to parenthood]
+06FEB: I'm holding Khivi while Sarah tries to get an hour of sleep. I'm repeating "Waheguru ji ki fateh" as it's the only words soothing her. Fitting. I'm so proud of Sarah fulfilling her desire to have an unmedicated birth. We're sleep deprived but want to record every moment.
 
----
+11FEB: It's 8:34pm and I've just put Khivi to bed beside Sarah. Khivi turned one week old today and she looks cuter than ever. The past week has meant 3 nights in hospital, 5% of our usual sleep, blood tests for mom and baby, stress and clues. But it has also meant exhilaration, joy, laughs, cries, hugs, cuddles and warmth. Right now the split is 50/50 between highs and lows, but we know the first two weeks are the toughest part. We couldn't have done it without a village:
 
+- Holly, Melanie and Marie-Christine keeping Sarah physically fit and well
+- Steph, Leslie and Illiana as her doula team
+- Dr. Maxim for enabling an unmedicated birth
+- Dr. Morency for being a kind OB
+- McKayla and Layi as our delivery nurses
+- The nurses in the mat ward: too sleep deprived to get names right
+- Pamela and Sabrina in the nursery
+- Dr. Patel the pediatrician
+- Lea who drove us home from the hospital
+- Michael and Anu who came over soon after
+- Our families praying and cheering us on
+
+Here's to a blessed week. Thank you all.
+
+15FEB: New parenthood has meant rapidly onboarding new protocols to create the superstructures of my life. The old protocols were focused on personal development whereas these are about sustaining new life. They cover adult sleep, time management, prioritization and networks. They als cover infant sleep, feeding, diapers, routines, postpartum care etc. These new protocols are happening during pat leave, which has been crucial to their proper installation. This is great fodder for an article.
+
+19FEB: This was Khivi's due date. Somewhere, there's another universe where we're pacing through the house wondering when she'll come. This last 15 days feel like bonus time we've gotten with her. In the final tally of my life, two more weeks will have been spent with Khivi out of the womb. That feels like a deal. Happy due day Khivi!
+
+23FEB: Emily came over today to help us pack Sarah's equipment in boxes. It was super helpful. Now, her and Sarah are catching up in the kitchen. Yesterday, Marion put us on a premie feeding plan every 2 hours. We thus switched up our sleep plan to both sleep as able to. I'm happy to report that it was the best sleep night yet. I am 10/10 awake at any time now, which was our biggest sticking point prior to today. Now, we're awaiting Marion's arrival to weigh Khivi and see how our 'bottle offensive' is going! Hoping she's gained more precious ounces.
+
+28FEB: Khivi's birth month is coming to a close. I'm eating daal made by mum in the kitchen while Sarah has a supportive call with Franke in the dining room while Khivi sleeps off her latest feeding in the bedroom. Now we're seated at the table having lunch and chatting with Natalie, a great nurse from the CLSC. Our medical appointments are set to continue but they've been great to get the best support for Khivster. Sarah is healing well and her stitches are fine. Breastfeeding and night time routine will be our biggest challenges going forward. This will be a month I will remember forever and will change my life irrevocably. I'm glad I have a few select memories to look back on in the near and distant future. Onwards!
 ## March
 
+1S - Finding the perfect bassinet attachment on sale on our block and going to pick it up for spring walks to come.
+2S - Trying to adapt Khivi's wake schedule for more naptime sleep. Anu coming over to cook us dinner.
+3M - Taking Khivi to Natasha, her new chiropractor and learning how to ease her tension, followed by her having a giant poop!
+4T - Our first stroller walk to Centre street -> getting a sandwich at Clarks with a latte. Feeling optimistic
+5W - Ordering Kioko for our wedding anniversary. Giviing Khivi her first real bath followed by my two girls napping peacefully.
+6T - Getting a late night call the night prior that Manveer had died on a trip to Thailand. Rest In Pease.
+7F - Having the best unassisted sleep since having Khivi. Calling Manveer's mum to give condolences and regretting his fate.
+8S - A tense moment with Sarah reminded me to trust her and confide that I'm feeling tired and stressed. We're in it together.
+9S - Getting a banquet of homemade food from Misha, who came over to help us today and sign the baby book.
+10M - 
+
+**CONTINUE**
 ### Outlook:
 2 more weeks of pat leave. Getting ready to transition back to work & calling Jazz consultant. Extension. Support Sarah's transition to solo say time. Parents will our extended networks.
 
