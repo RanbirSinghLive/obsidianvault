@@ -9,3 +9,10 @@ tsconfig.tsbuildinfo
 private/
 .replit
 replit.nix
+
+/content/.smart-env
+/content/.claude
+/content/.keep-the-rhyhtm
+/content/.claude
+/content/90 Templates/Templater/
+/content/90 Templates/

@@ -85,34 +85,37 @@ The pipeline includes a Kanban board at `10 Workbench/Essay Pipeline.md`.
 
 - **Kanban** - For the board itself
 
-### Automatic Sync (Pipeline → Kanban)
+### How It Works
 
-The pipeline **automatically rebuilds the Kanban** after processing essays. No manual step needed.
+**You control the workflow** by manually dragging cards between columns:
 
-When the pipeline runs:
-1. Essays advance stages, frontmatter updates
-2. Pipeline rebuilds `Essay Pipeline.md` from scratch
-3. Cards appear in correct columns based on `status:`
+1. Create files in `10 Workbench/` with your ideas
+2. Add wiki links (`[[Filename]]`) to the Ideas column on the Kanban
+3. Pipeline runs → agents process files based on their column position
+4. When ready for the next stage, **you drag the card** to the next column
+5. Pipeline runs again → next agent processes the file
 
-### Manual Sync (Kanban → Essays)
+**The Kanban column position is the single source of truth.** No `status:` field syncing needed.
 
-If you drag cards manually on the Kanban, use the Templater script to sync back:
+### Column-to-Agent Mapping
 
-| Script | Hotkey suggestion | What it does |
-|--------|-------------------|--------------|
-| `Sync Essay Status From Kanban.md` | `Cmd+Shift+K` | Updates essay frontmatter to match Kanban position |
+| Kanban Column | Agent | What It Does |
+|---------------|-------|--------------|
+| Ideas | Idea Agent | Brainstorms concepts, generates questions to explore |
+| Research | Research Agent | Finds sources and background information |
+| Drafting | Draft Agent | Writes first draft based on research |
+| Editing | Edit Agent | Provides editorial feedback and suggestions |
+| Publish | Publish Agent | Prepares publication checklist |
 
-**Setup:** Templater settings → Template Hotkeys → Add the script
+### Rebuild Kanban Script
 
-### Column Mapping
+Use the Templater script to rebuild the Kanban while preserving file positions:
 
-| Kanban Column | Frontmatter Status |
-|---------------|-------------------|
-| Ideas | `idea` |
-| Research | `research` |
-| Drafting | `draft` |
-| Editing | `edit` |
-| Published | `published` |
+| Script | What it does |
+|--------|--------------|
+| `Rebuild Kanban From Essays.md` | Scans Workbench folder and adds new files to Kanban (preserves existing positions) |
+
+**Setup:** Templater settings → Template Hotkeys (optional)
 
 ---
 
@@ -120,46 +123,63 @@ If you drag cards manually on the Kanban, use the Templater script to sync back:
 
 ### 1. Create a New Essay
 
-Use the template in `90 Templates/Essay Template.md`:
-- Create a new file in `10 Workbench/Essays/`
-- Set `status: idea` in frontmatter
-- Write your initial idea in "The Idea" section
+Two ways to start:
+
+**Option A: Direct creation**
+- Create a new file in `10 Workbench/` with your initial notes
+- Add `[[Filename]]` to the Ideas column on the Kanban
+- Pipeline will add brainstorming when it runs
+
+**Option B: Use template**
+- Use the template in `90 Templates/Essay Template.md`
+- Create file in `10 Workbench/`
+- Add to Kanban Ideas column
 
 ### 2. Pipeline Stages
 
-| Status | What Happens | Callout Added |
-|--------|--------------|---------------|
-| `idea` | Research agent finds sources | `[!research]` |
-| `research` | Draft agent writes first draft | `[!draft]` |
-| `draft` | Edit agent reviews and suggests | `[!edit]` |
-| `edit` | Publish agent prepares metadata | `[!publish]` |
+| Column | Agent | Callout Added | What It Does |
+|--------|-------|---------------|--------------|
+| Ideas | Idea Agent | `[!idea]` | Brainstorms related concepts and questions |
+| Research | Research Agent | `[!research]` | Finds sources and background info |
+| Drafting | Draft Agent | `[!draft]` | Writes first draft |
+| Editing | Edit Agent | `[!edit]` | Reviews and suggests improvements |
+| Publish | Publish Agent | `[!publish]` | Prepares publication checklist |
 
-### 3. Review AI Work
+### 3. Moving Through Stages
+
+1. Pipeline runs and processes files in their current columns
+2. Review the AI-generated callout
+3. **When ready**, manually drag the card to the next column
+4. Next pipeline run will process it with the next agent
+
+**You control when files move forward.** Agents only add content, they don't move cards.
+
+### 4. Review AI Work
 
 After each run, check the callouts:
 - Incorporate what's useful
 - Delete callouts you don't want
 - The pipeline won't recreate deleted callouts (it checks for existence)
 
-### 4. Move Backwards
+### 5. Move Backwards or Skip Stages
 
-Want to redo a stage?
-1. Delete the relevant callout
-2. Set `status` back to the previous stage
-3. Pipeline will regenerate on next run
+Want to redo a stage or skip ahead?
+1. Delete the relevant callout (e.g., delete `[!draft]` to regenerate)
+2. Drag the card to the desired column
+3. Pipeline will process it according to its new column position
 
 ---
 
 ## Customization
 
 ### Change Target Folder
-Edit `SKILL.md` and `run-essay-pipeline.sh` to point to a different folder.
+Edit `Essay Pipeline - SKILL.md` in `90 Templates/Agents/` and `run-essay-pipeline.sh` to point to a different folder.
 
 ### Add Custom Callout Types
-Edit the agent files in `.claude/skills/essay-pipeline/` to add new callout types.
+Edit the agent files in `90 Templates/Agents/` to add new callout types.
 
 ### Adjust Agent Behavior
-Each agent file (`research-agent.md`, etc.) has detailed instructions you can modify.
+Each agent file (`Research Agent.md`, `Draft Agent.md`, etc.) in `90 Templates/Agents/` has detailed instructions you can modify.
 
 ---
 
@@ -172,11 +192,16 @@ Each agent file (`research-agent.md`, etc.) has detailed instructions you can mo
 
 **Agent overwrites callouts:**
 - This shouldn't happen. Check the SKILL.md detection logic.
-- Ensure callouts use exact format: `> [!research]` (with the `>` prefix)
+- Ensure callouts use exact format: `> [!idea]`, `> [!research]`, etc. (with the `>` prefix)
+
+**Files not being processed:**
+- Check that files are linked in the Kanban with `[[double brackets]]`
+- Plain text items without links won't be processed
+- Check the pipeline reads the Kanban file correctly
 
 **Wrong voice in drafts:**
 - Add more of your writing samples to the essay's Notes section
-- Edit `draft-agent.md` to emphasize voice matching
+- Edit `Draft Agent.md` to emphasize voice matching
 
 ---
 
@@ -185,22 +210,23 @@ Each agent file (`research-agent.md`, etc.) has detailed instructions you can mo
 ```
 quartz/content/
 ├── .claude/
-│   ├── skills/essay-pipeline/
-│   │   ├── SKILL.md           # Orchestrator
-│   │   ├── research-agent.md  # Stage 1
-│   │   ├── draft-agent.md     # Stage 2
-│   │   ├── edit-agent.md      # Stage 3
-│   │   └── publish-agent.md   # Stage 4
 │   ├── run-essay-pipeline.md  # Prompt file
 │   ├── pipeline-runs.log      # Run history
 │   └── SETUP.md               # This file
 ├── 10 Workbench/
-│   ├── Essays/                # Your essays live here
+│   ├── *.md                   # Your essays live here
 │   └── Essay Pipeline.md      # Kanban board
 ├── 90 Templates/
 │   ├── Essay Template.md      # Template for new essays
+│   ├── Agents/
+│   │   ├── Essay Pipeline - SKILL.md  # Orchestrator
+│   │   ├── Idea Agent.md              # Ideas column
+│   │   ├── Research Agent.md          # Research column
+│   │   ├── Draft Agent.md             # Drafting column
+│   │   ├── Edit Agent.md              # Editing column
+│   │   └── Publish Agent.md           # Publish column
 │   └── Templater/
-│       ├── Sync Essay Status From Kanban.md
+│       ├── Sync Essay Status From Kanban.md  # DEPRECATED
 │       └── Rebuild Kanban From Essays.md
 └── run-essay-pipeline.sh      # Runner script
 ```

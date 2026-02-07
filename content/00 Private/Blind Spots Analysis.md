@@ -88,6 +88,6 @@ At 35, with 15 years invested in *The Flamingos Fly*, you're running out of time
 - [[The Flamingos Fly]]
 - [[Dorian's Bunker]]
 - [[Mismatchmaking]]
-- [[Newsletter]]
+- [[Cards/Newsletter]]
 - [[Risk+Reward as a 2nd Gen Immigrant]]
 - [[Kids Take Us Backwards and Then Upwards]]

@@ -4,9 +4,9 @@ kindle-sync:
   title: 'The Scaling Era: An Oral History of AI, 2019–2025'
   author: Dwarkesh Patel and Gavin Leech
   asin: B0F22SKW5Y
-  lastAnnotatedDate: '2025-04-07'
-  bookImageUrl: 'https://m.media-amazon.com/images/I/71w47L7YyhL._SY160.jpg'
-  highlightsCount: 85
+  lastAnnotatedDate: '2025-06-08'
+  bookImageUrl: 'https://m.media-amazon.com/images/I/61ZWpYv2uPL._SY160.jpg'
+  highlightsCount: 98
 ---
 # The Scaling Era
 ## Metadata
@@ -248,6 +248,45 @@ We want AI agents that can discover like we can, not ones that contain what we h
 
 ---
 For a language model, the truth is that which keeps on predicting well, because truth is one and error many. — location: [3210](kindle://book?action=open&asin=B0F22SKW5Y&location=3210) ^ref-6963
+
+---
+The last bits are deepest. The implication here is that the final few bits are the most valuable bits, which require the most of what we think of as intelligence. A helpful analogy here might be our own actions. For the most part, all humans execute actions equally well. We can all pick up a tea mug without dropping it and lift our legs to walk down thousands of steps without falling even once. For everyday actions (the sort that make up most of a corpus), anybody, of any intelligence, can get enough practice and feedback to do them quite well, learning individual algorithms to solve each class of problems extremely well in isolation.268 Meanwhile, for rare problems, there may be too few instances to do any better than memorize the answer. In the middle of the spectrum are problems that are similar but not too similar to other problems; these are the sorts of problems that reward flexible meta-learning and generalization, and many intermediate problems may be necessary to elicit those capabilities (“Neural nets are lazy”). — location: [3217](kindle://book?action=open&asin=B0F22SKW5Y&location=3217) ^ref-15353
+
+---
+Self-play worked with AlphaGo because the model could judge itself based on a concrete win condition: Did I win this game of Go? But novel reasoning doesn’t have a concrete win condition. As a result, just as you would expect, LLMs are so far incapable of correcting their own reasoning. — location: [3305](kindle://book?action=open&asin=B0F22SKW5Y&location=3305) ^ref-22359
+
+---
+Add all these together, and you can probably convert 1 percent of GDP into a GPT-8 level model. — location: [3427](kindle://book?action=open&asin=B0F22SKW5Y&location=3427) ^ref-46524
+
+---
+For context on how much societies are willing to spend on new general-purpose technologies: British railway investment at its peak in 1847 was a staggering 7 percent of GDP.297 “In the five years after the Telecommunications Act of 1996 went into effect, telecommunications companies invested more than $500 billion [almost a trillion in today’s value]… into laying fiber-optic cable, adding new switches, and building wireless networks.”298 — location: [3428](kindle://book?action=open&asin=B0F22SKW5Y&location=3428) ^ref-51509
+
+---
+You know the story from there: millions of GPT-8 copies coding up kernel improvements, finding better hyperparameters, giving themselves boatloads of high-quality feedback for fine-tuning… This makes it much cheaper and easier to develop GPT-9. Extrapolate this out to the singularity. — location: [3437](kindle://book?action=open&asin=B0F22SKW5Y&location=3437) ^ref-31720
+
+---
+If you train an LLM on code, it becomes better at reasoning in language.300 This is a really stunning fact. — location: [3444](kindle://book?action=open&asin=B0F22SKW5Y&location=3444) ^ref-48895
+
+---
+the model has squeezed out some deep general understanding of how to think from reading a shit ton of code—that not only is there some shared logical structure between language and code, but unsupervised learning can extract this structure and make use of it to be be able to reason better. — location: [3446](kindle://book?action=open&asin=B0F22SKW5Y&location=3446) ^ref-20617
+
+---
+The usual pattern in the history of technology is that invention precedes theory. We should expect the same of intelligence. There’s not some law of physics that says Moore’s law must continue. In fact, there are always new practical hurdles that imply the end of Moore’s law. Yet every couple of years, researchers at TSMC, Intel, AMD, etc. figure out how to solve those problems and give the decades-long trend an extra lease on life. — location: [3461](kindle://book?action=open&asin=B0F22SKW5Y&location=3461) ^ref-46731
+
+---
+So, my tentative probabilities are: 70 percent that scaling plus algorithmic progress plus hardware advances will get us to AGI by 2040, and 30 percent that the skeptic is right that LLMs, and anything even roughly in that vein, are fucked. — location: [3484](kindle://book?action=open&asin=B0F22SKW5Y&location=3484) ^ref-6989
+
+---
+This suggests that there’s some primate neural architecture that’s really scalable in comparison to the brains of other kinds of species, analogous to how Transformers have better scaling curves than LSTMs and RNNs.305 — location: [3516](kindle://book?action=open&asin=B0F22SKW5Y&location=3516) ^ref-21716
+
+---
+But the driving insight of the post-2017 AI revolution was not about any particular way of getting more output per unit of input. It was more basic than that. It was the realization that the input-output relationship exists at all. — location: [3538](kindle://book?action=open&asin=B0F22SKW5Y&location=3538) ^ref-45545
+
+---
+If you forced modern ML developers to work with 2016-era computers, they would not be able to make 2024-quality AI, even with all their knowledge of Transformers and so on. The simple input-output relation is king. You cannot make 4,500 kg of soap from 450g of oil. But if you took away the Transformer and every specific software advance like it while retaining 2024-level hardware and 2024-level understanding of how compute, data, algorithms, and performance relate to one another? The Transformer, or something equally good, would be reinvented soon enough. — location: [3584](kindle://book?action=open&asin=B0F22SKW5Y&location=3584) ^ref-2432
+
+---
+Next year is simply this year, plus a known rate of change multiplied by delta-t. Scale is all you need. — location: [3645](kindle://book?action=open&asin=B0F22SKW5Y&location=3645) ^ref-5230
 
 ---
 Ablate: To remove. An ablation study involves removing components of a successful system one at a time to determine which are most important to its performance. — location: [3648](kindle://book?action=open&asin=B0F22SKW5Y&location=3648) ^ref-64723

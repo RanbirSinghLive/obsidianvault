@@ -2477,7 +2477,7 @@
       },
       {
         "date": "2025-09-22",
-        "filePath": "10 Workbench/Newsletter.md",
+        "filePath": "10 Workbench/Essay Pipe.md",
         "wordCountStart": 52,
         "charCountStart": 395,
         "changes": [],
@@ -2532,7 +2532,7 @@
       },
       {
         "date": "2025-09-24",
-        "filePath": "10 Workbench/Newsletter.md",
+        "filePath": "10 Workbench/Essay Pipe.md",
         "wordCountStart": 60,
         "charCountStart": 435,
         "changes": [
@@ -3041,7 +3041,7 @@
       },
       {
         "date": "2025-10-06",
-        "filePath": "10 Workbench/Newsletter.md",
+        "filePath": "10 Workbench/Essay Pipe.md",
         "wordCountStart": 241,
         "charCountStart": 1612,
         "changes": [
@@ -10075,7 +10075,7 @@
       },
       {
         "date": "2026-01-23",
-        "filePath": "10 Workbench/Newsletter.md",
+        "filePath": "10 Workbench/Essay Pipe.md",
         "wordCountStart": 262,
         "charCountStart": 1732,
         "changes": [],
@@ -10745,7 +10745,7 @@
       },
       {
         "date": "2026-01-24",
-        "filePath": "10 Workbench/Newsletter.md",
+        "filePath": "10 Workbench/Essay Pipe.md",
         "wordCountStart": 262,
         "charCountStart": 1732,
         "changes": [],
@@ -10911,7 +10911,7 @@
       },
       {
         "date": "2026-01-27",
-        "filePath": "10 Workbench/Sandra 2025.md",
+        "filePath": "00 Private/Sandra 2025.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -10940,7 +10940,7 @@
       },
       {
         "date": "2026-01-27",
-        "filePath": "10 Workbench/Bernard 2025.md",
+        "filePath": "00 Private/Bernard 2025.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -11279,7 +11279,7 @@
       },
       {
         "date": "2026-02-02",
-        "filePath": "10 Workbench/Sandra 2025.md",
+        "filePath": "00 Private/Sandra 2025.md",
         "wordCountStart": 1136,
         "charCountStart": 35384,
         "changes": [],
@@ -11330,7 +11330,7 @@
       },
       {
         "date": "2026-02-03",
-        "filePath": "10 Workbench/Bernard 2025.md",
+        "filePath": "00 Private/Bernard 2025.md",
         "wordCountStart": 1309,
         "charCountStart": 49806,
         "changes": [],
@@ -11470,6 +11470,382 @@
           }
         ],
         "id": 812
+      },
+      {
+        "date": "2026-02-06",
+        "filePath": "10 Workbench/AI Won't Take Your Job, But It Will Unbundle It.md",
+        "wordCountStart": 871,
+        "charCountStart": 4948,
+        "changes": [
+          {
+            "timeKey": "17:05",
+            "w": 1,
+            "c": -2
+          },
+          {
+            "timeKey": "21:40",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "21:55",
+            "w": 214,
+            "c": 1249
+          },
+          {
+            "timeKey": "22:00",
+            "w": -214,
+            "c": -1250
+          }
+        ],
+        "id": 813
+      },
+      {
+        "date": "2026-02-06",
+        "filePath": "90 Templates/Daily Template.md",
+        "wordCountStart": 24,
+        "charCountStart": 179,
+        "changes": [],
+        "id": 814
+      },
+      {
+        "date": "2026-02-06",
+        "filePath": "90 Templates/Essay Template.md",
+        "wordCountStart": 58,
+        "charCountStart": 440,
+        "changes": [],
+        "id": 815
+      },
+      {
+        "date": "2026-02-06",
+        "filePath": "90 Templates/Evergreen Checklist.md",
+        "wordCountStart": 89,
+        "charCountStart": 516,
+        "changes": [],
+        "id": 816
+      },
+      {
+        "date": "2026-02-06",
+        "filePath": "90 Templates/Newsletter.md",
+        "wordCountStart": 301,
+        "charCountStart": 2045,
+        "changes": [],
+        "id": 817
+      },
+      {
+        "date": "2026-02-06",
+        "filePath": "90 Templates/Note Template.md",
+        "wordCountStart": 11,
+        "charCountStart": 98,
+        "changes": [],
+        "id": 818
+      },
+      {
+        "date": "2026-02-06",
+        "filePath": "90 Templates/Weekly Template.md",
+        "wordCountStart": 47,
+        "charCountStart": 295,
+        "changes": [],
+        "id": 819
+      },
+      {
+        "date": "2026-02-06",
+        "filePath": "90 Templates/Scene Template.md",
+        "wordCountStart": 14,
+        "charCountStart": 111,
+        "changes": [],
+        "id": 820
+      },
+      {
+        "date": "2026-02-06",
+        "filePath": "90 Templates/Templater/Rebuild Kanban From Essays.md",
+        "wordCountStart": 239,
+        "charCountStart": 1997,
+        "changes": [],
+        "id": 821
+      },
+      {
+        "date": "2026-02-06",
+        "filePath": "90 Templates/Templater/Sync Essay Status From Kanban.md",
+        "wordCountStart": 305,
+        "charCountStart": 2482,
+        "changes": [],
+        "id": 822
+      },
+      {
+        "date": "2026-02-06",
+        "filePath": "10 Workbench/Essays/Example Essay Idea.md",
+        "wordCountStart": 61,
+        "charCountStart": 394,
+        "changes": [],
+        "id": 823
+      },
+      {
+        "date": "2026-02-06",
+        "filePath": "10 Workbench/Untitled.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "17:05",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 824
+      },
+      {
+        "date": "2026-02-06",
+        "filePath": "10 Workbench/Essay Pipe.md",
+        "wordCountStart": 262,
+        "charCountStart": 1732,
+        "changes": [],
+        "id": 825
+      },
+      {
+        "date": "2026-02-06",
+        "filePath": "10 Workbench/My 1st Letter To You.md",
+        "wordCountStart": 52,
+        "charCountStart": 253,
+        "changes": [],
+        "id": 826
+      },
+      {
+        "date": "2026-02-06",
+        "filePath": "10 Workbench/Jackal.md",
+        "wordCountStart": 331,
+        "charCountStart": 1773,
+        "changes": [],
+        "id": 827
+      },
+      {
+        "date": "2026-02-06",
+        "filePath": "10 Workbench/Hydrogen - The Second Pillar of the Propulsion Revolution.md",
+        "wordCountStart": 1781,
+        "charCountStart": 12175,
+        "changes": [],
+        "id": 828
+      },
+      {
+        "date": "2026-02-06",
+        "filePath": "10 Workbench/Highlights From Reading.md",
+        "wordCountStart": 32,
+        "charCountStart": 204,
+        "changes": [],
+        "id": 829
+      },
+      {
+        "date": "2026-02-06",
+        "filePath": "10 Workbench/Essay Pipeline.md",
+        "wordCountStart": 32,
+        "charCountStart": 280,
+        "changes": [],
+        "id": 830
+      },
+      {
+        "date": "2026-02-06",
+        "filePath": "10 Workbench/AI Scaling Board Game.md",
+        "wordCountStart": 1887,
+        "charCountStart": 11513,
+        "changes": [],
+        "id": 831
+      },
+      {
+        "date": "2026-02-06",
+        "filePath": "40 Reference/The E-Myth Revisited.md",
+        "wordCountStart": 707,
+        "charCountStart": 4529,
+        "changes": [],
+        "id": 832
+      },
+      {
+        "date": "2026-02-06",
+        "filePath": "40 Reference/The First 90 Days.md",
+        "wordCountStart": 1407,
+        "charCountStart": 10096,
+        "changes": [],
+        "id": 833
+      },
+      {
+        "date": "2026-02-07",
+        "filePath": "40 Reference/Kindle/Choudary-Reshuffle.md",
+        "wordCountStart": 602,
+        "charCountStart": 4091,
+        "changes": [],
+        "id": 844
+      },
+      {
+        "date": "2026-02-07",
+        "filePath": "40 Reference/Omnivore/2023-04-26/One Big Web- A Few Ways the World Works · Collab Fund.md",
+        "wordCountStart": 300,
+        "charCountStart": 2131,
+        "changes": [],
+        "id": 845
+      },
+      {
+        "date": "2026-02-07",
+        "filePath": "10 Workbench/AI Won't Take Your Job, But It Will Unbundle It.md",
+        "wordCountStart": 872,
+        "charCountStart": 4945,
+        "changes": [],
+        "id": 846
+      },
+      {
+        "date": "2026-02-07",
+        "filePath": "10 Workbench/AI Scaling Board Game.md",
+        "wordCountStart": 1887,
+        "charCountStart": 11513,
+        "changes": [],
+        "id": 847
+      },
+      {
+        "date": "2026-02-07",
+        "filePath": "10 Workbench/Essay Pipeline.md",
+        "wordCountStart": 43,
+        "charCountStart": 336,
+        "changes": [
+          {
+            "timeKey": "09:35",
+            "w": -43,
+            "c": -336
+          },
+          {
+            "timeKey": "10:30",
+            "w": 1,
+            "c": 9
+          }
+        ],
+        "id": 848
+      },
+      {
+        "date": "2026-02-07",
+        "filePath": "10 Workbench/CPAs Beyond 2035.md",
+        "wordCountStart": 21,
+        "charCountStart": 141,
+        "changes": [],
+        "id": 849
+      },
+      {
+        "date": "2026-02-07",
+        "filePath": "10 Workbench/Highlights From Reading.md",
+        "wordCountStart": 32,
+        "charCountStart": 204,
+        "changes": [],
+        "id": 850
+      },
+      {
+        "date": "2026-02-07",
+        "filePath": "10 Workbench/Hydrogen - The Second Pillar of the Propulsion Revolution.md",
+        "wordCountStart": 1781,
+        "charCountStart": 12175,
+        "changes": [],
+        "id": 851
+      },
+      {
+        "date": "2026-02-07",
+        "filePath": "10 Workbench/Jackal.md",
+        "wordCountStart": 331,
+        "charCountStart": 1773,
+        "changes": [],
+        "id": 852
+      },
+      {
+        "date": "2026-02-07",
+        "filePath": "10 Workbench/Essay Pipe.md",
+        "wordCountStart": 262,
+        "charCountStart": 1732,
+        "changes": [
+          {
+            "timeKey": "09:55",
+            "w": -262,
+            "c": -1732
+          }
+        ],
+        "id": 853
+      },
+      {
+        "date": "2026-02-07",
+        "filePath": "10 Workbench/My 1st Letter To You.md",
+        "wordCountStart": 52,
+        "charCountStart": 253,
+        "changes": [],
+        "id": 854
+      },
+      {
+        "date": "2026-02-07",
+        "filePath": "10 Workbench/Essays/Example Essay Idea.md",
+        "wordCountStart": 61,
+        "charCountStart": 394,
+        "changes": [
+          {
+            "timeKey": "09:40",
+            "w": -61,
+            "c": -394
+          }
+        ],
+        "id": 855
+      },
+      {
+        "date": "2026-02-07",
+        "filePath": "Cards/Dorian's Bunker/Dorian's Bunker/Index.md",
+        "wordCountStart": 18,
+        "charCountStart": 165,
+        "changes": [],
+        "id": 856
+      },
+      {
+        "date": "2026-02-07",
+        "filePath": "40 Reference/Algorithms to Live By.md",
+        "wordCountStart": 1641,
+        "charCountStart": 10514,
+        "changes": [],
+        "id": 857
+      },
+      {
+        "date": "2026-02-07",
+        "filePath": "10 Workbench/Example Essay Idea.md",
+        "wordCountStart": 61,
+        "charCountStart": 394,
+        "changes": [
+          {
+            "timeKey": "10:10",
+            "w": -61,
+            "c": -394
+          }
+        ],
+        "id": 858
+      },
+      {
+        "date": "2026-02-07",
+        "filePath": "90 Templates/Agents/Draft Agent.md",
+        "wordCountStart": 344,
+        "charCountStart": 2356,
+        "changes": [],
+        "id": 859
+      },
+      {
+        "date": "2026-02-07",
+        "filePath": "90 Templates/Agents/Research Agent.md",
+        "wordCountStart": 282,
+        "charCountStart": 1928,
+        "changes": [],
+        "id": 860
+      },
+      {
+        "date": "2026-02-07",
+        "filePath": "90 Templates/Agents/Essay Pipeline - SKILL.md",
+        "wordCountStart": 708,
+        "charCountStart": 4896,
+        "changes": [],
+        "id": 861
+      },
+      {
+        "date": "2026-02-07",
+        "filePath": "90 Templates/Agents/Edit Agent.md",
+        "wordCountStart": 381,
+        "charCountStart": 2683,
+        "changes": [],
+        "id": 862
       }
     ]
   }

@@ -1,8 +1,6 @@
-I hear a lot of fear about AI from folks in my circles. The themes is being wholesale replaced by AI. I think the root of this anxiety comes from two places. Not understanding how current AI works and what it's trend forecasted to do in pragmatic forecasts. The second is looking at yourself as a two part bundle you plus your current job. The first fear can't be assuaged in a short essay but the second definitely can.
+I hear a lot of fearful AI takes from colleagues, all centred on the same theme: being wholesale replaced by AI. I think the root of this anxiety comes from two places. First, not understanding how the latest AI works. Second, viewing yourself as a simple two-piece bundle—you plus your current job. The first fear can't be assuaged in a short essay, but the second definitely can.
 
-AI refactors code by breaking down components into parts and deleting, adding, and reconstituting the new components. Since [[Everything Is A Codebase]], it will look at you in the same way. And it'll be wise to thing so.
-
-Your job is actually a bundle of tasks for a while you possess a bundle of skills. AI will break each down and reconstitute new wholes.
+AI refactors code by breaking down components into parts and deleting, adding, and reconstituting the new components. Since [[Everything Is A Codebase]], it will look at you in the same way. And it'll be wise to thing so. Your job is actually a bundle of tasks for a while you possess a bundle of skills. AI will break each down and reconstitute new wholes.
 
 Until the 1970's large firms had dedicated pools of typists, sometimes numbering in the hundreds. Executives would handwrite deals and send them to the typists, routed based in priority, specialization, and skill level. The typists would transcribe the deal on carbon paper and send it back.
 

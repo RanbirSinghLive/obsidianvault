@@ -25,7 +25,7 @@ cd "$VAULT_PATH"
 claude --print \
   --dangerously-skip-permissions \
   --allowedTools "Read,Write,Edit,Glob,Grep,WebSearch,WebFetch" \
-  "Read .claude/skills/essay-pipeline/SKILL.md and execute the essay pipeline for all files in '10 Workbench/Essays/'. Process each essay according to its current status. Log what you do." \
+  "Read '90 Templates/Agents/Essay Pipeline - SKILL.md' and execute the essay pipeline for all files in '10 Workbench/'. Process each essay according to its current status. Log what you do." \
   2>&1 | tee -a "$LOG_FILE"
 
 echo "" >> "$LOG_FILE"

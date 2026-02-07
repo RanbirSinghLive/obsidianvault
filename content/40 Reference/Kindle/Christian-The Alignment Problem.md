@@ -4,9 +4,9 @@ kindle-sync:
   title: 'The Alignment Problem: Machine Learning and Human Values'
   author: Brian Christian
   asin: B085T55LGK
-  lastAnnotatedDate: '2025-04-17'
+  lastAnnotatedDate: '2025-06-29'
   bookImageUrl: 'https://m.media-amazon.com/images/I/91AyH08s4JL._SY160.jpg'
-  highlightsCount: 32
+  highlightsCount: 33
 ---
 # The Alignment Problem
 ## Metadata
@@ -112,5 +112,9 @@ Indeed, uncareful deployment of these models might produce a feedback loop from 
 
 ---
 They spent the entire day talking. By lunchtime, as they sat down together in beloved local restaurant Chez Panisse, they had landed on the topic of fairness. Dwork recalls: “In order that the people around us wouldn’t be disconcerted by our discussions of racism and sexism, we were using terms like ‘purple ties’ and ‘striped shirts,’ and stuff like that. But by lunchtime we were . . . we were on to this.” — location: [1154](kindle://book?action=open&asin=B085T55LGK&location=1154) ^ref-38665
+
+---
+
+looking. This idea in machine learning — location: [1947](kindle://book?action=open&asin=B085T55LGK&location=1947) ^ref-30486
 
 ---
