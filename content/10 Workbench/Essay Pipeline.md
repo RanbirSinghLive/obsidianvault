@@ -6,13 +6,7 @@ kanban-plugin: board
 
 ## Ideas
 
-- [ ] [[2025 Bullet Journal]]
-- [ ] [[2025_Tax_Document_Checklist]]
-- [ ] [[AI Scaling Board Game]]
-- [ ] [[CPAs Beyond 2035]]
 - [ ] [[Highlights From Reading]]
-- [ ] [[Jackal]]
-- [ ] [[My 1st Letter To You]]
 - [ ] Pooling batteries like BYD in China
 - [ ] Consolidation and Capital in VTOLS
 - [ ] Practical takeaway for an operator • Plan on a pack refresh every 3–4 years and apower-unitrefresh every 8–10, with measurable performance and utilization gains each cycle. • Treat your airplane like a platform:performance is a moving target during the steep S-curve unlike combustion fleets where block fuel barely budges post-EIS. Optimize mission design (stage length, reserves, alternates, charge windows) alongside hardware; software + ops can deliver 10–15% effective gains with 0 mass change.
@@ -33,16 +27,15 @@ kanban-plugin: board
 
 ## Drafting
 
-- [ ] [[Hydrogen - The Second Pillar of the Propulsion Revolution]]
 
 
 ## Editing
 
-- [ ] [[AI Won't Take Your Job, But It Will Unbundle It]]
 
 
 ## Publish
 
+- [ ] [[AI Won't Take Your Job, But It Will Unbundle It]]
 
 
 

@@ -1,4 +1,6 @@
-When humans first learned to make fire, everything must've looked like kindling. This is how my brain feels now after learning to write code in plain English. Coding agents are so good now that you need precisely zero programming ability to create [[It's Time to Make Software Artisanal|artisanal software.]] Learning to use one agent, Claude Code, prompted me to meditate on how much of daily life’s drudgery could be solved with code-based solutions. I ended up discovering something fundamental about how language and code work.
+#AI 
+
+When humans first learned to make fire, everything must've looked like kindling. This is how my brain feels now after learning to write code in plain English. Coding agents are so good now that you need precisely zero programming ability to create [[It's Time to Make Software Artisanal| artisanal software.]] Learning to use one agent, Claude Code, prompted me to meditate on how much of daily life’s drudgery could be solved with code-based solutions. I ended up discovering something fundamental about how language and code work.
 
 It turns out the syntax of code and language are the same. It's all verb + noun + condition.
 
