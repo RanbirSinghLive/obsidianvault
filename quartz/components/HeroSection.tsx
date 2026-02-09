@@ -24,9 +24,9 @@ const defaultCards: HeroCard[] = [
   },
   {
     number: "02",
-    title: "Dorian's Bunker",
-    description: "Speculative fiction in public",
-    link: "/Cards/Dorians-Bunker---Story-Bible",
+    title: "AI Essays",
+    description: "Essays on the intersection of AI, creativity, and the future of work",
+    link: "/tags/AI",
   },
   {
     number: "03",
