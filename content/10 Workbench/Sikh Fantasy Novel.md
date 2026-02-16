@@ -22,6 +22,21 @@
 - bring in Network planning with a cente of Sikh pilgrimage and a network planner making routes to take people to and from the holy site
 - Pilgrims and traders had to plan routes, secure lodgings, and carry provisions. Roads were often dangerous, so group travel for protection was common.
 
+10FEB26
+- Weave in John and the Maharajah plotlines
+- Weave in 3 Generations plotlines
+- Protagonist arc: from destitute to king to elder
+- The three religions 
+	- A three faced god who commands humans and djinn and angels. The warriors bond with djinn and the priests with angels. We don’t know if angels and djinn bond but there is a myth about it
+	- A pantheon of gods tied to a network of ancient wells. The wells are said to he connected underground. Keeping contiguous ones in the faith is said to enhance their collective power. This incentives the three facers to drive spearheads into territory, which conversely leaves them flank exposed. The three facers believe the djinn are beneath us so think the wellers are praying to demons
+	- The bookkeepers are an offshoot of the wellers who believe each well was a keep that housed a library, but the libraries fell away to ruin . The real holiness is the lost libraries and they keep them remembered by hording books and language. 
+	- These three tir in to 3 magic, djinn pairing (offensive), well magic (tbd) and language magic
+- John - white Doctor who journeys through our world to end up in the weller maharajahs court
+- The wellers have known peace and camt imagine war like canada
+- Have one of the races cast illusions that make reality questionable like current AI theme
+- The maharajah is head of the wellers
+- It all culminates in the creation of a new religion
+
 ---
 # Sikh-Inspired Fantasy World - Development
 This is a rich foundation with some genuinely compelling ideas. Let me help you build this out and find your protagonist.

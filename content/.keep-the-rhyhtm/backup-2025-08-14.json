@@ -84,7 +84,9 @@
       "2026-01-15",
       "2026-01-27",
       "2026-02-03",
-      "2026-02-04"
+      "2026-02-04",
+      "2026-02-10",
+      "2026-02-11"
     ],
     "dailyActivity": [
       {
@@ -12030,11 +12032,6 @@
             "c": 0
           },
           {
-            "timeKey": "07:35",
-            "w": 0,
-            "c": 0
-          },
-          {
             "timeKey": "07:40",
             "w": 2,
             "c": 7
@@ -12166,6 +12163,570 @@
           }
         ],
         "id": 876
+      },
+      {
+        "date": "2026-02-09",
+        "filePath": "10 Workbench/AI Won't Take Your Job, But It Will Unbundle It.md",
+        "wordCountStart": 890,
+        "charCountStart": 5199,
+        "changes": [
+          {
+            "timeKey": "17:30",
+            "w": -890,
+            "c": -5199
+          }
+        ],
+        "id": 877
+      },
+      {
+        "date": "2026-02-10",
+        "filePath": "10 Workbench/Sikh Fantasy Novel.md",
+        "wordCountStart": 1199,
+        "charCountStart": 7480,
+        "changes": [
+          {
+            "timeKey": "16:45",
+            "w": 48,
+            "c": 262
+          },
+          {
+            "timeKey": "16:55",
+            "w": 11,
+            "c": 60
+          },
+          {
+            "timeKey": "17:00",
+            "w": 31,
+            "c": 196
+          },
+          {
+            "timeKey": "17:05",
+            "w": 79,
+            "c": 462
+          },
+          {
+            "timeKey": "20:20",
+            "w": 3,
+            "c": 18
+          }
+        ],
+        "id": 878
+      },
+      {
+        "date": "2026-02-09",
+        "filePath": "Cards/Ranbir Singh.md",
+        "wordCountStart": 130,
+        "charCountStart": 711,
+        "changes": [],
+        "id": 879
+      },
+      {
+        "date": "2026-02-09",
+        "filePath": "10 Workbench/Home.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "11:35",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 880
+      },
+      {
+        "date": "2026-02-09",
+        "filePath": "Cards/It's Time to Make Software Artisanal.md",
+        "wordCountStart": 387,
+        "charCountStart": 2238,
+        "changes": [
+          {
+            "timeKey": "12:05",
+            "w": -11,
+            "c": -84
+          }
+        ],
+        "id": 881
+      },
+      {
+        "date": "2026-02-09",
+        "filePath": "Cards/Everything Is A Codebase.md",
+        "wordCountStart": 542,
+        "charCountStart": 3457,
+        "changes": [
+          {
+            "timeKey": "12:05",
+            "w": 1,
+            "c": 7
+          },
+          {
+            "timeKey": "12:10",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 882
+      },
+      {
+        "date": "2026-02-09",
+        "filePath": "10 Workbench/artisanal software..md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:10",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 883
+      },
+      {
+        "date": "2026-02-09",
+        "filePath": "00 Private/Hydrogen - The Second Pillar of the Propulsion Revolution.md",
+        "wordCountStart": 1781,
+        "charCountStart": 12175,
+        "changes": [],
+        "id": 884
+      },
+      {
+        "date": "2026-02-09",
+        "filePath": "10 Workbench/Essay Pipeline.md",
+        "wordCountStart": 255,
+        "charCountStart": 1693,
+        "changes": [],
+        "id": 885
+      },
+      {
+        "date": "2026-02-09",
+        "filePath": "Cards/Jackal.md",
+        "wordCountStart": 331,
+        "charCountStart": 1773,
+        "changes": [],
+        "id": 886
+      },
+      {
+        "date": "2026-02-09",
+        "filePath": "10 Workbench/My 1st Letter To You.md",
+        "wordCountStart": 52,
+        "charCountStart": 253,
+        "changes": [],
+        "id": 887
+      },
+      {
+        "date": "2026-02-09",
+        "filePath": "10 Workbench/Highlights From Reading.md",
+        "wordCountStart": 32,
+        "charCountStart": 204,
+        "changes": [],
+        "id": 888
+      },
+      {
+        "date": "2026-02-09",
+        "filePath": "10 Workbench/2025_Tax_Document_Checklist.md",
+        "wordCountStart": 938,
+        "charCountStart": 6494,
+        "changes": [],
+        "id": 889
+      },
+      {
+        "date": "2026-02-09",
+        "filePath": "00 Private/2025 Bullet Journal.md",
+        "wordCountStart": 3643,
+        "charCountStart": 19997,
+        "changes": [],
+        "id": 890
+      },
+      {
+        "date": "2026-02-09",
+        "filePath": "00 Private/AI Scaling Board Game.md",
+        "wordCountStart": 1887,
+        "charCountStart": 11513,
+        "changes": [],
+        "id": 891
+      },
+      {
+        "date": "2026-02-09",
+        "filePath": "00 Private/CPAs Beyond 2035.md",
+        "wordCountStart": 21,
+        "charCountStart": 141,
+        "changes": [],
+        "id": 892
+      },
+      {
+        "date": "2026-02-09",
+        "filePath": "10 Workbench/Solved Games.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "15:45",
+            "w": 100,
+            "c": 567
+          },
+          {
+            "timeKey": "16:05",
+            "w": 180,
+            "c": 1337
+          }
+        ],
+        "id": 893
+      },
+      {
+        "date": "2026-02-09",
+        "filePath": "10 Workbench/Sikh Fantasy Novel.md",
+        "wordCountStart": 1185,
+        "charCountStart": 7392,
+        "changes": [],
+        "id": 894
+      },
+      {
+        "date": "2026-02-10",
+        "filePath": "10 Workbench/Sikh Fantasy Novel.md",
+        "wordCountStart": 1185,
+        "charCountStart": 7392,
+        "changes": [
+          {
+            "timeKey": "11:40",
+            "w": 4,
+            "c": 21
+          },
+          {
+            "timeKey": "14:20",
+            "w": 10,
+            "c": 67
+          },
+          {
+            "timeKey": "16:45",
+            "w": 48,
+            "c": 262
+          },
+          {
+            "timeKey": "16:55",
+            "w": 11,
+            "c": 60
+          },
+          {
+            "timeKey": "17:00",
+            "w": 31,
+            "c": 196
+          },
+          {
+            "timeKey": "17:05",
+            "w": 79,
+            "c": 462
+          },
+          {
+            "timeKey": "20:20",
+            "w": 3,
+            "c": 18
+          }
+        ],
+        "id": 895
+      },
+      {
+        "date": "2026-02-10",
+        "filePath": "10 Workbench/Sikh Fantasy Novel.canvas",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 896
+      },
+      {
+        "date": "2026-02-10",
+        "filePath": "Cards/John and the Maharajah/Research/John and the Maharajah Notes.md",
+        "wordCountStart": 711,
+        "charCountStart": 4428,
+        "changes": [],
+        "id": 897
+      },
+      {
+        "date": "2026-02-10",
+        "filePath": "Cards/Scrivener 2017-2020/Three Generations_2.md",
+        "wordCountStart": 1578,
+        "charCountStart": 8229,
+        "changes": [],
+        "id": 898
+      },
+      {
+        "date": "2026-02-10",
+        "filePath": "00 Private/2025 Bullet Journal.md",
+        "wordCountStart": 3643,
+        "charCountStart": 19997,
+        "changes": [
+          {
+            "timeKey": "20:35",
+            "w": 19,
+            "c": 93
+          },
+          {
+            "timeKey": "20:40",
+            "w": 202,
+            "c": 1020
+          }
+        ],
+        "id": 899
+      },
+      {
+        "date": "2026-02-11",
+        "filePath": "00 Private/2025 Bullet Journal.md",
+        "wordCountStart": 3864,
+        "charCountStart": 21110,
+        "changes": [
+          {
+            "timeKey": "20:40",
+            "w": 75,
+            "c": 399
+          },
+          {
+            "timeKey": "20:45",
+            "w": 183,
+            "c": 979
+          },
+          {
+            "timeKey": "20:50",
+            "w": 21,
+            "c": 94
+          }
+        ],
+        "id": 900
+      },
+      {
+        "date": "2026-02-11",
+        "filePath": "00 Private/2025 Bullet Journal.md",
+        "wordCountStart": 3869,
+        "charCountStart": 21142,
+        "changes": [],
+        "id": 901
+      },
+      {
+        "date": "2026-02-11",
+        "filePath": "10 Workbench/Sikh Fantasy Novel.md",
+        "wordCountStart": 1371,
+        "charCountStart": 8478,
+        "changes": [
+          {
+            "timeKey": "16:10",
+            "w": 12,
+            "c": 66
+          },
+          {
+            "timeKey": "16:15",
+            "w": 30,
+            "c": 184
+          }
+        ],
+        "id": 902
+      },
+      {
+        "date": "2026-02-13",
+        "filePath": "10 Workbench/Sikh Fantasy Novel.md",
+        "wordCountStart": 1413,
+        "charCountStart": 8728,
+        "changes": [
+          {
+            "timeKey": "20:05",
+            "w": 7,
+            "c": 39
+          },
+          {
+            "timeKey": "21:20",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 903
+      },
+      {
+        "date": "2026-02-13",
+        "filePath": "10 Workbench/Sikh Fantasy Novel.md",
+        "wordCountStart": 1420,
+        "charCountStart": 8767,
+        "changes": [
+          {
+            "timeKey": "20:05",
+            "w": 7,
+            "c": 39
+          },
+          {
+            "timeKey": "21:20",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 906
+      },
+      {
+        "date": "2026-02-13",
+        "filePath": "00 Private/Funnels.canvas",
+        "wordCountStart": 783,
+        "charCountStart": 6364,
+        "changes": [],
+        "id": 907
+      },
+      {
+        "date": "2026-02-13",
+        "filePath": "00 Private/Rudder.canvas",
+        "wordCountStart": 22,
+        "charCountStart": 141,
+        "changes": [
+          {
+            "timeKey": "21:15",
+            "w": -22,
+            "c": -141
+          }
+        ],
+        "id": 908
+      },
+      {
+        "date": "2026-02-13",
+        "filePath": "00 Private/Scratchpad.canvas",
+        "wordCountStart": 41,
+        "charCountStart": 248,
+        "changes": [
+          {
+            "timeKey": "21:15",
+            "w": -41,
+            "c": -248
+          }
+        ],
+        "id": 909
+      },
+      {
+        "date": "2026-02-13",
+        "filePath": "00 Private/My 2nd Brain.canvas",
+        "wordCountStart": 201,
+        "charCountStart": 1595,
+        "changes": [],
+        "id": 910
+      },
+      {
+        "date": "2026-02-13",
+        "filePath": "00 Private/Youtube Vid.canvas",
+        "wordCountStart": 241,
+        "charCountStart": 1961,
+        "changes": [],
+        "id": 911
+      },
+      {
+        "date": "2026-02-13",
+        "filePath": "10 Workbench/Sikh Fantasy Novel.canvas",
+        "wordCountStart": 87,
+        "charCountStart": 576,
+        "changes": [],
+        "id": 912
+      },
+      {
+        "date": "2026-02-13",
+        "filePath": "Cards/Scrivener 2017-2020/The Sick Man of Europe_2.md",
+        "wordCountStart": 1794,
+        "charCountStart": 9055,
+        "changes": [],
+        "id": 913
+      },
+      {
+        "date": "2026-02-13",
+        "filePath": "Cards/Scrivener 2017-2020/The Mercantilist_4.md",
+        "wordCountStart": 54457,
+        "charCountStart": 722565,
+        "changes": [],
+        "id": 914
+      },
+      {
+        "date": "2026-02-13",
+        "filePath": "Cards/Scrivener 2017-2020/Short story for Kat.md",
+        "wordCountStart": 1010,
+        "charCountStart": 5160,
+        "changes": [],
+        "id": 915
+      },
+      {
+        "date": "2026-02-13",
+        "filePath": "Cards/Scrivener 2017-2020/Self-Help_2.md",
+        "wordCountStart": 1079,
+        "charCountStart": 5845,
+        "changes": [],
+        "id": 916
+      },
+      {
+        "date": "2026-02-13",
+        "filePath": "Cards/Scrivener 2017-2020/Sarah's File.md",
+        "wordCountStart": 18,
+        "charCountStart": 167,
+        "changes": [],
+        "id": 917
+      },
+      {
+        "date": "2026-02-13",
+        "filePath": "Cards/Scrivener 2017-2020/README.md",
+        "wordCountStart": 364,
+        "charCountStart": 2579,
+        "changes": [],
+        "id": 918
+      },
+      {
+        "date": "2026-02-13",
+        "filePath": "Cards/Scrivener 2017-2020/Never Heard Of It_4.md",
+        "wordCountStart": 1450,
+        "charCountStart": 7173,
+        "changes": [],
+        "id": 919
+      },
+      {
+        "date": "2026-02-13",
+        "filePath": "Cards/Scrivener 2017-2020/Jars_2.md",
+        "wordCountStart": 1790,
+        "charCountStart": 9389,
+        "changes": [],
+        "id": 920
+      },
+      {
+        "date": "2026-02-13",
+        "filePath": "Cards/Scrivener 2017-2020/Going Places_1.md",
+        "wordCountStart": 1456,
+        "charCountStart": 7229,
+        "changes": [],
+        "id": 921
+      },
+      {
+        "date": "2026-02-13",
+        "filePath": "Cards/Scrivener 2017-2020/From Pawn to Player_2.md",
+        "wordCountStart": 2010,
+        "charCountStart": 61628,
+        "changes": [],
+        "id": 922
+      },
+      {
+        "date": "2026-02-13",
+        "filePath": "Cards/Scrivener 2017-2020/Epic.md",
+        "wordCountStart": 105,
+        "charCountStart": 635,
+        "changes": [],
+        "id": 923
+      },
+      {
+        "date": "2026-02-13",
+        "filePath": "Cards/Scrivener 2017-2020/Delivery.md",
+        "wordCountStart": 6383,
+        "charCountStart": 33269,
+        "changes": [],
+        "id": 924
+      },
+      {
+        "date": "2026-02-13",
+        "filePath": "Cards/Scrivener 2017-2020/Alexandria.md",
+        "wordCountStart": 300,
+        "charCountStart": 1710,
+        "changes": [],
+        "id": 925
+      },
+      {
+        "date": "2026-02-13",
+        "filePath": "Cards/Scrivener 2017-2020/-40.md",
+        "wordCountStart": 44651,
+        "charCountStart": 233524,
+        "changes": [],
+        "id": 926
       }
     ]
   }

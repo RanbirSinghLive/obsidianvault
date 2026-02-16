@@ -174,22 +174,43 @@ Here's to a blessed week. Thank you all.
 1S - Finding the perfect bassinet attachment on sale on our block and going to pick it up for spring walks to come.
 2S - Trying to adapt Khivi's wake schedule for more naptime sleep. Anu coming over to cook us dinner.
 3M - Taking Khivi to Natasha, her new chiropractor and learning how to ease her tension, followed by her having a giant poop!
-4T - Our first stroller walk to Centre street -> getting a sandwich at Clarks with a latte. Feeling optimistic
+4T - Our first stroller walk to Centre street -> getting a sandwich at Clarks with a latte. Feeling optimistic. Getting our Bienvenue Bebe box
 5W - Ordering Kioko for our wedding anniversary. Giviing Khivi her first real bath followed by my two girls napping peacefully.
 6T - Getting a late night call the night prior that Manveer had died on a trip to Thailand. Rest In Pease.
 7F - Having the best unassisted sleep since having Khivi. Calling Manveer's mum to give condolences and regretting his fate.
 8S - A tense moment with Sarah reminded me to trust her and confide that I'm feeling tired and stressed. We're in it together.
 9S - Getting a banquet of homemade food from Misha, who came over to help us today and sign the baby book.
-10M - 
-
-**CONTINUE**
+10M - Trying out the Love To Dream Swaddle. There's so much to worry about with an infant's safety.
+11T - Khivi weighing in at 6lb 14 oz at Dr Aubin's office.
+12W - Keeping tabs on the neverending saga of tariffs from the Trump government and threats of annexation - wild times.
+13T - Khivi hit 7lbs weight. The doctor said we can stop waking her up at night and stop tracking stats. What a milestone!
+14F - A great night's sleep for me but Sarah was fitful. A great spring walk to Detour - getting a new cookie?
+15S - Cleaning out the future nursery in advance of Frankie's visit. Getting hooked on Balatro after learning it from JJ
+16S - Sarah trying to get the bassinet up the stairs and nursery alone on my last day of paternity leave
+17M - Great 1st day back at work with well wishes from colleagues and actively helping Sarah take care of Khivi
+18T - Beginning the Jazz Cost Reduction exercise with McKinsey and Oliver Wyman. This will be pivotal
+19W - Khivi started crying on a walk on a 16 degree day and I was able to soothe her by holding her arms and shushing her. It feels good to know my baby better
+20T - Alex telling me Landline is in trouble and telling Nick right away. Warned about it's future
+21F - Sarah and Khivi doing their 1st solo walk to Centre Street to see Nurse Natalie. So proud of them!
+22S - My first 'weekend' after starting work. Long walk to PSC lookout where we saw another family looking out lol
+23S - Digging deep into Channel 5 with Andrew Calligan and being impressed by his mission and maturity at 27
+24M - Seeing Jethro Beattie-Booth, my new family doctor, for the first time. Getting advice on my health.
+25T - Nick coming over to wish us well and see Khivi. Brook and him gave us toys and books for Khivi
+26W - A lovely birthday evening with Melissa, mum and my girls. Ordering pizza and Sarah making a choco ice cream cake.
+27T - Advising Nick and the team that the Landline contract will end. This is the tough part of the job
+28F - Having a 'hail mary' meeting with Alex and Landline. Thinking of book idea "AI's Guide to the Human Mind"
+29S - Starting to read The Scaling Era by Dwarkesh Patel. A chunk of the wooden fire escape across the alley fell off
+30S - Family lunch downstairs. Speaking punjabi with mum and Khivi. Thinking of teaching her sign language cues like Will
+31M - Resuming my Protocols for New Life article. Getting used to asking AI for answers instead of Google
 ### Outlook:
-2 more weeks of pat leave. Getting ready to transition back to work & calling Jazz consultant. Extension. Support Sarah's transition to solo say time. Parents will our extended networks.
+2 more weeks of pat leave. Getting breast feeding locked in. Getting Khivi's IDs in hand. Returning to work and killing Jazz Cost Reduction and Landline Extension. Supporting Sarah's transition to solo daytime parenting with our extended network.
 
 ### Review:
-A blissful end to pat-leave - one of least hours of my wife. 8 month feeling success! Still caring Khivi's. Landline determination was a good ponch about it's part of the job too.
+A blissful end to pat-leave - one of best times of my life. Breastfeeding success! Still awaiting Khivi's IDs lol. Landline termination was a gut punch but it's part of the job too. Manveer's passing was a shock. Sarah has made me proud caring for Khivi on her own. Pleasantly surprised by Melissa's attentiveness and care/help
 
-[Daily entries continue tracking family life, work transitions, and baby milestones]
+04MAR:
+
+**CONTINUE**
 
 ---
 
